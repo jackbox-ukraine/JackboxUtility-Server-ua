@@ -2,13 +2,13 @@
     "id":"jackbox-fr",
     "name":"Jackbox Ukraine",
     "description":"Le serveur d'installation de patch pour la communauté française !",
-    "image":"https://raw.githubusercontent.com/VladGraund/JackboxUtility-Server-ua/main/assets/news_images/logo.png",
+    "image":"https://raw.githubusercontent.com/VladGraund/JackboxUtility-Server-ua/dev/assets/news_images/logo.png",
 
     "urls":[
         {
             "versions":["1.0.0"],
-            "api":"https://raw.githubusercontent.com/VladGraund/JackboxUtility-Server-ua/main/api/v2/",
-            "assets":"https://raw.githubusercontent.com/VladGraund/JackboxUtility-Server-ua/main/assets"
+            "api":"https://raw.githubusercontent.com/VladGraund/JackboxUtility-Server-ua/dev/api/v2/",
+            "assets":"https://raw.githubusercontent.com/VladGraund/JackboxUtility-Server-ua/dev/assets"
         }
     ],
     "controller":"jackbox.in.ua",
