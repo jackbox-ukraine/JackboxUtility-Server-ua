@@ -1953,237 +1953,236 @@
         "background":"backgrounds/jpstarter.jpg"
     },
     {
-    "id": "fbxl",
-    "name": "Fibbage XL",
-    "description": "Окремо випущена Fibbage XL з першого Jackbox Party Pack",
-    "launchers_id": {
-        "steam": "448080"
-    },
-    "executables": {
-        "windows": "Fibbage XL.exe",
-        "mac": "Fibbage XL.app/Contents/MacOS/Fibbage XL",
-        "linux": "Launcher.sh"
-    },
-    "configuration": {
-        "file": "jbg.config.jet",
-        "version_property": "buildVersion",
-        "version_origin": "game_file",
-        "version_file": "jbg.config.jet"
-    },
-    "loader": {
-        "path": "loaders/standalones/default.zip",
-        "version": "1.0.0"
-    },
-    "patchs": [
-    
-    ],
-    "games": [
-        {
-            "id": "fibbagexl_standalone",
-            "name": "Fibbage XL",
-            "background": "game_backgrounds/FibbageXLStandalone.webp",
-            "path": "",
-            "game_info": {
-                "players": {
-                    "min": 2,
-                    "max": 8
+        "id": "fbxl",
+        "name": "Fibbage XL",
+        "description": "Окремо випущена Fibbage XL з першого Jackbox Party Pack",
+        "launchers_id": {
+            "steam": "448080"
+        },
+        "executables": {
+            "windows": "Fibbage XL.exe",
+            "mac": "Fibbage XL.app/Contents/MacOS/Fibbage XL",
+            "linux": "Launcher.sh"
+        },
+        "configuration": {
+            "file": "jbg.config.jet",
+            "version_property": "buildVersion",
+            "version_origin": "game_file",
+            "version_file": "jbg.config.jet"
+        },
+        "loader": {
+            "path": "loaders/standalones/default.zip",
+            "version": "1.0.0"
+        },
+        "patchs": [
+        
+        ],
+        "games": [
+            {
+                "id": "fibbagexl_standalone",
+                "name": "Fibbage XL",
+                "background": "game_backgrounds/FibbageXLStandalone.webp",
+                "path": "",
+                "game_info": {
+                    "players": {
+                        "min": 2,
+                        "max": 8
+                    },
+                    "length": "15 - 20 хвилин",
+                    "type": "VERSUS",
+                    "translation": "ENGLISH",
+                "tagline":"Нехай переможе найкращий брехун!",
+                "small_description":"Обдуріть друзів, уникаючи їх брехні та дізнавайтеся (зазвичай обурливу) правду.",
+                "description":"**Fibbage XL** — гра призначена для 2–8 гравців і є доповненням до окремої гри, яку Jackbox Games випустили до набору з новими наборами запитань. У перших двох раундах гри кожен гравець вибирає одну з п'яти випадкових категорій, і незрозумілий факт представляється всім гравцям із пропущеним словом або фразою, щоб завершити його. Кожен гравець використовує свій локальний пристрій, щоб ввести ці пропущені слова; якщо вони введуть справжню правильну відповідь, їх попросять ввести щось інше, і якщо вони не зможуть ввести відповідь до закінчення таймера, вони можуть натиснути кнопку «збрехати за мене» та вибрати між двома згенерованими грою словосполученнями на вибір. Потім гра представляє всі відповіді, включаючи правильну, гравцям, які потім обирають правильну, на їхню думку, відповідь. Гравці нараховують бали за вибір правильної відповіді, але також можуть отримати бали, якщо інші гравці вибирають їхню відповідь, тому гравців заохочують давати, на перший погляд, правильні відповіді для своїх відповідей. Гравці втрачають бали за вибір неправильної відповіді, яку написала сама гра. У фінальному раунді, «The Final Fibbage», надається ще одне запитання, на яке всі гравці мають відповісти. Перемагає гравець, який набрав найбільшу кількість очок.",
+                    "images": [
+                        "game_images/FibbageXL/fibbagexl_1.webp",
+                        "game_images/FibbageXL/fibbagexl_2.webp",
+                        "game_images/FibbageXL/fibbagexl_3.webp"
+                    ],
+                    "tags": [
+                        "knowledge",
+                        "writing"
+                    ]
                 },
-                "length": "15 - 20 хвилин",
-                "type": "VERSUS",
-                "translation": "ENGLISH",
-            "tagline":"Нехай переможе найкращий брехун!",
-            "small_description":"Обдуріть друзів, уникаючи їх брехні та дізнавайтеся (зазвичай обурливу) правду.",
-            "description":"**Fibbage XL** — гра призначена для 2–8 гравців і є доповненням до окремої гри, яку Jackbox Games випустили до набору з новими наборами запитань. У перших двох раундах гри кожен гравець вибирає одну з п'яти випадкових категорій, і незрозумілий факт представляється всім гравцям із пропущеним словом або фразою, щоб завершити його. Кожен гравець використовує свій локальний пристрій, щоб ввести ці пропущені слова; якщо вони введуть справжню правильну відповідь, їх попросять ввести щось інше, і якщо вони не зможуть ввести відповідь до закінчення таймера, вони можуть натиснути кнопку «збрехати за мене» та вибрати між двома згенерованими грою словосполученнями на вибір. Потім гра представляє всі відповіді, включаючи правильну, гравцям, які потім обирають правильну, на їхню думку, відповідь. Гравці нараховують бали за вибір правильної відповіді, але також можуть отримати бали, якщо інші гравці вибирають їхню відповідь, тому гравців заохочують давати, на перший погляд, правильні відповіді для своїх відповідей. Гравці втрачають бали за вибір неправильної відповіді, яку написала сама гра. У фінальному раунді, «The Final Fibbage», надається ще одне запитання, на яке всі гравці мають відповісти. Перемагає гравець, який набрав найбільшу кількість очок.",
-                "images": [
-                    "game_images/FibbageXL/fibbagexl_1.webp",
-                    "game_images/FibbageXL/fibbagexl_2.webp",
-                    "game_images/FibbageXL/fibbagexl_3.webp"
-                ],
-                "tags": [
-                    "knowledge",
-                    "writing"
-                ]
-            },
-            "loader": {
-                "path": "loaders/standalones/standalones.zip",
-                "version": "1.0.0"
-            },
-            "patchs": [
-            
-            ]
-        }
-    ],
-    "icon": "fbxl.ico",
-    "background": "backgrounds/fbxl.jpg"
-},
-{
-    "id": "quip",
-    "name": "Quiplash",
-    "description": "Окрема гра з серії Jackbox Party Pack",
-    "launchers_id": {
-        "steam": "351510"
-    },
-    "executables": {
-        "windows": "Quiplash.exe",
-        "mac": "Quiplash.app/Contents/MacOS/Quiplash",
-        "linux": "Launcher.sh"
-    },
-    "loader": {
-        "path": "loaders/standalones/default.zip",
-        "version": "1.0.0"
-    },
-    "patchs": [
-    
-    ],
-    "games": [
-        {
-            "id": "quiplash",
-            "name": "Quiplash",
-            "background": "game_backgrounds/Quiplash.webp",
-            "path": "",
-            "game_info": {
-                "players": {
-                    "min": 3,
-                    "max": 8
+                "loader": {
+                    "path": "loaders/standalones/standalones.zip",
+                    "version": "1.0.0"
                 },
-                "length": "15 - 20 хвилин",
-                "type": "VERSUS",
-                "translation": "ENGLISH",
-                "tagline": "Будьте найкумеднішими!",
-                "small_description": "Захоплююча вечіркова гра без правил, де можна говорити все, що завгодно!",
-                "description": "*Опису ще немає* :_(",
-                "images": [
-                    "game_images/QuiplashXL/quiplashxl_1.webp",
-                    "game_images/QuiplashXL/quiplashxl_2.webp",
-                    "game_images/QuiplashXL/quiplashxl_3.webp",
-                    "game_images/QuiplashXL/quiplashxl_4.webp"
-                ],
-                "tags": [
-                    "writing"
+                "patchs": [
+                
                 ]
-            },
-            "loader": {
-                "path": "loaders/standalones/standalones.zip",
-                "version": "1.0.0"
-            },
-            "patchs": []
-        }
-    ],
-    "icon": "quip.ico",
-    "background": "backgrounds/quip.jpg"
-},
-{
-    "id": "quip2int",
-    "name": "Quiplash 2 InterLASHional",
-    "description": "Версія Quiplash 2 з офіційно доданими чотирма новими мовами",
-    "launchers_id": {
-        "steam": "1111940"
+            }
+        ],
+        "icon": "fbxl.ico",
+        "background": "backgrounds/fbxl.jpg"
     },
-    "executables": {
-        "windows": "Quiplash 2 InterLASHional.exe",
-        "mac": "Quiplash 2 InterLASHional.app/Contents/MacOS/Quiplash 2 InterLASHional",
-        "linux": "Launcher.sh"
-    },
-    "loader": {
-        "path": "loaders/standalones/default.zip",
-        "version": "1.0.0"
-    },
-    "patchs": [
-    
-    ],
-    "games": [
-        {
-            "id": "quiplash2interlashional",
-            "name": "Quiplash 2 InterLASHional",
-            "background": "game_backgrounds/Quiplash2InterLASHional.webp",
-            "path": "",
-            "game_info": {
-                "players": {
-                    "min": 3,
-                    "max": 8
+    {
+        "id": "quip",
+        "name": "Quiplash",
+        "description": "Окрема гра з серії Jackbox Party Pack",
+        "launchers_id": {
+            "steam": "351510"
+        },
+        "executables": {
+            "windows": "Quiplash.exe",
+            "mac": "Quiplash.app/Contents/MacOS/Quiplash",
+            "linux": "Launcher.sh"
+        },
+        "loader": {
+            "path": "loaders/standalones/default.zip",
+            "version": "1.0.0"
+        },
+        "patchs": [
+        
+        ],
+        "games": [
+            {
+                "id": "quiplash",
+                "name": "Quiplash",
+                "background": "game_backgrounds/Quiplash.webp",
+                "path": "",
+                "game_info": {
+                    "players": {
+                        "min": 3,
+                        "max": 8
+                    },
+                    "length": "15 - 20 хвилин",
+                    "type": "VERSUS",
+                    "translation": "ENGLISH",
+                    "tagline": "Будьте найкумеднішими!",
+                    "small_description": "Захоплююча вечіркова гра без правил, де можна говорити все, що завгодно!",
+                    "description": "*Опису ще немає* :_(",
+                    "images": [
+                        "game_images/QuiplashXL/quiplashxl_1.webp",
+                        "game_images/QuiplashXL/quiplashxl_2.webp",
+                        "game_images/QuiplashXL/quiplashxl_3.webp",
+                        "game_images/QuiplashXL/quiplashxl_4.webp"
+                    ],
+                    "tags": [
+                        "writing"
+                    ]
                 },
-                "length": "15 - 20 хвилин",
-                "type": "VERSUS",
-                "translation": "COMMUNITY_TRANSLATED",
-                "tagline": "Будьте найкумеднішими!",
-                "small_description": "Гра «Скажи що завгодно» виходить на міжнародний рівень! Весь веселий контент з Quiplash 2 тепер 4 новими мовами! З 100 НОВИМИ підказками на кожній мові!",
-                "description": "*Опису ще немає* :_(",
-                "images": [
-                    "game_images/Quiplash2InterLASHional/quiplash2interlashional_1.webp",
-                    "game_images/Quiplash2InterLASHional/quiplash2interlashional_2.webp",
-                    "game_images/Quiplash2InterLASHional/quiplash2interlashional_3.webp",
-                    "game_images/Quiplash2InterLASHional/quiplash2interlashional_4.webp"
-                ],
-                "tags": [
-                    "writing"
-                ]
-            },
-            "loader": {
-                "path": "loaders/standalones/standalones.zip",
-                "version": "1.0.0"
-            },
-            "patchs": []
-        }
-    ],
-    "icon": "quip2int.ico",
-    "background": "backgrounds/quip2int.jpg"
-},
-{
-    "id": "df2",
-    "name": "Drawful 2",
-    "description": "",
-    "launchers_id": {
-        "steam": "442070"
-    },
-    "executables": {
-        "windows": "Drawful 2.exe",
-        "mac": "Drawful 2.app/Contents/MacOS/Drawful 2",
-        "linux": "Launcher.sh"
-    },
-    "loader": {
-        "path": "loaders/df2/default.zip",
-        "version": "1.0.0"
-    },
-    "patchs": [
-    
-            ]
-        }
-    ],
-    "games": [
-        {
-            "id": "drawful_2",
-            "name": "Drawful 2",
-            "background": "game_backgrounds/Drawful2.webp",
-            "path": "",
-            "game_info": {
-                "players": {
-                    "min": 3,
-                    "max": 8
+                "loader": {
+                    "path": "loaders/standalones/standalones.zip",
+                    "version": "1.0.0"
                 },
-                "length": "15 - 20 хвилин",
-                "type": "VERSUS",
-                "translation": "COMMUNITY_DUBBED",
-                "tagline": "Що це таке намальовано?",
-                "small_description": "Гра в жахливі малюнки та кумедні неправильні відповіді.",
-                "description": "*Опису ще немає* :_(",
-                "images": [
-                    "game_images/Drawful2/drawful2_1.webp",
-                    "game_images/Drawful2/drawful2_2.webp",
-                    "game_images/Drawful2/drawful2_3.webp",
-                    "game_images/Drawful2/drawful2_4.webp"
-                ],
-                "tags": [
-                    "drawing"
+                "patchs": []
+            }
+        ],
+        "icon": "quip.ico",
+        "background": "backgrounds/quip.jpg"
+    },
+    {
+        "id": "quip2int",
+        "name": "Quiplash 2 InterLASHional",
+        "description": "Версія Quiplash 2 з офіційно доданими чотирма новими мовами",
+        "launchers_id": {
+            "steam": "1111940"
+        },
+        "executables": {
+            "windows": "Quiplash 2 InterLASHional.exe",
+            "mac": "Quiplash 2 InterLASHional.app/Contents/MacOS/Quiplash 2 InterLASHional",
+            "linux": "Launcher.sh"
+        },
+        "loader": {
+            "path": "loaders/standalones/default.zip",
+            "version": "1.0.0"
+        },
+        "patchs": [
+        
+        ],
+        "games": [
+            {
+                "id": "quiplash2interlashional",
+                "name": "Quiplash 2 InterLASHional",
+                "background": "game_backgrounds/Quiplash2InterLASHional.webp",
+                "path": "",
+                "game_info": {
+                    "players": {
+                        "min": 3,
+                        "max": 8
+                    },
+                    "length": "15 - 20 хвилин",
+                    "type": "VERSUS",
+                    "translation": "COMMUNITY_TRANSLATED",
+                    "tagline": "Будьте найкумеднішими!",
+                    "small_description": "Гра «Скажи що завгодно» виходить на міжнародний рівень! Весь веселий контент з Quiplash 2 тепер 4 новими мовами! З 100 НОВИМИ підказками на кожній мові!",
+                    "description": "*Опису ще немає* :_(",
+                    "images": [
+                        "game_images/Quiplash2InterLASHional/quiplash2interlashional_1.webp",
+                        "game_images/Quiplash2InterLASHional/quiplash2interlashional_2.webp",
+                        "game_images/Quiplash2InterLASHional/quiplash2interlashional_3.webp",
+                        "game_images/Quiplash2InterLASHional/quiplash2interlashional_4.webp"
+                    ],
+                    "tags": [
+                        "writing"
+                    ]
+                },
+                "loader": {
+                    "path": "loaders/standalones/standalones.zip",
+                    "version": "1.0.0"
+                },
+                "patchs": []
+            }
+        ],
+        "icon": "quip2int.ico",
+        "background": "backgrounds/quip2int.jpg"
+    },
+    {
+        "id": "df2",
+        "name": "Drawful 2",
+        "description": "",
+        "launchers_id": {
+            "steam": "442070"
+        },
+        "executables": {
+            "windows": "Drawful 2.exe",
+            "mac": "Drawful 2.app/Contents/MacOS/Drawful 2",
+            "linux": "Launcher.sh"
+        },
+        "loader": {
+            "path": "loaders/df2/default.zip",
+            "version": "1.0.0"
+        },
+        "patchs": [
+        ],
+        "games": [
+            {
+                "id": "drawful_2",
+                "name": "Drawful 2",
+                "background": "game_backgrounds/Drawful2.webp",
+                "path": "",
+                "game_info": {
+                    "players": {
+                        "min": 3,
+                        "max": 8
+                    },
+                    "length": "15 - 20 хвилин",
+                    "type": "VERSUS",
+                    "translation": "COMMUNITY_DUBBED",
+                    "tagline": "Що це таке намальовано?",
+                    "small_description": "Гра в жахливі малюнки та кумедні неправильні відповіді.",
+                    "description": "*Опису ще немає* :_(",
+                    "images": [
+                        "game_images/Drawful2/drawful2_1.webp",
+                        "game_images/Drawful2/drawful2_2.webp",
+                        "game_images/Drawful2/drawful2_3.webp",
+                        "game_images/Drawful2/drawful2_4.webp"
+                    ],
+                    "tags": [
+                        "drawing"
+                    ]
+                },
+                "loader": {
+                    "path": "loaders/df2/drawful2.zip",
+                    "version": "1.0.0"
+                },
+                "patchs": [
                 ]
-            },
-            "loader": {
-                "path": "loaders/df2/drawful2.zip",
-                "version": "1.0.0"
-            },
-            "patchs": [
-            ]
-        }
-    ],
-    "icon": "df2.ico",
-    "background": "backgrounds/df2.jpg"
+            }
+        ],
+        "icon": "df2.ico",
+        "background": "backgrounds/df2.jpg"
+    }
+]
 }
