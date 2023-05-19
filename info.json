@@ -1,7 +1,7 @@
 {
     "id":"jackbox-fr",
     "name":"Jackbox Ukraine",
-    "description":"Le serveur d'installation de patch pour la communauté française !",
+    "description":"Перша українська спілка з локалізації ігор Jackbox Games",
     "image":"https://raw.githubusercontent.com/VladGraund/JackboxUtility-Server-ua/dev/assets/news_images/logo.png",
 
     "urls":[
@@ -15,14 +15,24 @@
     "languages":["uk"],
     "links":[
     	{
-            "icon":"globe",
-            "url":"http://blog.laboxdejack.fr/",
-            "text":"Blog"
+            "icon":"patreon",
+            "url":"https://www.patreon.com/jackbox_ukraine",
+            "text":"Патреон"
         },
         {
             "icon":"discord",
             "url":"https://discord.gg/XhwPfUrCEx",
-            "text":"Discord"
+            "text":"Діскорд"
+        },
+        {
+            "icon":"telegram",
+            "url":"https://t.me/JackboxUKR",
+            "text":"Телеграм"
+        },
+        {
+            "icon":"monobank",
+            "url":"https://send.monobank.ua/jar/2psRdtxDQt",
+            "text":"Збір на 28 бригаду"
         }
     ]
 }
