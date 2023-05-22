@@ -34,10 +34,12 @@
     "patchsCategories":
     [
 	{
-	    "id":"french_patchs",
+	    "id":"ukrainian_patchs",
 	    "name":"Українські переклади",
 	    "smallDescription":"від Jackbox Ukraine",
-	    "patchs":["bombcorp_fr","bidiots_fr","monsterseekingmonster_fr","bracketeering_fr","splittheroom_fr","patentlystupid_fr","jokeboat_fr","dictionarium_fr","pushthebutton_fr","champdup_fr","talkingpoints_fr","thedevilsandthedetails_fr","jobjob_fr","thepollmine_fr","weaponsdrawn_fr"]
+	    "patchs":[
+            "jpp3_ua"
+        ]
 	}
     ],
     "packs":[
@@ -449,6 +451,98 @@
             "path":"loaders/tjpp3/default.zip",
             "version":"1.0.0"
         },
+        "patchs": [
+            {
+                "id": "jpp3_ua",
+                "name": "Назва паку",
+                "small_description": "Це маленький заголовок",
+                "description": "Це звичайний заголовок",
+                "version": "Build:  13.5-UK",
+                "patch_path": "https://github.com/easysugar/jackbox-pack-3/releases/download/v1.2/JPP3-v1.2.zip",
+                "configuration": {
+                    "version_origin":"repo_file",
+                    "version_file":"https://github.com/VladGraund/jpp-3-test/blob/main/config.jet",
+                    "version_property":"buildVersion"
+                },
+                "components": [
+                    {
+                        "id": "fakinit_patch",
+                        "linked_game": "fakinit",
+                        "name": "Fakin' It",
+                        "description": "Опис надурисвіта",
+                        "authors": "Jackbox Ukraine",
+                        "small_description": "Малий опис чогось я не знаю",
+                        "patch_type": {
+                            "game_text": true,
+                            "game_assets": true,
+                            "game_subtitles": false,
+                            "website": true,
+                            "audios": true
+                        }
+                    },
+                    {
+                        "id": "quiplash2_patch",
+                        "linked_game": "quiplash2",
+                        "name": "Quiplash 2",
+                        "description": "Englisch. Für die deutsche Version wird Quiplash 2 InterLASHional (separat erhältlich) benötigt.",
+                        "authors": "Team Gamechanger",
+                        "small_description": "Englisch. Für die deutsche Version wird Quiplash 2 InterLASHional (separat erhältlich) benötigt.",
+                        "patch_type": {
+                            "game_text": false,
+                            "game_assets": false,
+                            "game_subtitles": false,
+                            "website": false,
+                            "audios": false
+                        }
+                    },
+                    {
+                        "id": "triviamurderparty_patch",
+                        "linked_game": "triviamurderparty",
+                        "name": "Trivia Murder Party",
+                        "description": "Prompts und Sprachausgabe auf Deutsch.",
+                        "authors": "Team Gamechanger",
+                        "small_description": "Prompts und Sprachausgabe auf Deutsch.",
+                        "patch_type": {
+                            "game_text": true,
+                            "game_assets": true,
+                            "game_subtitles": false,
+                            "website": true,
+                            "audios": false
+                        }
+                    },
+                    {
+                        "id": "teeko_patch",
+                        "linked_game": "teeko",
+                        "name": "Tee K.O.",
+                        "description": "Englisch. Für die deutsche Version wird The Jackbox Party Starter (separat erhältlich) benötigt.",
+                        "authors": "Team Gamechanger",
+                        "small_description": "Englisch. Für die deutsche Version wird The Jackbox Party Starter (separat erhältlich) benötigt.",
+                        "patch_type": {
+                            "game_text": false,
+                            "game_assets": false,
+                            "game_subtitles": false,
+                            "website": false,
+                            "audios": false
+                        }
+                    },
+                    {
+                        "id": "guesspionage_patch",
+                        "linked_game": "guesspionage",
+                        "name": "Guesspionage",
+                        "description": "Prompts und Sprachausgabe auf Deutsch.",
+                        "authors": "Team Gamechanger",
+                        "small_description": "Prompts und Sprachausgabe auf Deutsch.",
+                        "patch_type": {
+                            "game_text": true,
+                            "game_assets": true,
+                            "game_subtitles": false,
+                            "website": true,
+                            "audios": true
+                        }
+                    }
+                ]
+            }
+        ],
         "games":[
             {
                 "id":"fakinit",
