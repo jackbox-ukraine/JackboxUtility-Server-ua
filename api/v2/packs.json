@@ -38,7 +38,9 @@
             "smallDescription": "від Jackbox Ukraine",
             "patchs": [
                 "jpp3_ua",
-                "jpstarter_ua"
+                "jpstarter_ua",
+                "df2_ua",
+                "quip2int_ua"
             ]
         }
     ],
@@ -2072,11 +2074,42 @@
                 "path": "loaders/standalones/default.zip",
                 "version": "1.0.0"
             },
-            "patchs": [],
+            "patchs": [
+                {
+                    "id": "quip2int_ua",
+                    "name": "Сміхрясь 2 МіжСМІХціональний",
+                    "small_description": "Тексовий перекклад гри Сміхрясь 2",
+                    "description": "Тексовий перекклад гри Сміхрясь 2",
+                    "version": "Build:  141.5-UK",
+                    "patch_path": "https://github.com/easysugar/jackbox-quiplash2-ua/releases/download/v0.3.1/quiplash2-ua-v0.3.1.zip",
+                    "configuration": {
+						"version_origin":"repo_file",
+						"version_file":"https://raw.githubusercontent.com/easysugar/jackbox-quiplash2-ua/main/jbg.config.jet",
+						"version_property":"buildVersion"
+					},
+                    "components": [
+                        {
+                            "id": "quiplash2interlashional_patch",
+                            "linked_game": "quiplash2interlashional",
+                            "name": "Сміхрясь 2 МіжСМІХціональний",
+                            "description": "Текстовий переклад гри без озвучки.",
+                            "authors": "Jackbox Ukraine",
+                            "small_description": "Текстовий переклад гри без озвучки",
+                            "patch_type": {
+                                "game_text": true,
+                                "game_assets": true,
+                                "game_subtitles": false,
+                                "website": true,
+                                "audios": false
+                            }
+                        }
+                    ]
+                }
+            ],
             "games": [
                 {
                     "id": "quiplash2interlashional",
-                    "name": "Quiplash 2 InterLASHional",
+                    "name": "Сміхрясь 2 МіжСМІХціональний",
                     "background": "game_backgrounds/Quiplash2InterLASHional.webp",
                     "path": "",
                     "game_info": {
@@ -2126,11 +2159,42 @@
                 "path": "loaders/df2/default.zip",
                 "version": "1.0.0"
             },
-            "patchs": [],
+            "patchs": [
+                {
+                    "id": "df2_ua",
+                    "name": "Drawful 2",
+                    "small_description": "Текстовий переклад і озвучка до гри Малювач 2",
+                    "description": "Текстовий переклад і озвучка до гри Малювач 2",
+                    "version": "150.6-UK",
+                    "patch_path": "https://github.com/easysugar/jackbox-drawful-2-ua/releases/download/v1.0.1/Drawful2-v1.0.1.zip",
+                    "configuration": {
+                        "version_origin": "repo_file",
+                        "version_file": "https://raw.githubusercontent.com/easysugar/jackbox-drawful-2-ua/main/jbg.config.jet",
+                        "version_property": "buildVersion"
+                    },
+                    "components": [
+                        {
+                            "id": "drawful_2_patch",
+                            "linked_game": "drawful_2",
+                            "name": "Малювач 2",
+                            "description": "Повний переклад гри з озвучкою.",
+                            "authors": "Jackbox Ukraine, Lunar Shadow",
+                            "small_description": "Повний переклад гри з озвучкою",
+                            "patch_type": {
+                                "game_text": true,
+                                "game_assets": true,
+                                "game_subtitles": false,
+                                "website": true,
+                                "audios": true
+                            }
+                        }
+                    ]
+                }
+            ],
             "games": [
                 {
                     "id": "drawful_2",
-                    "name": "Drawful 2",
+                    "name": "Малювач 2",
                     "background": "game_backgrounds/Drawful2.webp",
                     "path": "",
                     "game_info": {
