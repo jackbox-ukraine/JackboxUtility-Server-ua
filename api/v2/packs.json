@@ -37,7 +37,8 @@
             "name": "Українські переклади",
             "smallDescription": "від Jackbox Ukraine",
             "patchs": [
-                "jpp3_ua"
+                "jpp3_ua",
+                "jpstarter_ua"
             ]
         }
     ],
@@ -427,7 +428,7 @@
                     "patch_path": "https://github.com/easysugar/jackbox-pack-3/releases/download/v1.2/JPP3-v1.2.zip",
                     "configuration": {
                         "version_origin": "repo_file",
-                        "version_file": "https://github.com/easysugar/jackbox-pack-3/blob/main/config.jet",
+                        "version_file": "https://raw.githubusercontent.com/easysugar/jackbox-pack-3/main/config.jet",
                         "version_property": "buildVersion"
                     },
                     "components": [
@@ -435,9 +436,9 @@
                             "id": "fakinit_patch",
                             "linked_game": "fakinit",
                             "name": "Надурисвіт",
-                            "description": "Повний текстовий переклад гри без озвучки",
+                            "description": "Повний текстовий переклад гри без озвучки.",
                             "authors": "Jackbox Ukraine",
-                            "small_description": "Повний текстовий переклад гри без озвучки.",
+                            "small_description": "Повний текстовий переклад гри без озвучки",
                             "patch_type": {
                                 "game_text": true,
                                 "game_assets": true,
@@ -450,9 +451,9 @@
                             "id": "quiplash2_patch",
                             "linked_game": "quiplash2",
                             "name": "Сміхрясь 2",
-                            "description": "Повний текстовий переклад гри без озвучки",
+                            "description": "Повний текстовий переклад гри без озвучки.",
                             "authors": "Jackbox Ukraine",
-                            "small_description": "Повний текстовий переклад гри без озвучки.",
+                            "small_description": "Повний текстовий переклад гри без озвучки",
                             "patch_type": {
                                 "game_text": true,
                                 "game_assets": true,
@@ -464,10 +465,10 @@
                         {
                             "id": "teeko_patch",
                             "linked_game": "teeko",
-                            "name": "Tee K.O.",
-                            "description": "Повний переклад гри з озвучкою",
+                            "name": "Футбол К.О.",
+                            "description": "Повний переклад гри з озвучкою.",
                             "authors": "Jackbox Ukraine, Падон",
-                            "small_description": "Повний переклад гри з озвучкою.",
+                            "small_description": "Повний переклад гри з озвучкою",
                             "patch_type": {
                                 "game_text": true,
                                 "game_assets": true,
@@ -479,10 +480,10 @@
                         {
                             "id": "guesspionage_patch",
                             "linked_game": "guesspionage",
-                            "name": "Guesspionage",
-                            "description": "Повний текстовий переклад гри без озвучки",
+                            "name": "Шпигадаш",
+                            "description": "Повний текстовий переклад гри без озвучки. Цей переклад присвячений памʼяті Антона Стрікова - героя, що загинув під Бахмутом захищаючи Україну.",
                             "authors": "Jackbox Ukraine",
-                            "small_description": "Повний текстовий переклад гри без озвучки. Цей переклад присвячений памʼяті Антона Стрікова - героя, що загинув під Бахмутом захищаючи Україну.",
+                            "small_description": "Повний текстовий переклад гри без озвучки",
                             "patch_type": {
                                 "game_text": true,
                                 "game_assets": true,
@@ -1790,6 +1791,53 @@
                 "path": "loaders/tjpstarter/default.zip",
                 "version": "1.0.0"
             },
+            "patchs": [
+                {
+                    "id": "jpstarter_ua",
+                    "name": "Jackbox Party Starter",
+                    "small_description": "Текстовий переклад гри Сміхрясь 3; озвучка до Футбол К.О.",
+                    "description": "Текстовий переклад гри Сміхрясь 3; озвучка до Футбол К.О.",
+                    "version": "216.11-UK",
+                    "patch_path": "https://github.com/easysugar/jackbox-starter-pack-ua/releases/download/v1.0.1/jackbox-starter-pack-ua-v1.0.1.zip",
+                    "configuration": {
+                        "version_origin": "repo_file",
+                        "version_file": "https://raw.githubusercontent.com/easysugar/jackbox-starter-pack-ua/main/config.jet",
+                        "version_property": "buildVersion"
+                    },
+                    "components": [
+                        {
+                            "id": "teeko_starter_patch",
+                            "linked_game": "teeko_starter",
+                            "name": "Футбол К.О.",
+                            "description": "Повний переклад гри з озвучкою.",
+                            "authors": "Jackbox Ukraine, Падон",
+                            "small_description": "Повний переклад гри з озвучкою",
+                            "patch_type": {
+                                "game_text": true,
+                                "game_assets": true,
+                                "game_subtitles": true,
+                                "website": true,
+                                "audios": true
+                            }
+                        },
+                        {
+                            "id": "trivia_murder_party_2_starter_patch",
+                            "linked_game": "trivia_murder_party_2_starter",
+                            "name": "Смертельні Вечорниці 2",
+                            "description": "Повний текстовий переклад гри без озвучки.",
+                            "authors": "Jackbox Games",
+                            "small_description": "Повний текстовий переклад гри без озвучки",
+                            "patch_type": {
+                                "game_text": true,
+                                "game_assets": true,
+                                "game_subtitles": false,
+                                "website": true,
+                                "audios": false
+                            }
+                        }
+                    ]
+                }
+            ],
             "games": [
                 {
                     "id": "quiplash3_starter",
