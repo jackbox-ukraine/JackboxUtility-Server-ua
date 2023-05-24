@@ -1,28 +1,38 @@
 {
     "id":"jackbox-fr",
     "name":"Jackbox Ukraine",
-    "description":"Le serveur d'installation de patch pour la communauté française !",
-    "image":"https://raw.githubusercontent.com/AlexisL61/JackboxUtility-Server-fr/main/assets/news_images/logo.png",
+    "description":"Перша українська спілка з локалізації ігор Jackbox Games",
+    "image":"https://raw.githubusercontent.com/VladGraund/JackboxUtility-Server-ua/dev/assets/news_images/logo.png",
 
     "urls":[
         {
             "versions":["1.0.0"],
-            "api":"https://raw.githubusercontent.com/VladGraund/JackboxUtility-Server-ua/main/api/v2/",
-            "assets":"https://raw.githubusercontent.com/VladGraund/JackboxUtility-Server-ua/main/assets"
+            "api":"https://raw.githubusercontent.com/VladGraund/JackboxUtility-Server-ua/dev/api/v2/",
+            "assets":"https://raw.githubusercontent.com/VladGraund/JackboxUtility-Server-ua/dev/assets"
         }
     ],
     "controller":"jackbox.in.ua",
     "languages":["uk"],
     "links":[
     	{
-            "icon":"globe",
-            "url":"http://blog.laboxdejack.fr/",
-            "text":"Blog"
+            "icon":"patreon",
+            "url":"https://www.patreon.com/jackbox_ukraine",
+            "text":"Patreon"
         },
         {
             "icon":"discord",
             "url":"https://discord.gg/XhwPfUrCEx",
             "text":"Discord"
+        },
+        {
+            "icon":"telegram",
+            "url":"https://t.me/JackboxUKR",
+            "text":"Telegram"
+        },
+        {
+            "icon":"hryvnia",
+            "url":"https://send.monobank.ua/jar/2psRdtxDQt",
+            "text":"Волонтерський збір"
         }
     ]
 }
