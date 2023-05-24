@@ -3,8 +3,8 @@
         {
             "id":"2023-05-18 12:09:32",
             "title":"Збір на вантажівку для 28",
-            "smallDescription":" ",
-            "content":" ",
+            "smallDescription":"Маленький опис на вантажіку",
+            "content":"Контент банеру на вантажівку",
             "image":"news_images/zbir.png"
         },
         {
@@ -13,20 +13,6 @@
             "smallDescription":" ",
             "content":" ",
             "image":"news_images/discord.png"
-        },
-        {
-            "id":"2023-05-18 12:12:38",
-            "title":"Наш канал в Телеграмі",
-            "smallDescription":" ",
-            "content":" ",
-            "image":"news_images/telegram.png"
-        },
-        {
-            "id":"2023-05-18 12:13:46",
-            "title":"Підтримайте наш переклад",
-            "smallDescription":" ",
-            "content":" ",
-            "image":"news_images/patreon.png"
         },
         {
             "id":"2023-05-18 12:13:55",
