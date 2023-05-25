@@ -1,2 +1,5 @@
 {
+  "LAUNCHER": {
+    "HIDE_DUBBED_BY_COMMUNITY": true
+  }
 }
