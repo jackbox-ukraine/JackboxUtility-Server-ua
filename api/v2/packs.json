@@ -74,6 +74,17 @@
                             "max": 4
                         },
                         "length": "15 - 20 хвилин",
+                        "playtime":{
+                            "min":15,
+                            "max":20
+                        },
+                        "family_friendly":"NOT_FAMILY_FRIENDLY",
+                        "audience":false,
+                        "stream_friendly":"NOT_PLAYABLE",
+                        "stream_friendly_description":"У фінальному раунді бали отримує гравець, який першим побачить правильну відповідь на екрані й натисне кнопку. Через це гравець, який транслює свій екран, матиме несправедливу перевагу над іншими гравцями.",
+                        "moderation":"FULL_MODERATION",
+                        "moderation_description":"Ця гра не потребує модерації.",
+                        "subtitles":false,
                         "type": "VERSUS",
                         "translation": "ENGLISH",
                         "tagline": "Візьміть участь у найбільшій вікторині!",
@@ -106,6 +117,16 @@
                             "max": 8
                         },
                         "length": "15 - 20 хвилин",
+                        "playtime":{
+                            "min":15,
+                            "max":20
+                        },
+                        "family_friendly":"NOT_FAMILY_FRIENDLY",
+                        "audience":false,
+                        "stream_friendly":"PLAYABLE",
+                        "moderation":"NO_MODERATION",
+                        "moderation_description":"Гравці можуть відповідати текстом.",
+                        "subtitles":false,
                         "type": "VERSUS",
                         "translation": "ENGLISH",
                         "tagline": "Нехай переможе найкращий брехун!",
@@ -138,6 +159,16 @@
                             "max": 8
                         },
                         "length": "15 - 20 хвилин",
+                        "playtime":{
+                            "min":20,
+                            "max":25
+                        },
+                        "family_friendly":"NOT_FAMILY_FRIENDLY",
+                        "audience":false,
+                        "stream_friendly":"PLAYABLE",
+                        "moderation":"NO_MODERATION",
+                        "moderation_description":"Гравці можуть відповідати текстом та малюнками.",
+                        "subtitles":false,
                         "type": "VERSUS",
                         "translation": "ENGLISH",
                         "tagline": "Що це таке намальовано?",
@@ -168,6 +199,16 @@
                             "max": 8
                         },
                         "length": "Необмежено",
+                        "playtime":{
+                            "min":10,
+                            "max":15
+                        },
+                        "family_friendly":"FAMILY_FRIENDLY",
+                        "audience":false,
+                        "stream_friendly":"PLAYABLE",
+                        "moderation":"NO_MODERATION",
+                        "moderation_description":"Гравці можуть відповідати текстом.",
+                        "subtitles":false,
                         "type": "VERSUS",
                         "translation": "ENGLISH",
                         "tagline": "ПЕРЕДАЙ МЕНІ КАРТОПЛЮ!",
@@ -198,6 +239,16 @@
                             "max": 100
                         },
                         "length": "Необмежено",
+                        "playtime":{
+                            "min":10,
+                            "max":15
+                        },
+                        "family_friendly":"NOT_FAMILY_FRIENDLY",
+                        "audience":false,
+                        "stream_friendly":"PLAYABLE",
+                        "moderation":"FULL_MODERATION",
+                        "moderation_description":"Ця гра не потребує модерації.",
+                        "subtitles":false,
                         "type": "VERSUS",
                         "translation": "ENGLISH",
                         "tagline": "Це правда чи брехня?",
@@ -248,6 +299,17 @@
                             "max": 4
                         },
                         "length": "10 - 30 хвилин",
+                        "playtime":{
+                            "min":5,
+                            "max":10
+                        },
+                        "family_friendly":"FAMILY_FRIENDLY",
+                        "audience":false,
+                        "stream_friendly":"MIDLY_PLAYABLE",
+                        "stream_friendly_description":"Гравцям рекомендовано спілкуватися між собою вголос, щоб зачитувати правила та знати, які дроти слід різати.",
+                        "moderation":"FULL_MODERATION",
+                        "moderation_description":"Ця гра не потребує модерації.",
+                        "subtitles":false,
                         "type": "COOP",
                         "translation": "ENGLISH",
                         "tagline": "Знешкоджуйте бомби вчотирьох!",
@@ -282,6 +344,17 @@
                             "max": 8
                         },
                         "length": "15 - 20 хвилин",
+                        "playtime":{
+                            "min":15,
+                            "max":20
+                        },
+                        "family_friendly":"OPTIONAL",
+                        "audience":true,
+                        "audience_description":"Глядачі можуть голосувати за вподобані відповіді.",
+                        "stream_friendly":"PLAYABLE",
+                        "moderation":"NO_MODERATION",
+                        "moderation_description":"Гравці можуть відповідати текстом.",
+                        "subtitles":false,
                         "type": "VERSUS",
                         "translation": "ENGLISH",
                         "tagline": "Будьте найкумеднішими!",
@@ -314,6 +387,17 @@
                             "max": 8
                         },
                         "length": "15 - 20 хвилин",
+                        "playtime":{
+                            "min":15,
+                            "max":20
+                        },
+                        "family_friendly":"OPTIONAL",
+                        "audience":true,
+                        "audience_description":"Глядачі намагаються вгадати правду, не даючи гравцям балів у разі вибору їхньої брехні, та ставити вподобайки улюбленій брехні. Якщо вони вгадають все правильно, то в кінці гри отримають додатковий божевільний факт.",
+                        "stream_friendly":"PLAYABLE",
+                        "moderation":"NO_MODERATION",
+                        "moderation_description":"Гравці можуть відповідати текстом.",
+                        "subtitles":false,
                         "type": "VERSUS",
                         "translation": "ENGLISH",
                         "tagline": "Будьте найкращим брехуном!",
@@ -347,6 +431,17 @@
                             "max": 8
                         },
                         "length": "15 - 20 хвилин",
+                        "playtime":{
+                            "min":15,
+                            "max":25
+                        },
+                        "family_friendly":"OPTIONAL",
+                        "audience":true,
+                        "audience_description":"Глядачі можуть ставити вподобайки улюбленій відповіді.",
+                        "stream_friendly":"PLAYABLE",
+                        "moderation":"FULL_MODERATION",
+                        "moderation_description":"Оскільки гравці можуть використовувати лише звуки, надані грою, вона не потребує модерації. Однак ви не можете контролювати комбінації звуків, які подають гравці.",
+                        "subtitles":false,
                         "type": "VERSUS",
                         "translation": "ENGLISH",
                         "tagline": "Відповідайте за допомогою звуків!",
@@ -377,6 +472,16 @@
                             "max": 6
                         },
                         "length": "15 - 20 хвилин",
+                        "playtime":{
+                            "min":20,
+                            "max":25
+                        },
+                        "family_friendly":"FAMILY_FRIENDLY",
+                        "audience":false,
+                        "stream_friendly":"PLAYABLE",
+                        "moderation":"NO_MODERATION",
+                        "moderation_description":"Гравці можуть відповідати малюнками.",
+                        "subtitles":false,
                         "type": "VERSUS",
                         "translation": "ENGLISH",
                         "tagline": "Настав час для аукціону!",
@@ -509,6 +614,18 @@
                             "max": 6
                         },
                         "length": "15 - 20 хвилин",
+                        "playtime":{
+                            "min":15,
+                            "max":20
+                        },
+                        "family_friendly":"OPTIONAL",
+                        "audience":true,
+                        "audience_description":"Глядачі намагаються вгадати, хто ж дурисвіт, разом з гравцями.",
+                        "stream_friendly":"MIDLY_PLAYABLE",
+                        "stream_friendly_description":"Гравцям рекомендовано бачити один одного. Тому, якщо гра проводиться через трансляцію, гравці повинні мати камери. Для категорії «ПАЛЬЦЕМ У НЕБО» рекомендується, щоб гравці написали імена один одного на різних аркушах паперу і показували їх у камеру, коли їх про це попросять. Крім того, вони можуть написати імена один одного в чаті.",
+                        "moderation":"CENSORING",
+                        "moderation_description":"Увімкнувши опцію «Ручна цензура», VIP може цензурувати відповіді гравців і глядачів, щойно вони з'являться на екрані у фінальному раунді.",
+                        "subtitles":false,
                         "type": "VERSUS",
                         "translation": "COMMUNITY_TRANSLATED",
                         "tagline": "Знайдіть дурисвіта!",
@@ -542,6 +659,17 @@
                             "max": 8
                         },
                         "length": "Близько 15 хвилин",
+                        "playtime":{
+                            "min":15,
+                            "max":20
+                        },
+                        "family_friendly":"OPTIONAL",
+                        "audience":true,
+                        "audience_description":"Глядачі можуть голосувати за вподобані відповіді. Крім того, вони можуть обирати відповіді, які відображатимуться на екрані з увімкненою опцією «Гра для глядачів».",
+                        "stream_friendly":"PLAYABLE",
+                        "moderation":"CENSORING",
+                        "moderation_description":"Увімкнувши опцію «Ручна цензура», VIP може цензурувати відповіді гравців і глядачів, щойно вони з'являться на екрані. За необхідності рекомендовано вимкнути опцію «Гра для глядачів», щоб лише гравці могли подавати письмові відповіді.",
+                        "subtitles":false,
                         "type": "VERSUS",
                         "translation": "COMMUNITY_TRANSLATED",
                         "tagline": "Будьте найкумеднішими!",
@@ -574,6 +702,17 @@
                             "max": 8
                         },
                         "length": "15 - 20 хвилин",
+                        "playtime":{
+                            "min":15,
+                            "max":20
+                        },
+                        "family_friendly":"NOT_FAMILY_FRIENDLY",
+                        "audience":true,
+                        "audience_description":"Глядачі можуть відповідати на запитання разом з гравцями. Якщо до кінця гри вони наберуть більше балів, ніж найкращий гравець, вони виживуть.",
+                        "stream_friendly":"PLAYABLE",
+                        "moderation":"FULL_MODERATION",
+                        "moderation_description":"За необхідності рекомендовано увімкнути опцію «Без режиму письма та малювання», щоб гравці не могли відповідати письмово чи малюнками.",
+                        "subtitles":false,
                         "type": "VERSUS",
                         "translation": "ENGLISH",
                         "tagline": "Чи витримаєте ви цю вікторину?",
@@ -606,6 +745,17 @@
                             "max": 8
                         },
                         "length": "15 - 20 хвилин",
+                        "playtime":{
+                            "min":20,
+                            "max":25
+                        },
+                        "family_friendly":"FAMILY_FRIENDLY",
+                        "audience":true,
+                        "audience_description":"Глядачі можуть голосувати за вподобані футболки. Крім того, вони можуть обирати письмові та намальовані відповіді, які відображаються на екрані з увімкненою опцією «Пропозиції глядачів».",
+                        "stream_friendly":"PLAYABLE",
+                        "moderation":"CENSORING",
+                        "moderation_description":"Увімкнувши опцію «Ручна цензура», VIP може цензурувати відповіді гравців і глядачів, щойно вони з'являться на екрані. За необхідності рекомендовано вимкнути опцію «Пропозиції глядачів», щоб лише гравці могли надсилати текст.",
+                        "subtitles":false,
                         "type": "VERSUS",
                         "translation": "COMMUNITY_TRANSLATED",
                         "tagline": "Створіть свої найкращі футболки!",
@@ -639,6 +789,17 @@
                             "max": 8
                         },
                         "length": "10 - 15 хвилин",
+                        "playtime":{
+                            "min":10,
+                            "max":15
+                        },
+                        "family_friendly":"OPTIONAL",
+                        "audience":true,
+                        "audience_description":"Глядачі відповідають на запитання, та відсотки їх відповідей використовуються в грі замість глобальних, передбачених грою.",
+                        "stream_friendly":"PLAYABLE",
+                        "moderation":"FULL_MODERATION",
+                        "moderation_description":"Ця гра не потребує модерації.",
+                        "subtitles":false,
                         "type": "VERSUS",
                         "translation": "COMMUNITY_TRANSLATED",
                         "tagline": "Вгадайте правильний відсоток!",
@@ -693,6 +854,17 @@
                             "max": 8
                         },
                         "length": "Близько 20 хвилин",
+                        "playtime":{
+                            "min":20,
+                            "max":25
+                        },
+                        "family_friendly":"FAMILY_FRIENDLY",
+                        "audience":true,
+                        "audience_description":"Глядачі можуть голосувати за вподобані відповіді.",
+                        "stream_friendly":"PLAYABLE",
+                        "moderation":"CENSORING",
+                        "moderation_description":"Увімкнувши опцію «Ручна цензура», VIP може цензурувати відповіді гравців, щойно вони з'являться на екрані.",
+                        "subtitles":false,
                         "type": "VERSUS",
                         "translation": "ENGLISH",
                         "tagline": "Чи виживете ви в інтернеті?",
@@ -725,6 +897,17 @@
                             "max": 7
                         },
                         "length": "15 - 20 хвилин",
+                        "playtime":{
+                            "min":20,
+                            "max":25
+                        },
+                        "family_friendly":"NOT_FAMILY_FRIENDLY",
+                        "audience":true,
+                        "audience_description":"Глядачі контролюють одного гравця та можуть зустрічатися з іншими гравцями. Для цього вони можуть голосувати за кілька стандартний варіантів відповідей, які надсилаються всім гравцям. В цій грі за замовчуванням вимкнена лише опція глядачів. Не забудьте увімкнути її в налаштуваннях.",
+                        "stream_friendly":"PLAYABLE",
+                        "moderation":"CENSORING",
+                        "moderation_description":"За необхідності рекомендовано увімкнути опцію «Приховати повідомлення на екрані». Ви не можете контролювати, що гравці надсилають один одному.",
+                        "subtitles":false,
                         "type": "VERSUS",
                         "translation": "ENGLISH",
                         "tagline": "Навіть монстри мають право на любов!",
@@ -757,6 +940,17 @@
                             "max": 16
                         },
                         "length": "15 - 20 хвилин",
+                        "playtime":{
+                            "min":20,
+                            "max":25
+                        },
+                        "family_friendly":"OPTIONAL",
+                        "audience":true,
+                        "audience_description":"Глядачі можуть голосувати за вподобані відповіді.",
+                        "stream_friendly":"PLAYABLE",
+                        "moderation":"CENSORING",
+                        "moderation_description":"Увімкнувши опцію «Ручна цензура», VIP може цензурувати відповіді гравців, щойно вони з'являться на екрані.",
+                        "subtitles":false,
                         "type": "VERSUS",
                         "translation": "ENGLISH",
                         "tagline": "Візьміть участь у міжзоряному турнірі!",
@@ -789,6 +983,17 @@
                             "max": 8
                         },
                         "length": "15 - 20 хвилин",
+                        "playtime":{
+                            "min":15,
+                            "max":20
+                        },
+                        "family_friendly":"OPTIONAL",
+                        "audience":true,
+                        "audience_description":"Глядачі можуть голосувати за брехню, яка з'явиться на екрані разом з іншими. Потім вони намагаються вгадати правду, даючи гравцям бали за вибір брехні та ставлячи вподобайки улюбленій брехні.",
+                        "stream_friendly":"PLAYABLE",
+                        "moderation":"CENSORING",
+                        "moderation_description":"Увімкнувши опцію «Ручна цензура», VIP може цензурувати відповіді гравців, щойно вони з'являться на екрані.",
+                        "subtitles":false,
                         "type": "VERSUS",
                         "translation": "ENGLISH",
                         "tagline": "Будьте найкращим брехуном!",
@@ -822,6 +1027,17 @@
                             "max": 8
                         },
                         "length": "Близько 20 хвилин",
+                        "playtime":{
+                            "min":20,
+                            "max":25
+                        },
+                        "family_friendly":"FAMILY_FRIENDLY",
+                        "audience":true,
+                        "audience_description":"Глядачі можуть голосувати за вподобані відповіді. Також вони можуть реагувати на малюнки, коли гравці малюють.",
+                        "stream_friendly":"PLAYABLE",
+                        "moderation":"CENSORING",
+                        "moderation_description":"Увімкнувши опцію «Ручна цензура», VIP може цензурувати відповіді гравців, щойно вони з'являться на екрані.",
+                        "subtitles":false,
                         "type": "VERSUS",
                         "translation": "ENGLISH",
                         "tagline": "Поєднуйте свої дизайни!",
@@ -876,6 +1092,17 @@
                             "max": 8
                         },
                         "length": "15 - 20 хвилин",
+                        "playtime":{
+                            "min":15,
+                            "max":20
+                        },
+                        "family_friendly":"NOT_FAMILY_FRIENDLY",
+                        "audience":true,
+                        "audience_description":"Кількість балів, які виграють або програють гравці, залежить від відсотка глядачів, які дадуть правильну відповідь на запитання. Якщо багато хто з глядачів вгадає правильну відповідь, гравці зароблятимуть менше балів і втрачатимуть більше. Якщо глядачі дадуть неправильну відповідь, то гравці зароблятимуть більше балів і втрачатимуть менше.",
+                        "stream_friendly":"PLAYABLE",
+                        "moderation":"FULL_MODERATION",
+                        "moderation_description":"Ця гра не потребує модерації. За необхідності рекомендовано увімкнути опцію «Приховувати відповіді без сенсу».",
+                        "subtitles":false,
                         "type": "VERSUS",
                         "translation": "ENGLISH",
                         "tagline": "Вікторина повертається знову!",
@@ -908,6 +1135,17 @@
                             "max": 8
                         },
                         "length": "15 - 20 хвилин",
+                        "playtime":{
+                            "min":20,
+                            "max":25
+                        },
+                        "family_friendly":"OPTIONAL",
+                        "audience":true,
+                        "audience_description":"Глядачі можуть голосувати за вподобані відповіді і вболівати під час читання репу. Крім того, вони можуть взаємодіяти з жартами у тексті гравців.",
+                        "stream_friendly":"PLAYABLE",
+                        "moderation":"CENSORING",
+                        "moderation_description":"Увімкнувши опцію «Ручна цензура», VIP може цензурувати відповіді гравців, щойно вони з'являться на екрані.",
+                        "subtitles":false,
                         "type": "VERSUS",
                         "translation": "ENGLISH",
                         "tagline": "Час читати реп!",
@@ -940,6 +1178,17 @@
                             "max": 6
                         },
                         "length": "10 хвилин та більше",
+                        "playtime":{
+                            "min":10,
+                            "max":15
+                        },
+                        "family_friendly":"FAMILY_FRIENDLY",
+                        "audience":false,
+                        "stream_friendly":"NOT_PLAYABLE",
+                        "stream_friendly_description":"Гравцям рекомендовано бачити один одного. Тому, якщо гра проводиться через трансляцію, гравці повинні мати камери. Для категорії «ПАЛЬЦЕМ У НЕБО» рекомендується, щоб гравці написали імена один одного на різних аркушах паперу і показували їх у камеру, коли їх про це попросять. Крім того, вони можуть написати імена один одного в чаті.",
+                        "moderation":"FULL_MODERATION",
+                        "moderation_description":"Ця гра не потребує модерації.",
+                        "subtitles":false,
                         "type": "COOP",
                         "translation": "ENGLISH",
                         "tagline": "Залетіть на битву!",
@@ -972,6 +1221,17 @@
                             "max": 8
                         },
                         "length": "15 хвилин",
+                        "playtime":{
+                            "min":15,
+                            "max":20
+                        },
+                        "family_friendly":"OPTIONAL",
+                        "audience":true,
+                        "audience_description":"Глядачі керують гравцем, відповідаючи на підказки та голосуючи так само, як і гравці. Щоб відповісти, вони обрати одну з кількох заздалегідь визначених відповідей.",
+                        "stream_friendly":"PLAYABLE",
+                        "moderation":"CENSORING",
+                        "moderation_description":"Увімкнувши опцію «Ручна цензура», VIP може цензурувати відповіді гравців, щойно вони з'являться на екрані.",
+                        "subtitles":false,
                         "type": "VERSUS",
                         "translation": "ENGLISH",
                         "tagline": "Створюйте свої найкращі дилеми!",
@@ -1004,6 +1264,18 @@
                             "max": 8
                         },
                         "length": "20 хвилин",
+                        "playtime":{
+                            "min":20,
+                            "max":25
+                        },
+                        "family_friendly":"FAMILY_FRIENDLY",
+                        "audience":true,
+                        "audience_description":"Глядачі можуть голосувати за вподобані відповіді.",
+                        "stream_friendly":"MIDLY_PLAYABLE",
+                        "stream_friendly_description":"Оскільки це презентаційна гра, рекомендується, щоб гравці могли принаймні чути один одного.",
+                        "moderation":"CENSORING",
+                        "moderation_description":"Увімкнувши опцію «Ручна цензура», VIP може цензурувати відповіді гравців, щойно вони з'являться на екрані.",
+                        "subtitles":false,
                         "type": "VERSUS",
                         "translation": "ENGLISH",
                         "tagline": "Створюйте власні винаходи!",
@@ -1059,6 +1331,18 @@
                             "max": 8
                         },
                         "length": "15 - 25 хвилин",
+                        "playtime":{
+                            "min":15,
+                            "max":20
+                        },
+                        "family_friendly":"NOT_FAMILY_FRIENDLY",
+                        "audience":true,
+                        "audience_description":"Глядачі керують гравцем, запитання та голосуючи за ставки в мінііграх. У фінальному раунді вони намагаються втекти разом з іншими гравцями.",
+                        "stream_friendly":"PLAYABLE",
+                        "stream_friendly_description":"Ця гра чудово працює на трансляціях. Однак у мінігрі «Пароль» рекомендується, щоб гравці могли чути один одного для обміну підказками. А також у мінігрі «Диктант» необхідно, щоб усі гравці добре чули звуки гри.",
+                        "moderation":"FULL_MODERATION", 
+                        "moderation_description":"За необхідності рекомендовано увімкнути опцію «Режим без письма/малювання», щоб гравці не могли надсилати текст або малюнки.",
+                        "subtitles":true,
                         "type": "VERSUS",
                         "translation": "COMMUNITY_TRANSLATED",
                         "tagline": "Чи виживете ви в цій вікторині?",
@@ -1093,6 +1377,18 @@
                             "max": 6
                         },
                         "length": "15 хвилин",
+                        "playtime":{
+                            "min":15,
+                            "max":20
+                        },
+                        "family_friendly":"OPTIONAL",
+                        "audience":true,
+                        "audience_description":"Глядачі можуть голосувати за вподобані відповіді. Також під час вибору ролі вони можуть відповідати так само, як і гравці (але тільки про себе), і в кінці гри отримають бонусну роль на основі їхніх відповідей.",
+                        "stream_friendly":"MIDLY_PLAYABLE",
+                        "stream_friendly_description":"У «Тестах взаємного оцінювання» гравці повинні виконувати завдання перед іншими гравцями, щоб проголосувати за того, хто зробив це найкраще. Важливо, щоб гравці могли бачити один одного під час виконання цих завдань.",
+                        "moderation":"CENSORING",
+                        "moderation_description":"Увімкнувши опцію «Ручна цензура», VIP може цензурувати відповіді гравців, щойно вони з'являться на екрані. За необхідності рекомендовано вимкнути опцію «Вимкнути фото гравців», щоб гравці не могли використовувати фотографії як свій аватар.",
+                        "subtitles":true,
                         "type": "VERSUS",
                         "translation": "ENGLISH",
                         "tagline": "Хто є хто?",
@@ -1101,8 +1397,7 @@
                         "images": [
                             "game_images/RoleModels/rolemodels_1.webp",
                             "game_images/RoleModels/rolemodels_2.webp",
-                            "game_images/RoleModels/rolemodels_3.webp",
-                            "game_images/RoleModels/rolemodels_4.webp"
+                            "game_images/RoleModels/rolemodels_3.webp"
                         ],
                         "tags": [
                             "talking"
@@ -1125,6 +1420,18 @@
                             "max": 8
                         },
                         "length": "15 - 25 хвилин",
+                        "playtime":{
+                            "min":20,
+                            "max":25
+                        },
+                        "family_friendly":"OPTIONAL",
+                        "audience":true,
+                        "audience_description":"Глядачі можуть голосувати за вподобані відповіді.",
+                        "stream_friendly":"MIDLY_PLAYABLE",
+                        "stream_friendly_description":"Оскільки це презентаційна гра, рекомендується, щоб гравці могли принаймні чути один одного.",
+                        "moderation":"CENSORING",
+                        "moderation_description":"Увімкнувши опцію «Ручна цензура», VIP може цензурувати відповіді гравців, щойно вони з'являться на екрані.",
+                        "subtitles":true,
                         "type": "VERSUS",
                         "translation": "ENGLISH",
                         "tagline": "Прийдіть та розсмішіть своїх друзів!",
@@ -1157,6 +1464,17 @@
                             "max": 8
                         },
                         "length": "10 хвилин",
+                        "playtime":{
+                            "min":10,
+                            "max":15
+                        },
+                        "family_friendly":"FAMILY_FRIENDLY",
+                        "audience":true,
+                        "audience_description":"Глядачі можуть голосувати за вподобані відповіді.",
+                        "stream_friendly":"PLAYABLE",
+                        "moderation":"CENSORING",
+                        "moderation_description":"Увімкнувши опцію «Ручна цензура», VIP може цензурувати відповіді гравців, щойно вони з'являться на екрані.",
+                        "subtitles":true,
                         "type": "VERSUS",
                         "translation": "ENGLISH",
                         "tagline": "Складайте слова!",
@@ -1189,6 +1507,17 @@
                             "max": 10
                         },
                         "length": "Залежить від к-ті гравців",
+                        "playtime":{
+                            "min":15,
+                            "max":25
+                        },
+                        "family_friendly":"OPTIONAL",
+                        "audience":false,
+                        "stream_friendly":"MIDLY_PLAYABLE",
+                        "stream_friendly_description":"Оскільки це гра на соціальну дедукцію, рекомендується, щоб гравці могли розмовляти та обговорювати питання вголос, особливо в розділі «Біосканер» (один гравець повинен описувати різні символи іншим). Якщо ви граєте на трансляції, цього розділу слід повністю уникати, і якщо один з гравців нічого не робитиме, то гру неможливо буде пройти далі.",
+                        "moderation":"CENSORING",
+                        "moderation_description":"Увімкнувши опцію «Ручна цензура», VIP може цензурувати відповіді гравців, щойно вони з'являться на екрані.",
+                        "subtitles":true,
                         "type": "TEAM",
                         "translation": "ENGLISH",
                         "tagline": "Знайдіть прибульців!",
@@ -1246,6 +1575,17 @@
                             "max": 8
                         },
                         "length": "Близько 20 хвилин",
+                        "playtime":{
+                            "min":15,
+                            "max":20
+                        },
+                        "family_friendly":"OPTIONAL",
+                        "audience":true,
+                        "audience_description":"Глядачі можуть голосувати за вподобані відповіді.",
+                        "stream_friendly":"PLAYABLE",
+                        "moderation":"FULL_MODERATION",
+                        "moderation_description":"З увімкненою опцією «Модерація» модератори, зайшовши на mod.jackbox.in.ua, зможуть вирішувати, що відображатиметься на екрані. За необхідності рекомендовано увімкнути опцію «Фільтр лихослів'я».",
+                        "subtitles":true,
                         "translation": "ENGLISH",
                         "type": "VERSUS",
                         "tagline": "Змусьте ваші творіння боротися!",
@@ -1279,6 +1619,18 @@
                             "max": 8
                         },
                         "length": "20 - 40 хвилин",
+                        "playtime":{
+                            "min":20,
+                            "max":25
+                        },
+                        "family_friendly":"OPTIONAL",
+                        "audience":true,
+                        "audience_description":"Глядачі керують домашнім котиком, який може створювати проблеми для решти гравців.",
+                        "stream_friendly":"MIDLY_PLAYABLE",
+                        "stream_friendly_description":"Оскільки це дискусійна гра, рекомендується, щоб гравці могли принаймні чути один одного, щоб виконувати командні завдання.",
+                        "moderation":"FULL_MODERATION",
+                        "moderation_description":"Ця гра не потребує модерації.",
+                        "subtitles":true,
                         "type": "VERSUS",
                         "translation": "ENGLISH",
                         "tagline": "Уявіть найгірший варіант!",
@@ -1312,6 +1664,17 @@
                             "max": 8
                         },
                         "length": "Близько 15 хвилин",
+                        "playtime":{
+                            "min":20,
+                            "max":25
+                        },
+                        "family_friendly":"OPTIONAL",
+                        "audience":true,
+                        "audience_description":"Глядачі можуть голосувати за вподобані відповіді. Крім того, вони можуть голосувати за показ різних заохочувальних банерів для гравців.",
+                        "stream_friendly":"PLAYABLE",
+                        "moderation":"FULL_MODERATION",
+                        "moderation_description":"З увімкненою опцією «Модерація» модератори, зайшовши на mod.jackbox.in.ua, зможуть вирішувати, що відображатиметься на екрані. За необхідності рекомендовано увімкнути опцію «Фільтр лихослів'я».",
+                        "subtitles":true,
                         "type": "COOP",
                         "translation": "ENGLISH",
                         "tagline": "Виконуйте свої завдання!",
@@ -1345,6 +1708,18 @@
                             "max": 8
                         },
                         "length": "Близько 15 хвилин",
+                        "playtime":{
+                            "min":20,
+                            "max":25
+                        },
+                        "family_friendly":"OPTIONAL",
+                        "audience":true,
+                        "audience_description":"Глядачі можуть голосувати під час доповідей, а наприкінці вручити приз найулюбленішій доповіді.",
+                        "stream_friendly":"MIDLY_PLAYABLE",
+                        "stream_friendly_description":"Оскільки це презентаційна гра, рекомендується, щоб гравці могли принаймні чути один одного.",
+                        "moderation":"FULL_MODERATION",
+                        "moderation_description":"З увімкненою опцією «Модерація» модератори, зайшовши на mod.jackbox.in.ua, зможуть вирішувати, що відображатиметься на екрані. За необхідності рекомендовано увімкнути опцію «Фільтр лихослів'я» та опцію «Вимкнути фото гравців», щоб гравці не могли використовувати фотографії як свій аватар.",
+                        "subtitles":true,
                         "type": "VERSUS",
                         "translation": "ENGLISH",
                         "tagline": "Будьте найсмішнішими!",
@@ -1377,6 +1752,18 @@
                             "max": 6
                         },
                         "length": "15 - 30 хвилин",
+                        "playtime":{
+                            "min":15,
+                            "max":20
+                        },
+                        "family_friendly":"FAMILY_FRIENDLY",
+                        "audience":true,
+                        "audience_description":"Глядачі намагаються вгадати правильну відповідь разом з гравцями.",
+                        "stream_friendly":"PLAYABLE",
+                        "stream_friendly_description":"Оскільки це дискусійна гра, рекомендується, щоб гравці могли принаймні чути один одного. Однак, на відміну від інших дискусійних ігор, ця гра чудово працює без розмов вголос.",
+                        "moderation":"CENSORING",
+                        "moderation_description":"Через те, як працює ця гра, відповіді гравців не підлягають цензурі. За необхідності рекомендовано увімкнути опцію «Фільтр лихослів'я».",
+                        "subtitles":true,
                         "type": "VERSUS",
                         "translation": "ENGLISH",
                         "tagline": "Зробіть так, щоб ваше слово вгадали!",
@@ -1431,6 +1818,17 @@
                             "max": 10
                         },
                         "length": "15 - 30 хвилин",
+                        "playtime":{
+                            "min":20,
+                            "max":25
+                        },
+                        "family_friendly":"OPTIONAL",
+                        "audience":true,
+                        "audience_description":"Глядачі намагаються вгадати правильну відповідь разом з гравцями, даючи бали гравцям, якщо вони обирають їхні заголовки, та ставлячи вподобайки улюбленим заголовкам.",
+                        "stream_friendly":"PLAYABLE",
+                        "moderation":"FULL_MODERATION",
+                        "moderation_description":"З увімкненою опцією «Модерація» модератори, зайшовши на mod.jackbox.in.ua, зможуть вирішувати, що відображатиметься на екрані. За необхідності рекомендовано увімкнути опцію «Фільтр лихослів'я».",
+                        "subtitles":true,
                         "type": "VERSUS",
                         "translation": "ENGLISH",
                         "tagline": "Втілюйте все це в життя!",
@@ -1463,6 +1861,17 @@
                             "max": 8
                         },
                         "length": "15 - 25 хвилин",
+                        "playtime":{
+                            "min":15,
+                            "max":25
+                        },
+                        "family_friendly":"OPTIONAL",
+                        "audience":true,
+                        "audience_description":"Глядачі голосують за гравця, який, на їхню думку, найкраще впорається з питаннями, і виграють порції, правильно вгадуючи. Вони розміщуються на колесі і можуть викликати дії гравців, коли хтось приземляється на них.",
+                        "stream_friendly":"PLAYABLE",
+                        "moderation":"FULL_MODERATION",
+                        "moderation_description":"Ця гра не потребує модерації. За необхідності рекомендовано увімкнути опцію «Фільтр лихослів'я» або вимкнути опцію «Дозволити письмові відповіді гравців».",
+                        "subtitles":true,
                         "type": "VERSUS",
                         "translation": "ENGLISH",
                         "tagline": "Переверніть все це!",
@@ -1495,6 +1904,17 @@
                             "max": 10
                         },
                         "length": "15 - 25 хвилин",
+                        "playtime":{
+                            "min":20,
+                            "max":25
+                        },
+                        "family_friendly":"OPTIONAL",
+                        "audience":true,
+                        "audience_description":"Глядачі можуть голосувати за вподобані відповіді. Крім того, вони можуть налаштовувати плакати, які з'являтимуться на задньому плані, під час відповідей гравців.",
+                        "stream_friendly":"PLAYABLE",
+                        "moderation":"FULL_MODERATION",
+                        "moderation_description":"З увімкненою опцією «Модерація» модератори, зайшовши на mod.jackbox.in.ua, зможуть вирішувати, що відображатиметься на екрані. За необхідності рекомендовано увімкнути опцію «Фільтр лихослів'я».",
+                        "subtitles":true,
                         "type": "VERSUS",
                         "translation": "ENGLISH",
                         "tagline": "Станьте найкращим співробітником!",
@@ -1527,6 +1947,18 @@
                             "max": 10
                         },
                         "length": "Близько 15 хвилин",
+                        "playtime":{
+                            "min":15,
+                            "max":20
+                        },
+                        "family_friendly":"OPTIONAL",
+                        "audience":true,
+                        "audience_description": "Глядачі відповідають на запитання, впливаючи на результати опитувань. Згодом вони можуть спробувати вгадати правильні двері разом з гравцями. Крім того, у «Режимі трансляції» гравці грають в команді проти усіх.",
+                        "stream_friendly":"MIDLY_PLAYABLE",
+                        "stream_friendly_description":"Оскільки це дискусійна гра, рекомендується, щоб гравці могли принаймні чути один одного. Під час гри на стрімінгових платформах рекомендується, щоб команда гравців грала проти команди глядачів у «Режимі трансляції».",
+                        "moderation":"FULL_MODERATION",
+                        "moderation_description":"Ця гра не потребує модерації.",
+                        "subtitles":true,
                         "type": "TEAM",
                         "translation": "ENGLISH",
                         "tagline": "Утечіть з печери!",
@@ -1560,6 +1992,18 @@
                             "max": 8
                         },
                         "length": "20 - 40 хвилин",
+                        "playtime":{
+                            "min":20,
+                            "max":30
+                        },
+                        "family_friendly":"NOT_FAMILY_FRIENDLY",
+                        "audience":true,
+                        "audience_description":"Глядачі можуть голосувати з гравцями, як при вирішенні того, яку справу буде розкрито, так і при визначенні вбивці. Крім того, вони можуть викликати блискавки, коли гравці малюють, і можуть змусити гравця, котрий хоче вбити іншого гравця, вбити ніщо.",
+                        "stream_friendly":"MIDLY_PLAYABLE",
+                        "stream_friendly_description":"Оскільки це гра на соціальну дедукцію, рекомендується, щоб гравці могли принаймні чути один одного.",
+                        "moderation":"FULL_MODERATION",
+                        "moderation_description":"З увімкненою опцією «Модерація» модератори, зайшовши на mod.jackbox.in.ua, зможуть вирішувати, що відображатиметься на екрані. За необхідності рекомендовано увімкнути опцію «Фільтр лихослів'я».",
+                        "subtitles":true,
                         "type": "VERSUS",
                         "translation": "ENGLISH",
                         "tagline": "Знайдіть вбивць!",
@@ -1622,6 +2066,17 @@
                             "max": 8
                         },
                         "length": "20 хвилин",
+                        "playtime":{
+                            "min":15,
+                            "max":20
+                        },
+                        "family_friendly":"OPTIONAL",
+                        "audience":true,
+                        "audience_description":"Глядачі можуть голосувати за брехню, яка з'явиться на екрані разом з іншими. Потім вони намагаються вгадати правду, даючи гравцям бали за вибір брехні та ставлячи вподобайки улюбленій брехні.",
+                        "stream_friendly":"PLAYABLE",
+                        "moderation":"FULL_MODERATION",
+                        "moderation_description":"З увімкненою опцією «Модерація» модератори, зайшовши на mod.jackbox.in.ua, зможуть вирішувати, що відображатиметься на екрані. Вони також можуть вигнати гравців з гри. За необхідності рекомендовано увімкнути опцію «Фільтр лихослів'я».",
+                        "subtitles":true,
                         "type": "VERSUS",
                         "translation": "ENGLISH",
                         "tagline": "Обманюйте своїх друзів!",
@@ -1654,6 +2109,17 @@
                             "max": 9
                         },
                         "length": "25 - 35 хвилин",
+                        "playtime":{
+                            "min":25,
+                            "max":30
+                        },
+                        "family_friendly":"OPTIONAL",
+                        "audience":true,
+                        "audience_description":"The audience can vote for their favorite answers. In addition, they answer different polls as the players type.",
+                        "stream_friendly":"PLAYABLE",
+                        "moderation":"FULL_MODERATION",
+                        "moderation_description":"З увімкненою опцією «Модерація» модератори, зайшовши на mod.jackbox.in.ua, зможуть вирішувати, що відображатиметься на екрані. Вони також можуть вигнати гравців з гри. За необхідності рекомендовано увімкнути опцію «Фільтр лихослів'я».",
+                        "subtitles":true,
                         "type": "VERSUS",
                         "translation": "ENGLISH",
                         "tagline": "Чи можете ви виграти у Roomerang?",
@@ -1686,6 +2152,18 @@
                             "max": 8
                         },
                         "length": "15 - 25 хвилин",
+                        "playtime":{
+                            "min":20,
+                            "max":25
+                        },
+                        "family_friendly":"OPTIONAL",
+                        "audience":true,
+                        "audience_description":"Глядачі можуть голосувати за вподобані відповіді.",
+                        "stream_friendly":"MIDLY_PLAYABLE",
+                        "stream_friendly_description":"Оскільки це презентаційна гра, рекомендується, щоб гравці могли принаймні чути один одного.",
+                        "moderation":"FULL_MODERATION",
+                        "moderation_description":"З увімкненою опцією «Модерація» модератори, зайшовши на mod.jackbox.in.ua, зможуть вирішувати, що відображатиметься на екрані. Вони також можуть вигнати гравців з гри. За необхідності рекомендовано увімкнути опцію «Фільтр лихослів'я».",
+                        "subtitles":true,
                         "type": "VERSUS",
                         "translation": "ENGLISH",
                         "tagline": "Продайте свої товари!",
@@ -1718,6 +2196,17 @@
                             "max": 8
                         },
                         "length": "15 - 25 хвилин",
+                        "playtime":{
+                            "min":20,
+                            "max":25
+                        },
+                        "family_friendly":"OPTIONAL",
+                        "audience":true,
+                        "audience_description":"Глядачі намагаються вгадати правильну відповідь разом з гравцями. Вони можуть виграти гру, якщо наберуть більше балів ніж гравці.",
+                        "stream_friendly":"PLAYABLE",
+                        "moderation":"FULL_MODERATION",
+                        "moderation_description":"З увімкненою опцією «Модерація» модератори, зайшовши на mod.jackbox.in.ua, зможуть вирішувати, що відображатиметься на екрані. Вони також можуть вигнати гравців з гри. За необхідності рекомендовано увімкнути опцію «Фільтр лихослів'я».",
+                        "subtitles":true,
                         "type": "VERSUS",
                         "translation": "ENGLISH",
                         "tagline": "Поділіться своїми думками!",
@@ -1751,6 +2240,18 @@
                             "max": 10
                         },
                         "length": "15 - 20 хвилин",
+                        "playtime":{
+                            "min":20,
+                            "max":25
+                        },
+                        "family_friendly":"OPTIONAL",
+                        "audience":true,
+                        "audience_description":"Глядачі об'єднуються в команди і сортують блоки так само, як і гравці. Наприкінці гри перемагає команда глядачів, яка зробить це найкраще.",
+                        "stream_friendly":"MIDLY_PLAYABLE",
+                        "stream_friendly_description":"Being a discussion game, it's recommended for players to be able to at least hear each other.",
+                        "moderation":"FULL_MODERATION",
+                        "moderation_description":"З увімкненою опцією «Модерація» модератори, зайшовши на mod.jackbox.in.ua можуть вигнати гравців з гри за необхідності.",
+                        "subtitles":true,
                         "type": "TEAM",
                         "translation": "ENGLISH",
                         "tagline": "Сортуйте блоки!",
@@ -1852,6 +2353,17 @@
                             "max": 8
                         },
                         "length": "Близько 15 хвилин",
+                        "playtime":{
+                            "min":15,
+                            "max":20
+                        },
+                        "family_friendly":"OPTIONAL",
+                        "audience":true,
+                        "audience_description":"Глядачі можуть голосувати за вподобані відповіді.",
+                        "stream_friendly":"PLAYABLE",
+                        "moderation":"FULL_MODERATION",
+                        "moderation_description":"З увімкненою опцією «Модерація» модератори, зайшовши на mod.jackbox.in.ua, зможуть вирішувати, що відображатиметься на екрані. За необхідності рекомендовано увімкнути опцію «Фільтр лихослів'я».",
+                        "subtitles":true,
                         "type": "VERSUS",
                         "translation": "ENGLISH",
                         "tagline": "Будьте найсмішнішими!",
@@ -1884,6 +2396,17 @@
                             "max": 8
                         },
                         "length": "15 - 20 хвилин",
+                        "playtime":{
+                            "min":20,
+                            "max":25
+                        },
+                        "family_friendly":"FAMILY_FRIENDLY",
+                        "audience":true,
+                        "audience_description":"Глядачі можуть голосувати за вподобані футболки. Крім того, вони можуть обирати письмові та намальовані відповіді, які відображаються на екрані з увімкненою опцією «Пропозиції глядачів».",
+                        "stream_friendly":"PLAYABLE",
+                        "moderation":"FULL_MODERATION",
+                        "moderation_description":"З увімкненою опцією «Модерація» модератори, зайшовши на mod.jackbox.tv, зможуть вирішувати, що відображатиметься на екрані. Якщо необхідно, рекомендується увімкнути опцію «Фільтр ненормативної лексики» і вимкнути опцію «Пропозиції глядачів», щоб тільки гравці могли надсилати текст.",
+                        "subtitles":true,
                         "type": "VERSUS",
                         "translation": "COMMUNITY_TRANSLATED",
                         "tagline": "Створіть свої найкращі футболки!",
@@ -1917,6 +2440,18 @@
                             "max": 8
                         },
                         "length": "15 - 25 хвилин",
+                        "playtime":{
+                            "min":15,
+                            "max":20
+                        },
+                        "family_friendly":"NOT_FAMILY_FRIENDLY",
+                        "audience":true,
+                        "audience_description":"Глядачі керують гравцем, запитання та голосуючи за ставки в мінііграх. У фінальному раунді вони намагаються втекти разом з іншими гравцями.",
+                        "stream_friendly":"PLAYABLE",
+                        "stream_friendly_description":"Ця гра чудово працює на трансляціях. Однак у мінігрі «Пароль» рекомендується, щоб гравці могли чути один одного для обміну підказками. А також у мінігрі «Диктант» необхідно, щоб усі гравці добре чули звуки гри.",
+                        "moderation":"FULL_MODERATION",
+                        "moderation_description":"За необхідності рекомендовано увімкнути опцію «Режим без письма/малювання», щоб гравці не могли надсилати текст або малюнки.",
+                        "subtitles":true,
                         "type": "VERSUS",
                         "translation": "COMMUNITY_TRANSLATED",
                         "tagline": "Чи виживете ви в цій вікторині?",
@@ -1979,6 +2514,16 @@
                             "max": 8
                         },
                         "length": "15 - 20 хвилин",
+                        "playtime":{
+                            "min":15,
+                            "max":20
+                        },
+                        "family_friendly":"NOT_FAMILY_FRIENDLY",
+                        "audience":false,
+                        "stream_friendly":"PLAYABLE",
+                        "moderation":"NO_MODERATION",
+                        "moderation_description":"Гравці можуть відповідати текстом.",
+                        "subtitles":false,
                         "type": "VERSUS",
                         "translation": "ENGLISH",
                         "tagline": "Нехай переможе найкращий брехун!",
@@ -2033,6 +2578,17 @@
                             "max": 8
                         },
                         "length": "15 - 20 хвилин",
+                        "playtime":{
+                            "min":15,
+                            "max":20
+                        },
+                        "family_friendly":"OPTIONAL",
+                        "audience":true,
+                        "audience_description":"Глядачі можуть голосувати за вподобані відповіді.",
+                        "stream_friendly":"PLAYABLE",
+                        "moderation":"NO_MODERATION",
+                        "moderation_description":"Гравці можуть відповідати текстом.",
+                        "subtitles":false,
                         "type": "VERSUS",
                         "translation": "ENGLISH",
                         "tagline": "Будьте найкумеднішими!",
@@ -2118,6 +2674,17 @@
                             "max": 8
                         },
                         "length": "15 - 20 хвилин",
+                        "playtime":{
+                            "min":15,
+                            "max":20
+                        },
+                        "family_friendly":"OPTIONAL",
+                        "audience":true,
+                        "audience_description":"Глядачі можуть голосувати за вподобані відповіді. Крім того, вони можуть обирати відповіді, які відображатимуться на екрані з увімкненою опцією «Гра для глядачів».",
+                        "stream_friendly":"PLAYABLE",
+                        "moderation":"CENSORING",
+                        "moderation_description":"Увімкнувши опцію «Ручна цензура», VIP може цензурувати відповіді гравців і глядачів, щойно вони з'являться на екрані. За необхідності рекомендовано вимкнути опцію «Гра для глядачів», щоб лише гравці могли подавати письмові відповіді.",
+                        "subtitles":true,
                         "type": "VERSUS",
                         "translation": "COMMUNITY_TRANSLATED",
                         "tagline": "Будьте найкумеднішими!",
@@ -2203,6 +2770,17 @@
                             "max": 8
                         },
                         "length": "15 - 20 хвилин",
+                        "playtime":{
+                            "min":20,
+                            "max":25
+                        },
+                        "family_friendly":"OPTIONAL",
+                        "audience":true,
+                        "audience_description":"Глядачі намагаються вгадати правильну відповідь разом з гравцями, даючи бали гравцям, якщо вони обирають їхні заголовки, та ставлячи вподобайки улюбленим заголовкам.",
+                        "stream_friendly":"PLAYABLE",
+                        "moderation":"FULL_MODERATION",
+                        "moderation_description":"З увімкненою опцією «Модерація» модератори, зайшовши на mod.jackbox.tv, зможуть вирішувати, що відображатиметься на екрані. Якщо необхідно, рекомендується увімкнути опцію «Фільтр ненормативної лексики». Ця гра також має опцію «Ручна цензура», яка дозволяє VIP-персоні цензурувати відповіді гравця після того, як вони з'являться на екрані.",
+                        "subtitles":true,
                         "type": "VERSUS",
                         "translation": "COMMUNITY_TRANSLATED",
                         "tagline": "Що це таке намальовано?",
