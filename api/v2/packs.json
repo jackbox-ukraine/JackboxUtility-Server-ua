@@ -848,7 +848,7 @@
                     "name": "Jackbox Party Pack 4",
                     "small_description": "Текстовий альфа переклад до гри Монстр шукає монстра",
                     "description": "Текстовий альфа переклад до гри Монстр шукає монстра",
-                    "version": "Build:  13.1-UK",
+                    "version": "Build:  134.2-UK",
                     "patch_path": "https://github.com/easysugar/jackbox-pack-4/releases/download/v0.0.2/JPP4-v0.0.2.zip",
                     "configuration": {
                         "version_origin": "repo_file",
