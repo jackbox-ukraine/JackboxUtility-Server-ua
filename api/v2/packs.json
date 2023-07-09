@@ -532,7 +532,7 @@
                     "small_description": "Текстові переклади ігор Надурисвіт, Сміхрясь 2 та Шпигадаш; озвучка до Футбол К.О.",
                     "description": "Текстові переклади ігор Надурисвіт, Сміхрясь 2 та Шпигадаш; озвучка до Футбол К.О.",
                     "version": "Build:  13.6-UK",
-                    "patch_path": "https://github.com/easysugar/jackbox-pack-3/releases/download/v2.0/JPP3-v1.2.zip",
+                    "patch_path": "https://github.com/easysugar/jackbox-pack-3/releases/download/v2.0/JPP3-v2.0.zip",
                     "configuration": {
                         "version_origin": "repo_file",
                         "version_file": "https://raw.githubusercontent.com/easysugar/jackbox-pack-3/main/config.jet",
