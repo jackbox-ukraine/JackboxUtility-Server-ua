@@ -531,8 +531,8 @@
                     "name": "Jackbox Party Pack 3",
                     "small_description": "Текстові переклади ігор Надурисвіт, Сміхрясь 2 та Шпигадаш; озвучка до Футбол К.О.",
                     "description": "Текстові переклади ігор Надурисвіт, Сміхрясь 2 та Шпигадаш; озвучка до Футбол К.О.",
-                    "version": "Build:  13.5-UK",
-                    "patch_path": "https://github.com/easysugar/jackbox-pack-3/releases/download/v1.2/JPP3-v1.2.zip",
+                    "version": "Build:  13.6-UK",
+                    "patch_path": "https://github.com/easysugar/jackbox-pack-3/releases/download/v2.0/JPP3-v1.2.zip",
                     "configuration": {
                         "version_origin": "repo_file",
                         "version_file": "https://raw.githubusercontent.com/easysugar/jackbox-pack-3/main/config.jet",
@@ -596,7 +596,7 @@
                                 "game_assets": true,
                                 "game_subtitles": false,
                                 "website": true,
-                                "audios": false
+                                "audios": true
                             }
                         }
                     ]
