@@ -859,7 +859,7 @@
                         {
                             "id": "monsterseekingmonster_patch",
                             "linked_game": "monsterseekingmonster",
-                            "name": "Монтр шукає монстра",
+                            "name": "Монстр шукає монстра",
                             "description": "Пре-альфа текстовий переклад гри без озвучки.",
                             "authors": "Jackbox Ukraine",
                             "small_description": "Пре-альфа текстовий переклад гри без озвучки",
