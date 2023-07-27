@@ -2762,10 +2762,10 @@
                 {
                     "id": "df2_ua",
                     "name": "Малювач 2",
-                    "small_description": "Текстовий переклад разом з озвучкою (основні фрази). Заміняє в грі англійську мову.",
-                    "description": "Текстовий переклад разом з озвучкою (основні фрази). Заміняє в грі англійську мову.",
-                    "version": "150.6-UK",
-                    "patch_path": "https://github.com/easysugar/jackbox-drawful-2-ua/releases/download/v1.0.1/Drawful2-v1.0.1.zip",
+                    "small_description": "Повний дубляж",
+                    "description": "Повний дубляж і переклад. Заміняє в грі англійську мову.",
+                    "version": "150.7-UK",
+                    "patch_path": "https://github.com/easysugar/jackbox-drawful-2-ua/releases/download/v1.1/Drawful2-v1.1.zip",
                     "configuration": {
                         "version_origin": "repo_file",
                         "version_file": "https://raw.githubusercontent.com/easysugar/jackbox-drawful-2-ua/main/jbg.config.jet",
