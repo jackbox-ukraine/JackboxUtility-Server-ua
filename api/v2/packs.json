@@ -529,10 +529,10 @@
                 {
                     "id": "jpp3_ua",
                     "name": "Jackbox Party Pack 3",
-                    "small_description": "Текстові переклади ігор Надурисвіт, Сміхрясь 2 та Шпигадаш; озвучка до Футбол К.О.",
-                    "description": "Текстові переклади ігор Надурисвіт, Сміхрясь 2 та Шпигадаш; озвучка до Футбол К.О.",
-                    "version": "Build:  13.6-UK",
-                    "patch_path": "https://github.com/easysugar/jackbox-pack-3/releases/download/v2.0/JPP3-v2.0.zip",
+                    "small_description": "Текстовий переклад гри Сміхрясь 2; озвучка до Футбол К.О., Надурисвіт та Шпигадаш",
+                    "description": "Текстовий переклад гри Сміхрясь 2; озвучка до Футбол К.О., Надурисвіт та Шпигадаш",
+                    "version": "Build:  13.7-UK",
+                    "patch_path": "https://github.com/easysugar/jackbox-pack-3/releases/download/v3.0/JPP3-v3.0.zip",
                     "configuration": {
                         "version_origin": "repo_file",
                         "version_file": "https://raw.githubusercontent.com/easysugar/jackbox-pack-3/main/config.jet",
@@ -543,15 +543,15 @@
                             "id": "fakinit_patch",
                             "linked_game": "fakinit",
                             "name": "Надурисвіт",
-                            "description": "Повний текстовий переклад гри без озвучки.",
+                            "description": "Повний дубляж гри",
                             "authors": "Jackbox Ukraine",
-                            "small_description": "Повний текстовий переклад гри без озвучки",
+                            "small_description": "Повний дубляж гри від Ореста Лукʼянчука",
                             "patch_type": {
                                 "game_text": true,
                                 "game_assets": true,
                                 "game_subtitles": false,
                                 "website": true,
-                                "audios": false
+                                "audios": true
                             }
                         },
                         {
