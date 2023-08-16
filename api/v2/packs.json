@@ -2332,8 +2332,8 @@
                     "name": "Jackbox Party Starter",
                     "small_description": "Текстовий переклад гри Смертельні Вечорниці 2; озвучка до Футбол К.О.",
                     "description": "Текстовий переклад гри Смертельні Вечорниці 2; озвучка до Футбол К.О.",
-                    "version": "216.11-UK",
-                    "patch_path": "https://github.com/easysugar/jackbox-starter-pack-ua/releases/download/v1.0.1/jackbox-starter-pack-ua-v1.0.1.zip",
+                    "version": "216.13-UK",
+                    "patch_path": "https://github.com/easysugar/jackbox-starter-pack-ua/releases/download/v1.2/jackbox-starter-pack-ua-v1.2.zip",
                     "configuration": {
                         "version_origin": "repo_file",
                         "version_file": "https://raw.githubusercontent.com/easysugar/jackbox-starter-pack-ua/main/config.jet",
@@ -2365,7 +2365,7 @@
                             "patch_type": {
                                 "game_text": true,
                                 "game_assets": true,
-                                "game_subtitles": false,
+                                "game_subtitles": true,
                                 "website": true,
                                 "audios": false
                             }
