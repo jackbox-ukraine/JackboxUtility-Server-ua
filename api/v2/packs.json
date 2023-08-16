@@ -2668,8 +2668,8 @@
                     "name": "Сміхрясь 2 МіжСМІХціональний",
                     "small_description": "Переклад заміняє в грі англійську мову. Текстовий переклад, без озвучки.",
                     "description": "Переклад заміняє в грі англійську мову. Текстовий переклад, без озвучки.",
-                    "version": "Build:  141.5-UK",
-                    "patch_path": "https://github.com/easysugar/jackbox-quiplash2-ua/releases/download/v0.3.1/quiplash2-ua-v0.3.1.zip",
+                    "version": "Build:  141.7-UK",
+                    "patch_path": "https://github.com/easysugar/jackbox-quiplash2-ua/releases/download/v1.0/quiplash2-ua-v1.0.zip",
                     "configuration": {
 						"version_origin":"repo_file",
 						"version_file":"https://raw.githubusercontent.com/easysugar/jackbox-quiplash2-ua/main/jbg.config.jet",
@@ -2680,15 +2680,15 @@
                             "id": "quiplash2interlashional_patch",
                             "linked_game": "quiplash2interlashional",
                             "name": "Сміхрясь 2 МіжСМІХціональний",
-                            "description": "Текстовий переклад гри без озвучки.",
+                            "description": "Повний текстовий переклад гри і часткова озвучка від Lost Human.",
                             "authors": "Jackbox Ukraine",
-                            "small_description": "Текстовий переклад гри без озвучки",
+                            "small_description": "Переклад гри з частковою озвучкою",
                             "patch_type": {
                                 "game_text": true,
                                 "game_assets": true,
-                                "game_subtitles": false,
+                                "game_subtitles": true,
                                 "website": true,
-                                "audios": false
+                                "audios": true
                             }
                         }
                     ]
