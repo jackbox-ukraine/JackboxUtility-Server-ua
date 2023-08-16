@@ -531,8 +531,8 @@
                     "name": "Jackbox Party Pack 3",
                     "small_description": "Текстовий переклад гри Сміхрясь 2; озвучка до Футбол К.О., Надурисвіт та Шпигадаш",
                     "description": "Текстовий переклад гри Сміхрясь 2; озвучка до Футбол К.О., Надурисвіт та Шпигадаш",
-                    "version": "Build:  13.7-UK",
-                    "patch_path": "https://github.com/easysugar/jackbox-pack-3/releases/download/v3.0/JPP3-v3.0.zip",
+                    "version": "Build:  13.8-UK",
+                    "patch_path": "https://github.com/easysugar/jackbox-pack-3/releases/download/v4.0/JPP3-v4.0.zip",
                     "configuration": {
                         "version_origin": "repo_file",
                         "version_file": "https://raw.githubusercontent.com/easysugar/jackbox-pack-3/main/config.jet",
@@ -558,7 +558,7 @@
                             "id": "quiplash2_patch",
                             "linked_game": "quiplash2",
                             "name": "Сміхрясь 2",
-                            "description": "Повний текстовий переклад гри без озвучки.",
+                            "description": "Повний текстовий переклад гри з частковим озвученням від Lost Human'а.",
                             "authors": "Jackbox Ukraine",
                             "small_description": "Повний текстовий переклад гри без озвучки",
                             "patch_type": {
@@ -566,7 +566,7 @@
                                 "game_assets": true,
                                 "game_subtitles": false,
                                 "website": true,
-                                "audios": false
+                                "audios": true
                             }
                         },
                         {
