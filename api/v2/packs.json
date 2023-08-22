@@ -67,6 +67,13 @@
                 "steam":"https://store.steampowered.com/app/331670/The_Jackbox_Party_Pack/",
                 "epic":"https://store.epicgames.com/p/jackbox-party-pack-1"
             },
+            "configuration": {
+                "file": "config.jet",
+                "version_property": "buildVersion",
+                "version_origin": "game_file",
+                "version_file": "config.jet"
+            },
+            "patchs": [],
             "games": [
                 {
                     "id": "ydkj2015",
@@ -303,6 +310,13 @@
                 "steam":"https://store.steampowered.com/app/397460/The_Jackbox_Party_Pack_2/",
                 "epic":"https://store.epicgames.com/p/jackbox-party-pack-2"
             },
+            "configuration": {
+                "file": "config.jet",
+                "version_property": "buildVersion",
+                "version_origin": "game_file",
+                "version_file": "config.jet"
+            },
+            "patchs": [],
             "games": [
                 {
                     "id": "bombcorp",
@@ -543,6 +557,12 @@
             "loader": {
                 "path": "loaders/tjpp3/default.zip",
                 "version": "1.0.0"
+            },
+            "configuration": {
+                "file": "config.jet",
+                "version_property": "buildVersion",
+                "version_origin": "game_file",
+                "version_file": "config.jet"
             },
             "patchs": [
                 {
@@ -870,6 +890,12 @@
                 "path": "loaders/tjpp4/default.zip",
                 "version": "1.0.0"
             },
+            "configuration": {
+                "file": "config.jet",
+                "version_property": "buildVersion",
+                "version_origin": "game_file",
+                "version_file": "config.jet"
+            },
             "patchs": [
                 {
                     "id": "jpp4_ua",
@@ -1153,6 +1179,13 @@
                 "steam":"https://store.steampowered.com/app/774461/The_Jackbox_Party_Pack_5/",
                 "epic":"https://store.epicgames.com/p/jackbox-party-pack-5"
             },
+            "configuration": {
+                "file": "config.jet",
+                "version_property": "buildVersion",
+                "version_origin": "game_file",
+                "version_file": "config.jet"
+            },
+            "patchs": [],
             "games": [
                 {
                     "id": "ydkj_fullstream",
@@ -1401,6 +1434,13 @@
                 "steam":"https://store.steampowered.com/app/1005300/The_Jackbox_Party_Pack_6/",
                 "epic":"https://store.epicgames.com/p/jackbox-party-pack-6"
             },
+            "configuration": {
+                "file": "config.jet",
+                "version_property": "buildVersion",
+                "version_origin": "game_file",
+                "version_file": "config.jet"
+            },
+            "patchs": [],
             "games": [
                 {
                     "id": "trivia_murder_party_2",
@@ -1654,6 +1694,13 @@
                 "steam":"https://store.steampowered.com/app/1211630/The_Jackbox_Party_Pack_7/",
                 "epic":"https://store.epicgames.com/p/jackbox-party-pack-7"
             },
+            "configuration": {
+                "file": "config.jet",
+                "version_property": "buildVersion",
+                "version_origin": "game_file",
+                "version_file": "config.jet"
+            },
+            "patchs": [],
             "games": [
                 {
                     "id": "champdup",
@@ -1906,6 +1953,13 @@
                 "steam":"https://store.steampowered.com/app/1552350/The_Jackbox_Party_Pack_8/",
                 "epic":"https://store.epicgames.com/p/jackbox-party-pack-8"
             },
+            "configuration": {
+                "file": "config.jet",
+                "version_property": "buildVersion",
+                "version_origin": "game_file",
+                "version_file": "config.jet"
+            },
+            "patchs": [],
             "games": [
                 {
                     "id": "drawful_animate",
@@ -2154,9 +2208,10 @@
                 "version": "1.0.0"
             },
             "configuration": {
+                "file": "jbg.config.jet",
+                "version_property": "buildVersion",
                 "version_origin": "game_file",
-                "version_file": "config.jet",
-                "version_property": "buildVersion"
+                "version_file": "jbg.config.jet"
             },
             "patchs": [],
             "store_links":{
@@ -2408,6 +2463,12 @@
                 "path": "loaders/tjpstarter/default.zip",
                 "version": "1.0.0"
             },
+            "configuration": {
+                "file": "config.jet",
+                "version_property": "buildVersion",
+                "version_origin": "game_file",
+                "version_file": "config.jet"
+            },
             "patchs": [
                 {
                     "id": "jpstarter_ua",
@@ -2612,15 +2673,15 @@
                 "mac": "Fibbage XL.app/Contents/MacOS/Fibbage XL",
                 "linux": "Launcher.sh"
             },
+            "loader": {
+                "path": "loaders/standalones/default.zip",
+                "version": "1.0.0"
+            },
             "configuration": {
                 "file": "jbg.config.jet",
                 "version_property": "buildVersion",
                 "version_origin": "game_file",
                 "version_file": "jbg.config.jet"
-            },
-            "loader": {
-                "path": "loaders/standalones/default.zip",
-                "version": "1.0.0"
             },
             "patchs": [],
             "store_links":{
@@ -2690,6 +2751,12 @@
                 "path": "loaders/standalones/default.zip",
                 "version": "1.0.0"
             },
+            "configuration": {
+                "file": "jbg.config.jet",
+                "version_property": "buildVersion",
+                "version_origin": "game_file",
+                "version_file": "jbg.config.jet"
+            },
             "patchs": [],
             "store_links":{
                 "steam":"https://store.steampowered.com/app/351510/Quiplash/"
@@ -2758,6 +2825,12 @@
             "loader": {
                 "path": "loaders/standalones/default.zip",
                 "version": "1.0.0"
+            },
+            "configuration": {
+                "file": "jbg.config.jet",
+                "version_property": "buildVersion",
+                "version_origin": "game_file",
+                "version_file": "jbg.config.jet"
             },
             "patchs": [
                 {
@@ -2858,6 +2931,12 @@
             "loader": {
                 "path": "loaders/df2/default.zip",
                 "version": "1.0.0"
+            },
+            "configuration": {
+                "file": "jbg.config.jet",
+                "version_property": "buildVersion",
+                "version_origin": "game_file",
+                "version_file": "jbg.config.jet"
             },
             "patchs": [
                 {
