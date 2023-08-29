@@ -703,7 +703,7 @@
                             "max": 8
                         },
                         "length": "Близько 15 хвилин",
-                        "playtime":{!
+                        "playtime":{
                             "min":15,
                             "max":20
                         },
