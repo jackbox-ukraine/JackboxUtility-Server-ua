@@ -2473,10 +2473,10 @@
                 {
                     "id": "jpstarter_ua",
                     "name": "Jackbox Party Starter",
-                    "small_description": "Текстовий переклад Смертельні Вечорниці 2 та озвучення Футбол К.О.",
-                    "description": "Текстовий переклад Смертельні Вечорниці 2 та озвучення Футбол К.О.",
-                    "version": "216.13-UK",
-                    "patch_path": "https://github.com/easysugar/jackbox-starter-pack-ua/releases/download/v1.2/jackbox-starter-pack-ua-v1.2.zip",
+                    "small_description": "Текстовий переклад Смертельні Вечорниці 2, Сміхрясь 3 та озвучення Футбол К.О.",
+                    "description": "Текстовий переклад Смертельні Вечорниці 2, Сміхрясь 3 та озвучення Футбол К.О.",
+                    "version": "216.14-UK",
+                    "patch_path": "https://github.com/easysugar/jackbox-starter-pack-ua/releases/latest/download/TheJackboxPartyStarter-UA.zip",
                     "configuration": {
                         "version_origin": "repo_file",
                         "version_file": "https://raw.githubusercontent.com/easysugar/jackbox-starter-pack-ua/main/config.jet",
@@ -2505,6 +2505,21 @@
                             "description": "Повний текстовий переклад гри без озвучення.",
                             "authors": "Jackbox Ukraine",
                             "small_description": "Повний текстовий переклад гри без озвучення",
+                            "patch_type": {
+                                "game_text": true,
+                                "game_assets": true,
+                                "game_subtitles": true,
+                                "website": true,
+                                "audios": false
+                            }
+                        },
+                        {
+                            "id": "quiplash3_starter_patch",
+                            "linked_game": "quiplash3_starter",
+                            "name": "Сміхрясь 3",
+                            "description": "Повний текстовий переклад гри без озвучення.",
+                            "authors": "Jackbox Ukraine",
+                            "small_description": "Повний текстовий переклад гри",
                             "patch_type": {
                                 "game_text": true,
                                 "game_assets": true,
