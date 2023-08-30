@@ -570,7 +570,6 @@
                     "name": "Jackbox Party Pack 3",
                     "small_description": "Текстовий переклад та озвучення чотирьох ігор.",
                     "description": "Текстовий переклад та озвучення чотирьох ігор.",
-                    "version": "Build:  13.9-UK",
                     "patch_path": "https://github.com/easysugar/jackbox-pack-3/releases/download/v4.1/JPP3-v4.1.zip",
                     "configuration": {
                         "version_origin": "repo_file",
@@ -902,7 +901,6 @@
                     "name": "Jackbox Party Pack 4",
                     "small_description": "Текстовий альфа-переклад гри Монстр шукає монстра.",
                     "description": "Текстовий альфа-переклад гри Монстр шукає монстра.",
-                    "version": "Build:  134.2-UK",
                     "patch_path": "https://github.com/easysugar/jackbox-pack-4/releases/download/v0.0.2/JPP4-v0.0.2.zip",
                     "configuration": {
                         "version_origin": "repo_file",
@@ -2475,7 +2473,6 @@
                     "name": "Jackbox Party Starter",
                     "small_description": "Текстовий переклад Смертельні Вечорниці 2, Сміхрясь 3 та озвучення Футбол К.О.",
                     "description": "Текстовий переклад Смертельні Вечорниці 2, Сміхрясь 3 та озвучення Футбол К.О.",
-                    "version": "216.14-UK",
                     "patch_path": "https://github.com/easysugar/jackbox-starter-pack-ua/releases/latest/download/TheJackboxPartyStarter-UA.zip",
                     "configuration": {
                         "version_origin": "repo_file",
@@ -2853,7 +2850,6 @@
                     "name": "Сміхрясь 2 МіжСМІХціональний",
                     "small_description": "Текстовий переклад гри та часткове озвучення.",
                     "description": "Текстовий переклад гри та часткове озвучення.",
-                    "version": "Build:  141.7-UK",
                     "patch_path": "https://github.com/easysugar/jackbox-quiplash2-ua/releases/download/v1.0/quiplash2-ua-v1.0.zip",
                     "configuration": {
 						"version_origin":"repo_file",
@@ -2959,7 +2955,6 @@
                     "name": "Малювач 2",
                     "small_description": "Текстовий переклад гри та повне озвучення.",
                     "description": "Текстовий переклад гри та повне озвучення.",
-                    "version": "150.7-UK",
                     "patch_path": "https://github.com/easysugar/jackbox-drawful-2-ua/releases/download/v1.1/Drawful2-v1.1.zip",
                     "configuration": {
                         "version_origin": "repo_file",
