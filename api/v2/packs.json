@@ -2850,7 +2850,7 @@
                     "name": "Сміхрясь 2 МіжСМІХціональний",
                     "small_description": "Текстовий переклад гри та часткове озвучення.",
                     "description": "Текстовий переклад гри та часткове озвучення.",
-                    "patch_path": "https://github.com/easysugar/jackbox-quiplash2-ua/releases/download/v1.0/quiplash2-ua-v1.0.zip",
+                    "patch_path": "https://github.com/easysugar/jackbox-quiplash2-ua/releases/latest/download/quiplash2-ua.zip",
                     "configuration": {
 						"version_origin":"repo_file",
 						"version_file":"https://raw.githubusercontent.com/easysugar/jackbox-quiplash2-ua/main/jbg.config.jet",
