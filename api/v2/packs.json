@@ -2500,7 +2500,11 @@
                   "small_description": "TBA",
                   "description": "У грі **Tee K.O. 2** ви повернетеся на острів Футболок, на якому найзагартованіші воїни у світі змагаються в смертоносному турнірі. Однак переможця визначають не кулаки, а пальці… для малювання!",
                   "images": [
-                    "game_images/TeeKO2/teeko2.mp4"
+                    "game_images/TeeKO2/teeko2.mp4",
+                    "game_images/TeeKO2/teeko2_1.png",
+                    "game_images/TeeKO2/teeko2_2.png",
+                    "game_images/TeeKO2/teeko2_3.png",
+                    "game_images/TeeKO2/teeko2_4.png"
                   ],
                   "tags": [
                     "drawing",
@@ -2541,7 +2545,11 @@
                   "small_description": "TBA",
                   "description": "**FixyText** — це справжній Дикий захід у текстових повідомленнях! У цій хаотичній грі всі учасники групового чату одночасно друкують, щоб створити повідомлення на згадку. А видалити нічого не можна. Приймайте автовиправлення!",
                   "images": [
-                    "game_images/FixyText/fixytext.mp4"
+                    "game_images/FixyText/fixytext.mp4",
+                    "game_images/FixyText/fixytext_1.png",
+                    "game_images/FixyText/fixytext_2.png",
+                    "game_images/FixyText/fixytext_3.png",
+                    "game_images/FixyText/fixytext_4.png"
                   ],
                   "tags": [
                     "writing"
@@ -2580,7 +2588,11 @@
                   "small_description": "TBA",
                   "description": "У грі **Timejinx** вам доведеться взяти на себе роль мандрівника з майбутнього, який бере участь у вікторині. Від перемоги залежить дуже багато! Захистіть свою поточну часову лінію, відповівши на запитання про минуле!",
                   "images": [
-                    "game_images/Timejinx/timejinx.mp4"
+                    "game_images/Timejinx/timejinx.mp4",
+                    "game_images/Timejinx/timejinx_1.png",
+                    "game_images/Timejinx/timejinx_2.png",
+                    "game_images/Timejinx/timejinx_3.png",
+                    "game_images/Timejinx/timejinx_4.png"
                   ],
                   "tags": [
                     "knowledge"
@@ -2619,7 +2631,11 @@
                   "small_description": "TBA",
                   "description": "**Hypnotorious** — це гра з таємничими ролями, непередбачуваними союзами й, звісно, безглуздими відповідями на безглузді запитання. Хто на вашому боці?",
                   "images": [
-                    "game_images/Hypnotorious/hypnotorious.mp4"
+                    "game_images/Hypnotorious/hypnotorious.mp4",
+                    "game_images/Hypnotorious/hypnotorious_1.png",
+                    "game_images/Hypnotorious/hypnotorious_2.png",
+                    "game_images/Hypnotorious/hypnotorious_3.png",
+                    "game_images/Hypnotorious/hypnotorious_4.png"
                   ],
                   "tags": [
                     "writing",
@@ -2659,7 +2675,11 @@
                   "small_description": "TBA",
                   "description": "У грі **Dodo Re Mi** телефон стане вашим музичним інструментом. Разом із товаришами складіть мелодію, щоб утекти від голодної тропічної рослини.",
                   "images": [
-                    "game_images/DodoReMi/dodoremi.mp4"
+                    "game_images/DodoReMi/dodoremi.mp4",
+                    "game_images/DodoReMi/dodoremi_1.png",
+                    "game_images/DodoReMi/dodoremi_2.png",
+                    "game_images/DodoReMi/dodoremi_3.png",
+                    "game_images/DodoReMi/dodoremi_4.png"
                   ],
                   "tags": []
                 },
