@@ -2446,6 +2446,253 @@
             "background": "backgrounds/jpp9.jpg"
         },
         {
+            "id": "jpp10",
+            "name": "Jackbox Party Pack 10",
+            "description": "Десята збірка серії Jackbox Party Pack.",
+            "executables": {
+              "windows": "The Jackbox Party Pack 10.exe",
+              "mac": "The Jackbox Party Pack 10.app/Contents/MacOS/The Jackbox Party Pack 10",
+              "linux": "Launcher.sh"
+            },
+            "launchers_id": {
+              "steam": "2216830"
+            },
+            "loader": {
+              "path": "loaders/tjpp10/default.zip",
+              "version": "1.0.0"
+            },
+            "configuration": {
+              "file": "jbg.config.jet",
+              "version_property": "buildVersion",
+              "version_origin": "game_file",
+              "version_file": "jbg.config.jet"
+            },
+            "patchs": [],
+            "store_links": {
+              "steam": "https://store.steampowered.com/app/2216830/The_Jackbox_Party_Pack_10/"
+            },
+            "games": [
+              {
+                "id": "teeko2",
+                "name": "Tee K.O. 2",
+                "background": "game_backgrounds/TeeeKO2.png",
+                "path": "games/AwShirt2",
+                "game_info": {
+                  "players": {
+                    "min": 3,
+                    "max": 8
+                  },
+                  "playtime": {
+                    "min": 20,
+                    "max": 25
+                  },
+                  "family_friendly": "FAMILY_FRIENDLY",
+                  "audience": true,
+                  "audience_description": "ГГлядачі можуть голосувати за вподобані футболки. Крім того, вони можуть обирати письмові та намальовані відповіді, які відображаються на екрані з увімкненою опцією «Пропозиції глядачів».",
+                  "stream_friendly": "PLAYABLE",
+                  "moderation": "CENSORING",
+                  "moderation_description": "Увімкнувши опцію «Ручна цензура», VIP може цензурувати відповіді гравців і глядачів, щойно вони з'являться на екрані. За необхідності рекомендовано вимкнути опцію «Пропозиції глядачів», щоб лише гравці могли надсилати текст.",
+                  "subtitles": true,
+                  "type": "VERSUS",
+                  "translation": "ENGLISH",
+                  "tagline": "Битва футболок",
+                  "small_description": "У грі Tee K.O. 2 ви повернетеся на острів Футболок, на якому найзагартованіші воїни у світі змагаються в смертоносному турнірі. Однак переможця визначають не кулаки, а пальці… для малювання!",
+                  "description": "Буде написано пізніше",
+                  "images": [
+                    "game_images/TeeKO2/teeko2.mp4"
+                  ],
+                  "tags": [
+                    "drawing",
+                    "writing"
+                  ]
+                },
+                "loader": {
+                  "path": "loaders/tjpp9/fibbage4.zip",
+                  "version": "1.0.0"
+                },
+                "patchs": []
+              },
+              {
+                "id": "roomerang",
+                "name": "Roomerang",
+                "background": "game_backgrounds/Roomerang.webp",
+                "path": "games/MakeFriends",
+                "game_info": {
+                  "players": {
+                    "min": 3,
+                    "max": 9
+                  },
+                  "playtime": {
+                    "min": 25,
+                    "max": 30
+                  },
+                  "family_friendly": "OPTIONAL",
+                  "audience": true,
+                  "audience_description": "The audience can vote for their favorite answers. In addition, they answer different polls as the players type.",
+                  "stream_friendly": "PLAYABLE",
+                  "moderation": "FULL_MODERATION",
+                  "moderation_description": "З увімкненою опцією «Модерація» модератори, зайшовши на mod.jackbox.in.ua, зможуть вирішувати, що відображатиметься на екрані. Вони також можуть вигнати гравців з гри. За необхідності рекомендовано увімкнути опцію «Фільтр лихослів'я».",
+                  "subtitles": true,
+                  "type": "VERSUS",
+                  "translation": "ENGLISH",
+                  "tagline": "Чи можете ви виграти у Roomerang?",
+                  "small_description": "Увімкніть свою внутрішню зірку реаліті-шоу та спробуйте вирватись на перше місце!",
+                  "description": "**Roomerang** — гра розрахована на 4–9 гравців і присвячена реаліті-шоу. Гравці беруть на себе ролі персонажів із визначальною рисою та мають давати відповіді, які відповідають цій рисі, а також працювати з рисами інших персонажів. Гравець з найбільшою кількістю відповідей виграє раунд і отримує перевагу в наступному вибуванні. Вибулі гравці втрачають деякі очки, але повертаються в гру з новою рисою. Перемагає гравець, який набрав найбільшу кількість очок після п'яти раундів.",
+                  "images": [
+                    "game_images/Roomerang/roomerang.mp4",
+                    "game_images/Roomerang/roomerang_1.jpg",
+                    "game_images/Roomerang/roomerang_2.jpg",
+                    "game_images/Roomerang/roomerang_3.jpg",
+                    "game_images/Roomerang/roomerang_4.jpg"
+                  ],
+                  "tags": [
+                    "writing"
+                  ]
+                },
+                "loader": {
+                  "path": "loaders/tjpp9/roomerang.zip",
+                  "version": "1.0.0"
+                },
+                "patchs": []
+              },
+              {
+                "id": "junktopia",
+                "name": "Junktopia",
+                "background": "game_backgrounds/Junktopia.webp",
+                "path": "games/AntiqueGame",
+                "game_info": {
+                  "players": {
+                    "min": 3,
+                    "max": 8
+                  },
+                  "playtime": {
+                    "min": 20,
+                    "max": 25
+                  },
+                  "family_friendly": "OPTIONAL",
+                  "audience": true,
+                  "audience_description": "Глядачі можуть голосувати за вподобані відповіді.",
+                  "stream_friendly": "MIDLY_PLAYABLE",
+                  "stream_friendly_description": "Оскільки це презентаційна гра, рекомендується, щоб гравці могли принаймні чути один одного.",
+                  "moderation": "FULL_MODERATION",
+                  "moderation_description": "З увімкненою опцією «Модерація» модератори, зайшовши на mod.jackbox.in.ua, зможуть вирішувати, що відображатиметься на екрані. Вони також можуть вигнати гравців з гри. За необхідності рекомендовано увімкнути опцію «Фільтр лихослів'я».",
+                  "subtitles": true,
+                  "type": "VERSUS",
+                  "translation": "ENGLISH",
+                  "tagline": "Продайте свої товари!",
+                  "small_description": "Дивний чарівник перетворив вас на жаб! Вигадайте кумедні передісторії для різноманітних товарів, а потім оцініть їх. Гравець з найціннішими предметами знову стає людиною!",
+                  "description": "**Junktopia** — гра розрахована на 3–8 гравців. Гравці вибирають один цікавий предмет із трьох випадкових предметів, купують цей предмет за гроші, які їм надають на початку. Гравці можуть спробувати поторгуватися, але це може призвести до негативних наслідків і змусити їх заплатити більше, ніж початкова ціна. Потім вони повинні дати фальшиву назву та історію цим об'єктам, а потім спробувати продати їх іншим гравцям за найбільшу суму грошей порівняно з предметами інших гравців.",
+                  "images": [
+                    "game_images/Junktopia/junktopia.mp4",
+                    "game_images/Junktopia/junktopia_1.jpg",
+                    "game_images/Junktopia/junktopia_2.jpg",
+                    "game_images/Junktopia/junktopia_3.jpg",
+                    "game_images/Junktopia/junktopia_4.jpg"
+                  ],
+                  "tags": [
+                    "writing"
+                  ]
+                },
+                "loader": {
+                  "path": "loaders/tjpp9/junktopia.zip",
+                  "version": "1.0.0"
+                },
+                "patchs": []
+              },
+              {
+                "id": "nonsensory",
+                "name": "Nonsensory",
+                "background": "game_backgrounds/Nonsensory.webp",
+                "path": "games/RangeGame",
+                "game_info": {
+                  "players": {
+                    "min": 3,
+                    "max": 8
+                  },
+                  "playtime": {
+                    "min": 20,
+                    "max": 25
+                  },
+                  "family_friendly": "OPTIONAL",
+                  "audience": true,
+                  "audience_description": "Глядачі намагаються вгадати правильну відповідь разом з гравцями. Вони можуть виграти гру, якщо наберуть більше балів ніж гравці.",
+                  "stream_friendly": "PLAYABLE",
+                  "moderation": "FULL_MODERATION",
+                  "moderation_description": "З увімкненою опцією «Модерація» модератори, зайшовши на mod.jackbox.in.ua, зможуть вирішувати, що відображатиметься на екрані. Вони також можуть вигнати гравців з гри. За необхідності рекомендовано увімкнути опцію «Фільтр лихослів'я».",
+                  "subtitles": true,
+                  "type": "VERSUS",
+                  "translation": "ENGLISH",
+                  "tagline": "Поділіться своїми думками!",
+                  "small_description": "Професор Наннерс тут, щоб перевірити ваше несенсорне сприйняття. Чи здогадаєтеся ви, де знаходиться підказка іншого гравця на найбезглуздішій шкалі?",
+                  "description": "**Nonsensory** — гра розрахована на 3–8 гравців і є невимушеною грою в написання, малювання та вгадування. Гравці повинні вгадати, який відсоток або за шкалою від 1 до 10, як текстова відповідь або малюнок, зроблений іншим гравцем, базується на наданій підказці. Гравці отримують бали залежно від того, наскільки близько вони до відповіді.",
+                  "images": [
+                    "game_images/Nonsensory/nonsensory.mp4",
+                    "game_images/Nonsensory/nonsensory_1.jpg",
+                    "game_images/Nonsensory/nonsensory_2.jpg",
+                    "game_images/Nonsensory/nonsensory_3.jpg",
+                    "game_images/Nonsensory/nonsensory_4.jpg"
+                  ],
+                  "tags": [
+                    "writing",
+                    "drawing"
+                  ]
+                },
+                "loader": {
+                  "path": "loaders/tjpp9/nonsensory.zip",
+                  "version": "1.0.0"
+                },
+                "patchs": []
+              },
+              {
+                "id": "quixort",
+                "name": "Quixort",
+                "background": "game_backgrounds/Quixort.webp",
+                "path": "games/Lineup",
+                "game_info": {
+                  "players": {
+                    "min": 1,
+                    "max": 10
+                  },
+                  "playtime": {
+                    "min": 20,
+                    "max": 25
+                  },
+                  "family_friendly": "OPTIONAL",
+                  "audience": true,
+                  "audience_description": "Глядачі об'єднуються в команди і сортують блоки так само, як і гравці. Наприкінці гри перемагає команда глядачів, яка зробить це найкраще.",
+                  "stream_friendly": "MIDLY_PLAYABLE",
+                  "stream_friendly_description": "Being a discussion game, it's recommended for players to be able to at least hear each other.",
+                  "moderation": "FULL_MODERATION",
+                  "moderation_description": "З увімкненою опцією «Модерація» модератори, зайшовши на mod.jackbox.in.ua можуть вигнати гравців з гри за необхідності.",
+                  "subtitles": true,
+                  "type": "TEAM",
+                  "translation": "ENGLISH",
+                  "tagline": "Сортуйте блоки!",
+                  "small_description": "Працюйте разом зі своєю командою, щоб відсортувати відповіді, що падають, у правильному порядку, перш ніж вони потраплять на підлогу!",
+                  "description": "**Quixort** — гра розрахована на 1–10 гравців і пропонує гравцям підказку, за якою гравці будуть сортувати відповіді, наприклад «тварини за кількістю ніг». Потім відповіді представлені у вигляді падучих блоків, які гравці повинні спробувати розмістити в належному порядку. У гру грають командою, але окремий варіанті гри — **Quixort Forever**, дозволяє одному гравцеві або одній команді спробувати просунутися якомога далі.",
+                  "images": [
+                    "game_images/Quixort/quixort.mp4",
+                    "game_images/Quixort/quixort_1.jpg",
+                    "game_images/Quixort/quixort_2.jpg",
+                    "game_images/Quixort/quixort_3.jpg",
+                    "game_images/Quixort/quixort_4.jpg"
+                  ],
+                  "tags": [
+                    "talking",
+                    "knowledge"
+                  ]
+                },
+                "loader": {
+                  "path": "loaders/tjpp10/quixort.zip",
+                  "version": "1.0.0"
+                },
+                "patchs": []
+              }
+            ],
+            "icon": "jpp10.ico",
+            "background": "backgrounds/jpp10.jpg"
+        },      
+        {
             "id": "jpstarter",
             "name": "Jackbox Party Starter",
             "description": "Збірка трьох ігор з яких варто починати знайомство з Jackbox Games.",
