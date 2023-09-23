@@ -899,8 +899,8 @@
         {
           "id": "jpp4_ua",
           "name": "Jackbox Party Pack 4",
-          "small_description": "Текстовий альфа-переклад гри Монстр шукає монстра.",
-          "description": "Текстовий альфа-переклад гри Монстр шукає монстра.",
+          "small_description": "Переклад ігор Вижити в Інтернеті та Монстр шукає монстра.",
+          "description": "Повний текстовий переклад гри Вижити в Інтернеті та альфа-переклад гри Монстр шукає монстра.",
           "patch_path": "https://github.com/easysugar/jackbox-pack-4/releases/latest/download/JPP4-UA.zip",
           "configuration": {
             "version_origin": "repo_file",
