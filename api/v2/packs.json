@@ -964,7 +964,7 @@
         {
           "id": "survivetheinternet",
           "name": "Вижити в Інтернеті",
-          "background": "game_backgrounds/SurviveTheInternet.webp",
+          "background": "game_backgrounds/SurviveTheInternet.png",
           "path": "games/SurviveTheInternet",
           "game_info": {
             "players": {
@@ -1141,7 +1141,7 @@
         {
           "id": "civicdoodle",
           "name": "Громадська мазня",
-          "background": "game_backgrounds/CivicDoodle.webp",
+          "background": "game_backgrounds/CivicDoodle.png",
           "path": "games/CivicDoodle",
           "game_info": {
             "players": {
@@ -1167,10 +1167,10 @@
             "description": "**Громадська мазня** — гра призначена для 3–8 гравців і є художньою грою, схожою на **Drawful** і **Bidiots**, у якій двоє гравців одночасно малюють один і той самий твір мистецтва. У перших двох раундах двом випадково вибраним гравцям надається початок дудла, і вони мають короткий час, щоб намалювати його; це робиться в режимі реального часу, дозволяючи іншим гравцям і глядачам надавати відгук про будь-який малюнок у формі попередньо вибраних емоджі. Після завершення таймера гравці та глядачі голосують за те, який малюнок кращий, при цьому очки нараховуються обом гравцям залежно від кількості голосів, які вони отримали, а також додатковий бонус у балах на основі голосів за емоджі. Згодом ще два гравці домальовують картинку, за яку проголосували найбільше. Після кількох матчів, залежно від кількості гравців у грі, не враховуючи глядачів, гравці мають запропонувати назву для зображення, за яке проголосували найбільше. Після цього гравці та глядачі голосують за свою улюблену назву. У фінальному раунді всім гравцям дають назву та початок дудла, і вони повинні намалювати елементи, які вимагає гра. Перемагає гравець, який набрав найбільшу кількість очок. Після гри гравці можуть розіграти безплатну гру або замовити сувеніри.",
             "images": [
               "game_images/CivicDoodle/civicdoodle.mp4",
-              "game_images/CivicDoodle/civicdoodle_1.webp",
-              "game_images/CivicDoodle/civicdoodle_2.webp",
-              "game_images/CivicDoodle/civicdoodle_3.webp",
-              "game_images/CivicDoodle/civicdoodle_4.webp"
+              "game_images/CivicDoodle/civicdoodle_1.png",
+              "game_images/CivicDoodle/civicdoodle_2.png",
+              "game_images/CivicDoodle/civicdoodle_3.png",
+              "game_images/CivicDoodle/civicdoodle_4.png"
             ],
             "tags": [
               "drawing"
