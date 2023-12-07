@@ -2767,10 +2767,10 @@
           "id": "jpstarter_ua",
           "name": "Jackbox Party Starter",
           "small_description": "Текстовий переклад усіх ігор, озвучення до однієї",
-          "patch_path": "https://github.com/easysugar/jackbox-starter-pack-ua/releases/latest/download/TheJackboxPartyStarter-UA.zip",
+          "patch_path": "https://github.com/jackbox-ukraine/tjsp/releases/latest/download/TheJackboxPartyStarter-UA.zip",
           "configuration": {
             "version_origin": "repo_file",
-            "version_file": "https://raw.githubusercontent.com/easysugar/jackbox-starter-pack-ua/main/config.jet",
+            "version_file": "https://raw.githubusercontent.com/jackbox-ukraine/tjsp/main/config.jet",
             "version_property": "buildVersion"
           },
           "components": [
