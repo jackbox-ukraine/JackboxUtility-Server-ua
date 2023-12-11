@@ -1882,7 +1882,7 @@
         {
           "id": "quiplash3",
           "name": "Сміхрясь 3",
-          "background": "game_backgrounds/Quiplash3.webp",
+          "background": "game_backgrounds/Quiplash3.png",
           "path": "games/Quiplash3",
           "game_info": {
             "players": {
@@ -2830,7 +2830,7 @@
         {
           "id": "quiplash3_starter",
           "name": "Сміхрясь 3 (Starter)",
-          "background": "game_backgrounds/Quiplash3Starter.webp",
+          "background": "game_backgrounds/Quiplash3Starter.png",
           "path": "games/Quiplash3",
           "game_info": {
             "players": {
