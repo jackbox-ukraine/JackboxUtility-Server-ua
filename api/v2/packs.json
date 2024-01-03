@@ -3142,7 +3142,7 @@
         {
           "id": "quip2int_ua",
           "name": "Сміхрясь 2 МіжСМІХціональний",
-          "small_description": "Текстовий переклад з частковим озвученням",
+          "small_description": "Текстовий переклад з повним озвученням",
           "patch_path": "https://github.com/jackbox-ukraine/quiplash-2/releases/latest/download/Quiplash2-UA.zip",
           "configuration": {
             "version_origin": "repo_file",
