@@ -635,6 +635,21 @@
                 "website": true,
                 "audios": true
               }
+            },
+            {
+              "id": "triviamurderparty_patch",
+              "linked_game": "triviamurderparty",
+              "name": "Смертельні вечорниці",
+              "description": "Повний текстовий переклад гри.",
+              "authors": "- Jackbox Ukraine",
+              "small_description": "Повний текстовий переклад гри",
+              "patch_type": {
+                "game_text": true,
+                "game_assets": true,
+                "game_subtitles": false,
+                "website": true,
+                "audios": false
+              }
             }
           ]
         }
@@ -736,7 +751,7 @@
         },
         {
           "id": "triviamurderparty",
-          "name": "Смертельні Вечорниці",
+          "name": "Смертельні вечорниці",
           "background": "game_backgrounds/TriviaMurderParty.webp",
           "path": "games/TriviaMurderParty",
           "game_info": {
