@@ -3262,10 +3262,10 @@
           "id": "df2_ua",
           "name": "Малювач 2",
           "small_description": "Текстовий переклад з повним озвученням",
-          "patch_path": "https://github.com/easysugar/jackbox-drawful-2-ua/releases/download/v1.1/Drawful2-v1.1.zip",
+          "patch_path": "https://github.com/jackbox-ukraine/drawful-2/releases/latest/download/Drawful2-UA.zip",
           "configuration": {
             "version_origin": "repo_file",
-            "version_file": "https://raw.githubusercontent.com/easysugar/jackbox-drawful-2-ua/main/jbg.config.jet",
+            "version_file": "https://raw.githubusercontent.com/jackbox-ukraine/drawful-2/main/jbg.config.jet",
             "version_property": "buildVersion"
           },
           "components": [
