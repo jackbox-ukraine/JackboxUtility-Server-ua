@@ -940,15 +940,15 @@
               "id": "survivetheinternet_patch",
               "linked_game": "survivetheinternet",
               "name": "Вижити в Інтернеті",
-              "description": "Текстовий переклад гри без озвучення.",
-              "authors": "Jackbox Ukraine",
-              "small_description": "Текстовий переклад гри без озвучення",
+              "description": "Повний дубляж гри. Озвучують Квадратний у ролі ведучого, та OLDBoi у ролі блогера.",
+              "authors": "- Jackbox Ukraine\n- Квадратний\n- OLDBoi",
+              "small_description": "Повний дубляж гри",
               "patch_type": {
                 "game_text": true,
                 "game_assets": true,
                 "game_subtitles": false,
                 "website": true,
-                "audios": false
+                "audios": true
               }
             },
             {
