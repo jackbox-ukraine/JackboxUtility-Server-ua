@@ -1496,7 +1496,36 @@
         "version_origin": "game_file",
         "version_file": "config.jet"
       },
-      "patchs": [],
+      "patchs": [
+        {
+          "id": "tjpp6_ua",
+          "name": "Jackbox Party Starter",
+          "small_description": "Текстовий переклад однієї гри",
+          "patch_path": "https://github.com/jackbox-ukraine/jpp6/releases/latest/download/JPP6-UA.zip",
+          "configuration": {
+            "version_origin": "repo_file",
+            "version_file": "https://raw.githubusercontent.com/jackbox-ukraine/jpp6/main/config.jet",
+            "version_property": "buildVersion"
+          },
+          "components": [
+            {
+              "id": "trivia_murder_party_2_patch",
+              "linked_game": "trivia_murder_party_2",
+              "name": "Смертельні Вечорниці 2",
+              "description": "Повний текстовий переклад гри без озвучення.",
+              "authors": "Jackbox Ukraine",
+              "small_description": "Повний текстовий переклад гри без озвучення",
+              "patch_type": {
+                "game_text": true,
+                "game_assets": true,
+                "game_subtitles": true,
+                "website": true,
+                "audios": false
+              }
+            }
+          ]
+        }
+      ],
       "games": [
         {
           "id": "trivia_murder_party_2",
