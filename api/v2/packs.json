@@ -2020,28 +2020,28 @@
             "small_description": "Небезпека! Прибульці-перевертні проникли на ваш зореліт. Чи зможете ви та ваш екіпаж знайти їх до того, як закінчиться час?",
             "description": "**Push The Button** — гра призначена для 4–10 гравців і відбувається на космічному кораблі, де один або кілька гравців були призначені інопланетянами, а інші гравці-люди повинні викинути прибульців до закінчення часу. У кожному раунді один гравець визначає дію на кораблі (наприклад, малювання чи написання відповіді на запитання) і обирає номер іншого екіпажу для участі. Призначені гравці-люди отримують одні підказки, а гравці-інопланетяни отримують інші, що, ймовірно, спричинить деяку плутанину. Показуються результати, і гравці мають час визначити, чи здається якась відповідь підозрілою. У пізніших раундах гравці-інопланетяни мають «гаки», які вони можуть використати, щоб отримати правильну підказку людини або натомість надіслати підказку прибульця людині. У будь-який момент до закінчення таймера один гравець може «натиснути кнопку» та вибрати іншого гравця чи навіть кількох гравців, яких він вважає інопланетянами. Потім усі інші гравці голосують, підтримують вони це чи ні. Для того, щоб гравці були викинуті, має бути прийнято одноголосне голосування. Якщо голосування провалилося, гра продовжується. Якщо голосування вдалось, гра показує, правильні чи неправильні були припущення. Гравці-інопланетяни виграють, якщо хтось із гравців проголосує проти людини або жоден із гравців не натисне кнопку до закінчення часу.",
             "images": [
-          "game_images/PushTheButton/pushthebutton.mp4",
-          "game_images/PushTheButton/pushthebutton_1.webp",
-          "game_images/PushTheButton/pushthebutton_2.webp",
-          "game_images/PushTheButton/pushthebutton_3.webp",
-          "game_images/PushTheButton/pushthebutton_4.webp"
-        ],
-        "tags": [
-          "talking",
-          "writing",
-          "drawing",
-          "deduction"
-        ]
-        },
-      "loader": {
-        "path": "loaders/tjpp6_egs/pushthebutton.zip",
-        "version": "1.0.0"
-      },
-      "patchs": []
-    }
-  ],
-  "icon": "jpp6.ico",
-  "background": "backgrounds/jpp6.jpg"
+              "game_images/PushTheButton/pushthebutton.mp4",
+              "game_images/PushTheButton/pushthebutton_1.webp",
+              "game_images/PushTheButton/pushthebutton_2.webp",
+              "game_images/PushTheButton/pushthebutton_3.webp",
+              "game_images/PushTheButton/pushthebutton_4.webp"
+            ],
+            "tags": [
+              "talking",
+              "writing",
+              "drawing",
+              "deduction"
+            ]
+          },
+          "loader": {
+            "path": "loaders/tjpp6_egs/pushthebutton.zip",
+            "version": "1.0.0"
+          },
+          "patchs": []
+        }
+      ],
+      "icon": "jpp6.ico",
+      "background": "backgrounds/jpp6.jpg"
     },
     {
       "id": "jpp7",
