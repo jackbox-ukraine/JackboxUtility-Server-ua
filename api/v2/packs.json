@@ -1499,7 +1499,7 @@
       "patchs": [
         {
           "id": "tjpp6_ua",
-          "name": "Jackbox Party Starter",
+          "name": "Jackbox Party Pack 6 (Steam)",
           "small_description": "Текстовий переклад однієї гри",
           "patch_path": "https://github.com/jackbox-ukraine/jpp6/releases/latest/download/JPP6-UA.zip",
           "configuration": {
@@ -1786,7 +1786,7 @@
       "patchs": [
         {
           "id": "tjpp6_ua_egs",
-          "name": "Jackbox Party Starter",
+          "name": "Jackbox Party Pack 6 (Epic Games)",
           "small_description": "Текстовий переклад однієї гри",
           "patch_path": "https://github.com/jackbox-ukraine/jpp6/releases/latest/download/JPP6-UA.zip",
           "configuration": {
@@ -3205,7 +3205,7 @@
         {
           "id": "teeko_starter",
           "name": "Футбол К.О. (Starter)",
-          "background": "game_backgrounds/TeeKOStarter.webp",
+          "background": "game_backgrounds/TeeKOStarter.png",
           "path": "games/AwShirt",
           "game_info": {
             "players": {
@@ -3250,7 +3250,7 @@
         {
           "id": "trivia_murder_party_2_starter",
           "name": "Смертельні Вечорниці 2 (Starter)",
-          "background": "game_backgrounds/TriviaMurderParty2Starter.webp",
+          "background": "game_backgrounds/TriviaMurderParty2Starter.png",
           "path": "games/triviadeath2",
           "game_info": {
             "players": {
