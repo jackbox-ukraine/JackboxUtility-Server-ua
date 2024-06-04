@@ -1529,7 +1529,7 @@
       "games": [
         {
           "id": "trivia_murder_party_2",
-          "name": "Смертельні Вечорниці 2",
+          "name": "Смертельні Вечорниці 2 (Steam)",
           "background": "game_backgrounds/TriviaMurderParty2.png",
           "path": "games/TriviaMurderParty2",
           "game_info": {
@@ -1576,7 +1576,7 @@
         },
         {
           "id": "role_models",
-          "name": "Role Models",
+          "name": "Role Models (Steam)",
           "background": "game_backgrounds/RoleModels.png",
           "path": "games/RoleModels",
           "game_info": {
@@ -1620,7 +1620,7 @@
         },
         {
           "id": "jokeboat",
-          "name": "Joke Boat",
+          "name": "Joke Boat (Steam)",
           "background": "game_backgrounds/JokeBoat.png",
           "path": "games/JokeBoat",
           "game_info": {
@@ -1665,7 +1665,7 @@
         },
         {
           "id": "dictionarium",
-          "name": "Dictionarium",
+          "name": "Dictionarium (Steam)",
           "background": "game_backgrounds/Dictionarium.png",
           "path": "games/Ridictionary",
           "game_info": {
@@ -1709,7 +1709,7 @@
         },
         {
           "id": "pushthebutton",
-          "name": "Push The Button",
+          "name": "Push The Button (Steam)",
           "background": "game_backgrounds/PushTheButton.png",
           "path": "games/PushTheButton",
           "game_info": {
@@ -1816,7 +1816,7 @@
       "games": [
         {
           "id": "trivia_murder_party_2_egs",
-          "name": "Смертельні Вечорниці 2",
+          "name": "Смертельні Вечорниці 2 (Epic Games)",
           "background": "game_backgrounds/TriviaMurderParty2_egs.png",
           "path": "games/TriviaMurderParty2",
           "game_info": {
@@ -1863,7 +1863,7 @@
         },
         {
           "id": "role_models_egs",
-          "name": "Role Models",
+          "name": "Role Models (Epic Games)",
           "background": "game_backgrounds/RoleModels_egs.png",
           "path": "games/RoleModels",
           "game_info": {
@@ -1907,7 +1907,7 @@
         },
         {
           "id": "jokeboat_egs",
-          "name": "Joke Boat",
+          "name": "Joke Boat (Epic Games)",
           "background": "game_backgrounds/JokeBoat_egs.png",
           "path": "games/JokeBoat",
           "game_info": {
@@ -1952,7 +1952,7 @@
         },
         {
           "id": "dictionarium_egs",
-          "name": "Dictionarium",
+          "name": "Dictionarium (Epic Games)",
           "background": "game_backgrounds/Dictionarium_egs.png",
           "path": "games/Ridictionary",
           "game_info": {
@@ -1996,7 +1996,7 @@
         },
         {
           "id": "pushthebutton_egs",
-          "name": "Push The Button",
+          "name": "Push The Button (Epic Games)",
           "background": "game_backgrounds/PushTheButton_egs.png",
           "path": "games/PushTheButton",
           "game_info": {
