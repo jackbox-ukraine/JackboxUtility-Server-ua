@@ -2072,7 +2072,36 @@
         "version_origin": "game_file",
         "version_file": "config.jet"
       },
-      "patchs": [],
+      "patchs": [
+        {
+          "id": "tjpp7_ua",
+          "name": "Jackbox Party Pack 7",
+          "small_description": "Переклад однієї гри з частковою озвучкою",
+          "patch_path": "https://github.com/jackbox-ukraine/jpp7/releases/latest/download/JPP7-UA.zip",
+          "configuration": {
+            "version_origin": "repo_file",
+            "version_file": "https://raw.githubusercontent.com/jackbox-ukraine/jpp7/main/config.jet",
+            "version_property": "buildVersion"
+          },
+          "components": [
+            {
+              "id": "quiplash3_patch",
+              "linked_game": "quiplash3",
+              "name": "Сміхрясь 3",
+              "description": "Повний текстовий переклад гри з неповним озвученням.",
+              "authors": "- Jackbox Ukraine\n- Lost Human",
+              "small_description": "Повний текстовий переклад гри з неповним озвученням",
+              "patch_type": {
+                "game_text": true,
+                "game_assets": true,
+                "game_subtitles": true,
+                "website": true,
+                "audios": true
+              }
+            }
+          ]
+        }
+      ],
       "games": [
         {
           "id": "champdup",
@@ -3139,15 +3168,15 @@
               "id": "quiplash3_starter_patch",
               "linked_game": "quiplash3_starter",
               "name": "Сміхрясь 3",
-              "description": "Повний текстовий переклад гри без озвучення.",
-              "authors": "Jackbox Ukraine",
-              "small_description": "Повний текстовий переклад гри без озвучення",
+              "description": "Повний текстовий переклад гри з повним озвученням від Lost Human'а.",
+              "authors": "- Jackbox Ukraine\n- Lost Human",
+              "small_description": "Повний текстовий переклад гри з повним озвученням від Lost Human'а.",
               "patch_type": {
                 "game_text": true,
                 "game_assets": true,
                 "game_subtitles": true,
                 "website": true,
-                "audios": false
+                "audios": true
               }
             }
           ]
