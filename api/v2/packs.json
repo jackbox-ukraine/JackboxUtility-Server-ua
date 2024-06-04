@@ -1471,7 +1471,7 @@
     },
     {
       "id": "jpp6",
-      "name": "Jackbox Party Pack 6",
+      "name": "Jackbox Party Pack 6 (Steam)",
       "description": "Шоста збірка серії Jackbox Party Pack.",
       "executables": {
         "windows": "The Jackbox Party Pack 6.exe",
@@ -1479,22 +1479,20 @@
         "linux": "Launcher.sh"
       },
       "launchers_id": {
-        "steam": "1005300",
-        "epic": "Astrapia"
+        "steam": "1005300"
       },
       "loader": {
         "path": "loaders/tjpp6/default.zip",
         "version": "1.0.0"
       },
       "store_links": {
-        "steam": "https://store.steampowered.com/app/1005300/The_Jackbox_Party_Pack_6/",
-        "epic": "https://store.epicgames.com/p/jackbox-party-pack-6"
+        "steam": "https://store.steampowered.com/app/1005300/The_Jackbox_Party_Pack_6/"
       },
       "configuration": {
         "file": "config.jet",
         "version_property": "buildVersion",
         "version_origin": "game_file",
-        "version_file": "config.jet"
+        "version_file": "jbg.config.jet"
       },
       "patchs": [
         {
