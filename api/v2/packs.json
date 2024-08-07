@@ -119,6 +119,11 @@
             "path": "loaders/tjpp1/ydkj2015.zip",
             "version": "1.0.1"
           },
+          "launch_with_loaders": {
+            "steam": false,
+            "epic_games": true,
+            "native": true
+          },
           "patchs": []
         },
         {
@@ -163,6 +168,11 @@
             "path": "loaders/tjpp1/fibbagexl.zip",
             "version": "1.0.1"
           },
+          "launch_with_loaders": {
+            "steam": false,
+            "epic_games": true,
+            "native": true
+          },
           "patchs": []
         },
         {
@@ -204,6 +214,11 @@
           "loader": {
             "path": "loaders/tjpp1/drawful.zip",
             "version": "1.0.1"
+          },
+          "launch_with_loaders": {
+            "steam": false,
+            "epic_games": true,
+            "native": true
           },
           "patchs": []
         },
@@ -247,6 +262,11 @@
             "path": "loaders/tjpp1/wordspud.zip",
             "version": "1.0.0"
           },
+          "launch_with_loaders": {
+            "steam": false,
+            "epic_games": true,
+            "native": true
+          },
           "patchs": []
         },
         {
@@ -288,6 +308,11 @@
           "loader": {
             "path": "loaders/tjpp1/lieswatter.zip",
             "version": "1.0.1"
+          },
+          "launch_with_loaders": {
+            "steam": false,
+            "epic_games": true,
+            "native": true
           },
           "patchs": []
         }
@@ -367,6 +392,11 @@
             "path": "loaders/tjpp2/bombcorp.zip",
             "version": "1.0.0"
           },
+          "launch_with_loaders": {
+            "steam": false,
+            "epic_games": true,
+            "native": true
+          },
           "patchs": []
         },
         {
@@ -411,6 +441,11 @@
           "loader": {
             "path": "loaders/tjpp2/quiplashxl.zip",
             "version": "1.0.0"
+          },
+          "launch_with_loaders": {
+            "steam": false,
+            "epic_games": true,
+            "native": true
           },
           "patchs": []
         },
@@ -458,6 +493,11 @@
             "path": "loaders/tjpp2/fibbage2.zip",
             "version": "1.0.0"
           },
+          "launch_with_loaders": {
+            "steam": false,
+            "epic_games": true,
+            "native": true
+          },
           "patchs": []
         },
         {
@@ -500,6 +540,11 @@
           "loader": {
             "path": "loaders/tjpp2/earwax.zip",
             "version": "1.0.0"
+          },
+          "launch_with_loaders": {
+            "steam": false,
+            "epic_games": true,
+            "native": true
           },
           "patchs": []
         },
@@ -545,6 +590,11 @@
           "loader": {
             "path": "loaders/tjpp2/bidiots.zip",
             "version": "1.0.0"
+          },
+          "launch_with_loaders": {
+            "steam": false,
+            "epic_games": true,
+            "native": true
           },
           "patchs": []
         }
@@ -715,6 +765,11 @@
             "path": "loaders/tjpp3/fakinit.zip",
             "version": "1.0.0"
           },
+          "launch_with_loaders": {
+            "steam": false,
+            "epic_games": true,
+            "native": true
+          },
           "patchs": []
         },
         {
@@ -760,6 +815,11 @@
             "path": "loaders/tjpp3/quiplash2.zip",
             "version": "1.0.0"
           },
+          "launch_with_loaders": {
+            "steam": false,
+            "epic_games": true,
+            "native": true
+          },
           "patchs": []
         },
         {
@@ -804,6 +864,11 @@
           "loader": {
             "path": "loaders/tjpp3/triviamurderparty.zip",
             "version": "1.0.0"
+          },
+          "launch_with_loaders": {
+            "steam": false,
+            "epic_games": true,
+            "native": true
           },
           "patchs": []
         },
@@ -851,6 +916,11 @@
             "path": "loaders/tjpp3/teeko.zip",
             "version": "1.0.0"
           },
+          "launch_with_loaders": {
+            "steam": false,
+            "epic_games": true,
+            "native": true
+          },
           "patchs": []
         },
         {
@@ -895,6 +965,11 @@
           "loader": {
             "path": "loaders/tjpp3/guesspionage.zip",
             "version": "1.0.0"
+          },
+          "launch_with_loaders": {
+            "steam": false,
+            "epic_games": true,
+            "native": true
           },
           "patchs": []
         }
@@ -1063,6 +1138,11 @@
             "path": "loaders/tjpp4/survivetheinternet.zip",
             "version": "1.0.0"
           },
+          "launch_with_loaders": {
+            "steam": false,
+            "epic_games": true,
+            "native": true
+          },
           "patchs": []
         },
         {
@@ -1108,6 +1188,11 @@
             "path": "loaders/tjpp4/monsterseekingmonster.zip",
             "version": "1.0.0"
           },
+          "launch_with_loaders": {
+            "steam": false,
+            "epic_games": true,
+            "native": true
+          },
           "patchs": []
         },
         {
@@ -1152,6 +1237,11 @@
           "loader": {
             "path": "loaders/tjpp4/bracketeering.zip",
             "version": "1.0.0"
+          },
+          "launch_with_loaders": {
+            "steam": false,
+            "epic_games": true,
+            "native": true
           },
           "patchs": []
         },
@@ -1199,6 +1289,11 @@
             "path": "loaders/tjpp4/fibbage3.zip",
             "version": "1.0.0"
           },
+          "launch_with_loaders": {
+            "steam": false,
+            "epic_games": true,
+            "native": true
+          },
           "patchs": []
         },
         {
@@ -1243,6 +1338,11 @@
           "loader": {
             "path": "loaders/tjpp4/civicdoodle.zip",
             "version": "1.0.0"
+          },
+          "launch_with_loaders": {
+            "steam": false,
+            "epic_games": true,
+            "native": true
           },
           "patchs": []
         }
@@ -1322,6 +1422,11 @@
             "path": "loaders/tjpp5/ydkjfullstream.zip",
             "version": "1.0.0"
           },
+          "launch_with_loaders": {
+            "steam": false,
+            "epic_games": true,
+            "native": true
+          },
           "patchs": []
         },
         {
@@ -1366,6 +1471,11 @@
           "loader": {
             "path": "loaders/tjpp5/madversecity.zip",
             "version": "1.0.0"
+          },
+          "launch_with_loaders": {
+            "steam": false,
+            "epic_games": true,
+            "native": true
           },
           "patchs": []
         },
@@ -1412,6 +1522,11 @@
             "path": "loaders/tjpp5/zeepledome.zip",
             "version": "1.0.0"
           },
+          "launch_with_loaders": {
+            "steam": false,
+            "epic_games": true,
+            "native": true
+          },
           "patchs": []
         },
         {
@@ -1456,6 +1571,11 @@
           "loader": {
             "path": "loaders/tjpp5/splittheroom.zip",
             "version": "1.0.0"
+          },
+          "launch_with_loaders": {
+            "steam": false,
+            "epic_games": true,
+            "native": true
           },
           "patchs": []
         },
@@ -1503,6 +1623,11 @@
           "loader": {
             "path": "loaders/tjpp5/patentlystupid.zip",
             "version": "1.0.0"
+          },
+          "launch_with_loaders": {
+            "steam": false,
+            "epic_games": true,
+            "native": true
           },
           "patchs": []
         }
@@ -1612,6 +1737,11 @@
             "path": "loaders/tjpp6/triviamurderparty2.zip",
             "version": "1.0.0"
           },
+          "launch_with_loaders": {
+            "steam": false,
+            "epic_games": true,
+            "native": true
+          },
           "patchs": []
         },
         {
@@ -1656,6 +1786,11 @@
           "loader": {
             "path": "loaders/tjpp6/rolemodels.zip",
             "version": "1.0.0"
+          },
+          "launch_with_loaders": {
+            "steam": false,
+            "epic_games": true,
+            "native": true
           },
           "patchs": []
         },
@@ -1703,6 +1838,11 @@
             "path": "loaders/tjpp6/jokeboat.zip",
             "version": "1.0.0"
           },
+          "launch_with_loaders": {
+            "steam": false,
+            "epic_games": true,
+            "native": true
+          },
           "patchs": []
         },
         {
@@ -1747,6 +1887,11 @@
           "loader": {
             "path": "loaders/tjpp6/dictionarium.zip",
             "version": "1.0.0"
+          },
+          "launch_with_loaders": {
+            "steam": false,
+            "epic_games": true,
+            "native": true
           },
           "patchs": []
         },
@@ -1795,6 +1940,11 @@
           "loader": {
             "path": "loaders/tjpp6/pushthebutton.zip",
             "version": "1.0.0"
+          },
+          "launch_with_loaders": {
+            "steam": false,
+            "epic_games": true,
+            "native": true
           },
           "patchs": []
         }
@@ -1904,6 +2054,11 @@
             "path": "loaders/tjpp7/champdup.zip",
             "version": "1.0.0"
           },
+          "launch_with_loaders": {
+            "steam": false,
+            "epic_games": true,
+            "native": true
+          },
           "patchs": []
         },
         {
@@ -1951,6 +2106,11 @@
             "path": "loaders/tjpp7/talkingpoints.zip",
             "version": "1.0.1"
           },
+          "launch_with_loaders": {
+            "steam": false,
+            "epic_games": true,
+            "native": true
+          },
           "patchs": []
         },
         {
@@ -1996,6 +2156,11 @@
           "loader": {
             "path": "loaders/tjpp7/thedevilsandthedetails.zip",
             "version": "1.0.0"
+          },
+          "launch_with_loaders": {
+            "steam": false,
+            "epic_games": true,
+            "native": true
           },
           "patchs": []
         },
@@ -2043,6 +2208,11 @@
             "path": "loaders/tjpp7/quiplash3.zip",
             "version": "1.0.0"
           },
+          "launch_with_loaders": {
+            "steam": false,
+            "epic_games": true,
+            "native": true
+          },
           "patchs": []
         },
         {
@@ -2088,6 +2258,11 @@
           "loader": {
             "path": "loaders/tjpp7/blatherround.zip",
             "version": "1.0.0"
+          },
+          "launch_with_loaders": {
+            "steam": false,
+            "epic_games": true,
+            "native": true
           },
           "patchs": []
         }
@@ -2167,6 +2342,11 @@
             "path": "loaders/tjpp8/drawfulanimate.zip",
             "version": "1.0.0"
           },
+          "launch_with_loaders": {
+            "steam": false,
+            "epic_games": true,
+            "native": true
+          },
           "patchs": []
         },
         {
@@ -2212,6 +2392,11 @@
             "path": "loaders/tjpp8/thewheelofenormousproportions.zip",
             "version": "1.0.0"
           },
+          "launch_with_loaders": {
+            "steam": false,
+            "epic_games": true,
+            "native": true
+          },
           "patchs": []
         },
         {
@@ -2256,6 +2441,11 @@
           "loader": {
             "path": "loaders/tjpp8/jobjob.zip",
             "version": "1.0.0"
+          },
+          "launch_with_loaders": {
+            "steam": false,
+            "epic_games": true,
+            "native": true
           },
           "patchs": []
         },
@@ -2304,6 +2494,11 @@
             "path": "loaders/tjpp8/thepollmine.zip",
             "version": "1.0.0"
           },
+          "launch_with_loaders": {
+            "steam": false,
+            "epic_games": true,
+            "native": true
+          },
           "patchs": []
         },
         {
@@ -2351,6 +2546,11 @@
           "loader": {
             "path": "loaders/tjpp8/weaponsdrawn.zip",
             "version": "1.0.0"
+          },
+          "launch_with_loaders": {
+            "steam": false,
+            "epic_games": true,
+            "native": true
           },
           "patchs": []
         }
@@ -2430,6 +2630,11 @@
             "path": "loaders/tjpp9/fibbage4.zip",
             "version": "1.0.0"
           },
+          "launch_with_loaders": {
+            "steam": false,
+            "epic_games": true,
+            "native": true
+          },
           "patchs": []
         },
         {
@@ -2474,6 +2679,11 @@
           "loader": {
             "path": "loaders/tjpp9/roomerang.zip",
             "version": "1.0.0"
+          },
+          "launch_with_loaders": {
+            "steam": false,
+            "epic_games": true,
+            "native": true
           },
           "patchs": []
         },
@@ -2521,6 +2731,11 @@
             "path": "loaders/tjpp9/junktopia.zip",
             "version": "1.0.0"
           },
+          "launch_with_loaders": {
+            "steam": false,
+            "epic_games": true,
+            "native": true
+          },
           "patchs": []
         },
         {
@@ -2566,6 +2781,11 @@
           "loader": {
             "path": "loaders/tjpp9/nonsensory.zip",
             "version": "1.0.0"
+          },
+          "launch_with_loaders": {
+            "steam": false,
+            "epic_games": true,
+            "native": true
           },
           "patchs": []
         },
@@ -2613,6 +2833,11 @@
           "loader": {
             "path": "loaders/tjpp9/quixort.zip",
             "version": "1.0.0"
+          },
+          "launch_with_loaders": {
+            "steam": false,
+            "epic_games": true,
+            "native": true
           },
           "patchs": []
         }
@@ -2691,6 +2916,11 @@
             "path": "loaders/tjpp10/teeko2.zip",
             "version": "1.0.0"
           },
+          "launch_with_loaders": {
+            "steam": false,
+            "epic_games": true,
+            "native": true
+          },
           "patchs": []
         },
         {
@@ -2736,6 +2966,11 @@
             "path": "loaders/tjpp10/fixytext.zip",
             "version": "1.0.0"
           },
+          "launch_with_loaders": {
+            "steam": false,
+            "epic_games": true,
+            "native": true
+          },
           "patchs": []
         },
         {
@@ -2780,6 +3015,11 @@
           "loader": {
             "path": "loaders/tjpp10/timejinx.zip",
             "version": "1.0.0"
+          },
+          "launch_with_loaders": {
+            "steam": false,
+            "epic_games": true,
+            "native": true
           },
           "patchs": []
         },
@@ -2827,6 +3067,11 @@
             "path": "loaders/tjpp10/hypnotorious.zip",
             "version": "1.0.0"
           },
+          "launch_with_loaders": {
+            "steam": false,
+            "epic_games": true,
+            "native": true
+          },
           "patchs": []
         },
         {
@@ -2870,6 +3115,11 @@
           "loader": {
             "path": "loaders/tjpp10/dodoremi.zip",
             "version": "1.0.0"
+          },
+          "launch_with_loaders": {
+            "steam": false,
+            "epic_games": true,
+            "native": true
           },
           "patchs": []
         }
@@ -3007,6 +3257,11 @@
             "path": "loaders/tjpstarter/quiplash3.zip",
             "version": "1.0.1"
           },
+          "launch_with_loaders": {
+            "steam": false,
+            "epic_games": true,
+            "native": true
+          },
           "patchs": []
         },
         {
@@ -3052,6 +3307,11 @@
           "loader": {
             "path": "loaders/tjpstarter/teeko.zip",
             "version": "1.0.1"
+          },
+          "launch_with_loaders": {
+            "steam": false,
+            "epic_games": true,
+            "native": true
           },
           "patchs": []
         },
@@ -3100,6 +3360,11 @@
           "loader": {
             "path": "loaders/tjpstarter/triviamurderparty2.zip",
             "version": "1.0.1"
+          },
+          "launch_with_loaders": {
+            "steam": false,
+            "epic_games": true,
+            "native": true
           },
           "patchs": []
         }
