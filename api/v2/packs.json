@@ -1044,6 +1044,7 @@
             "version_file": "https://raw.githubusercontent.com/jackbox-ukraine/jpp4/main/config.jet",
             "version_property": "buildVersion"
           },
+          "supported_launchers": ["steam","native"],
           "components": [
             {
               "id": "monsterseekingmonster_patch",
@@ -1722,6 +1723,7 @@
             "version_file": "https://raw.githubusercontent.com/jackbox-ukraine/jpp6/main/config.jet",
             "version_property": "buildVersion"
           },
+          "supported_launchers": ["steam","native"],
           "components": [
             {
               "id": "trivia_murder_party_2_patch",
@@ -2042,13 +2044,14 @@
         {
           "id": "tjpp7_ua",
           "name": "Jackbox Party Pack 7",
-          "small_description": "Текстовий переклад однієї гри з частковим озвучнням",
+          "small_description": "Текстовий переклад однієї гри з частковим озвученням",
           "patch_path": "https://github.com/jackbox-ukraine/jpp7/releases/latest/download/JPP7-UA.zip",
           "configuration": {
             "version_origin": "repo_file",
             "version_file": "https://raw.githubusercontent.com/jackbox-ukraine/jpp7/main/config.jet",
             "version_property": "buildVersion"
           },
+          "supported_launchers": ["steam","native"],
           "components": [
             {
               "id": "quiplash3_patch",
@@ -3253,6 +3256,7 @@
             "version_file": "https://raw.githubusercontent.com/jackbox-ukraine/tjsp/main/config.jet",
             "version_property": "buildVersion"
           },
+          "supported_launchers": ["steam","native"],
           "components": [
             {
               "id": "teeko_starter_patch",
@@ -3654,6 +3658,7 @@
             "version_file": "https://raw.githubusercontent.com/jackbox-ukraine/quiplash-2/main/jbg.config.jet",
             "version_property": "buildVersion"
           },
+          "supported_launchers": ["steam","epic","native"],
           "components": [
             {
               "id": "quiplash2interlashional_patch",
@@ -3762,6 +3767,7 @@
             "version_file": "https://raw.githubusercontent.com/jackbox-ukraine/drawful-2/main/jbg.config.jet",
             "version_property": "buildVersion"
           },
+          "supported_launchers": ["steam","epic","native"],
           "components": [
             {
               "id": "drawful_2_patch",
