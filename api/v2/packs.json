@@ -70,9 +70,14 @@
       },
       "configuration": {
         "file": "config.jet",
-        "version_property": "buildVersion",
         "version_origin": "game_file",
-        "version_file": "config.jet"
+        "version_file": "jbg.config.jet",
+        "version_property": "buildVersion",
+        "launcher_version_file": {
+            "steam": "jbg.config.jet",
+            "epic_games": "config.jet",
+            "native": "jbg.config.jet"
+            }
       },
       "patchs": [],
       "games": [
@@ -343,9 +348,14 @@
       },
       "configuration": {
         "file": "config.jet",
-        "version_property": "buildVersion",
         "version_origin": "game_file",
-        "version_file": "config.jet"
+        "version_file": "jbg.config.jet",
+        "version_property": "buildVersion",
+        "launcher_version_file": {
+            "steam": "jbg.config.jet",
+            "epic_games": "config.jet",
+            "native": "jbg.config.jet"
+            }
       },
       "patchs": [],
       "games": [
@@ -621,9 +631,14 @@
       },
       "configuration": {
         "file": "config.jet",
-        "version_property": "buildVersion",
         "version_origin": "game_file",
-        "version_file": "config.jet"
+        "version_file": "jbg.config.jet",
+        "version_property": "buildVersion",
+        "launcher_version_file": {
+            "steam": "jbg.config.jet",
+            "epic_games": "config.jet",
+            "native": "jbg.config.jet"
+            }
       },
       "patchs": [
         {
@@ -996,9 +1011,14 @@
       },
       "configuration": {
         "file": "config.jet",
-        "version_property": "buildVersion",
         "version_origin": "game_file",
-        "version_file": "config.jet"
+        "version_file": "jbg.config.jet",
+        "version_property": "buildVersion",
+        "launcher_version_file": {
+            "steam": "jbg.config.jet",
+            "epic_games": "config.jet",
+            "native": "jbg.config.jet"
+            }
       },
       "patchs": [
         {
@@ -1373,9 +1393,14 @@
       },
       "configuration": {
         "file": "config.jet",
-        "version_property": "buildVersion",
         "version_origin": "game_file",
-        "version_file": "config.jet"
+        "version_file": "jbg.config.jet",
+        "version_property": "buildVersion",
+        "launcher_version_file": {
+            "steam": "jbg.config.jet",
+            "epic_games": "config.jet",
+            "native": "jbg.config.jet"
+            }
       },
       "patchs": [],
       "games": [
@@ -1658,9 +1683,14 @@
       },
       "configuration": {
         "file": "config.jet",
-        "version_property": "buildVersion",
         "version_origin": "game_file",
-        "version_file": "jbg.config.jet"
+        "version_file": "jbg.config.jet",
+        "version_property": "buildVersion",
+        "launcher_version_file": {
+            "steam": "jbg.config.jet",
+            "epic_games": "config.jet",
+            "native": "jbg.config.jet"
+            }
       },
       "patchs": [
         {
@@ -1977,9 +2007,14 @@
       },
       "configuration": {
         "file": "config.jet",
-        "version_property": "buildVersion",
         "version_origin": "game_file",
-        "version_file": "config.jet"
+        "version_file": "jbg.config.jet",
+        "version_property": "buildVersion",
+        "launcher_version_file": {
+            "steam": "jbg.config.jet",
+            "epic_games": "config.jet",
+            "native": "jbg.config.jet"
+            }
       },
       "patchs": [
         {
@@ -2295,9 +2330,14 @@
       },
       "configuration": {
         "file": "config.jet",
-        "version_property": "buildVersion",
         "version_origin": "game_file",
-        "version_file": "config.jet"
+        "version_file": "jbg.config.jet",
+        "version_property": "buildVersion",
+        "launcher_version_file": {
+            "steam": "jbg.config.jet",
+            "epic_games": "config.jet",
+            "native": "jbg.config.jet"
+            }
       },
       "patchs": [],
       "games": [
@@ -2579,9 +2619,14 @@
       },
       "configuration": {
         "file": "jbg.config.jet",
-        "version_property": "buildVersion",
         "version_origin": "game_file",
-        "version_file": "jbg.config.jet"
+        "version_file": "jbg.config.jet",
+        "version_property": "buildVersion",
+        "launcher_version_file": {
+            "steam": "jbg.config.jet",
+            "epic_games": "config.jet",
+            "native": "jbg.config.jet"
+            }
       },
       "patchs": [],
       "store_links": {
@@ -2865,9 +2910,14 @@
       },
       "configuration": {
         "file": "jbg.config.jet",
-        "version_property": "buildVersion",
         "version_origin": "game_file",
-        "version_file": "jbg.config.jet"
+        "version_file": "jbg.config.jet",
+        "version_property": "buildVersion",
+        "launcher_version_file": {
+            "steam": "jbg.config.jet",
+            "epic_games": "config.jet",
+            "native": "jbg.config.jet"
+            }
       },
       "patchs": [],
       "store_links": {
@@ -3147,9 +3197,14 @@
       },
       "configuration": {
         "file": "config.jet",
-        "version_property": "buildVersion",
         "version_origin": "game_file",
-        "version_file": "config.jet"
+        "version_file": "jbg.config.jet",
+        "version_property": "buildVersion",
+        "launcher_version_file": {
+            "steam": "jbg.config.jet",
+            "epic_games": "config.jet",
+            "native": "jbg.config.jet"
+            }
       },
       "patchs": [
         {
