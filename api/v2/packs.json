@@ -60,6 +60,9 @@
         "mac": "The Jackbox Party Pack.app/Contents/MacOS/The Jackbox Party Pack",
         "linux": "Launcher.sh"
       },
+      "resource_location": {
+        "mac":"The Jackbox Party Pack.app/Contents/Resources/macos"
+      },
       "loader": {
         "path": "loaders/tjpp1/default.zip",
         "version": "1.0.1"
@@ -337,6 +340,9 @@
         "windows": "The Jackbox Party Pack 2.exe",
         "mac": "The Jackbox Party Pack 2.app/Contents/MacOS/The Jackbox Party Pack 2",
         "linux": "Launcher.sh"
+      },
+      "resource_location": {
+        "mac":"The Jackbox Party Pack 2.app/Contents/Resources/macos"
       },
       "loader": {
         "path": "loaders/tjpp2/default.zip",
@@ -624,6 +630,9 @@
         "windows": "The Jackbox Party Pack 3.exe",
         "mac": "The Jackbox Party Pack 3.app/Contents/MacOS/The Jackbox Party Pack 3",
         "linux": "Launcher.sh"
+      },
+      "resource_location": {
+        "mac":"The Jackbox Party Pack 3.app/Contents/Resources/macos"
       },
       "loader": {
         "path": "loaders/tjpp3/default.zip",
@@ -1005,6 +1014,9 @@
         "mac": "The Jackbox Party Pack 4.app/Contents/MacOS/The Jackbox Party Pack 4",
         "linux": "Launcher.sh"
       },
+      "resource_location": {
+        "mac":"The Jackbox Party Pack 4.app/Contents/Resources/macos"
+      },
       "loader": {
         "path": "loaders/tjpp4/default.zip",
         "version": "1.0.0"
@@ -1379,6 +1391,9 @@
         "mac": "The Jackbox Party Pack 5.app/Contents/MacOS/The Jackbox Party Pack 5",
         "linux": "Launcher.sh"
       },
+      "resource_location": {
+        "mac":"The Jackbox Party Pack 5.app/Contents/Resources/macos"
+      },
       "launchers_id": {
         "steam": "774461",
         "epic": "Geranium"
@@ -1668,6 +1683,9 @@
         "windows": "The Jackbox Party Pack 6.exe",
         "mac": "The Jackbox Party Pack 6.app/Contents/MacOS/The Jackbox Party Pack 6",
         "linux": "Launcher.sh"
+      },
+      "resource_location": {
+        "mac":"The Jackbox Party Pack 6.app/Contents/Resources/macos"
       },
       "launchers_id": {
         "steam": "1005300",
@@ -1993,6 +2011,9 @@
         "mac": "The Jackbox Party Pack 7.app/Contents/MacOS/The Jackbox Party Pack 7",
         "linux": "Launcher.sh"
       },
+      "resource_location": {
+        "mac":"The Jackbox Party Pack 7.app/Contents/Resources/macos"
+      },
       "launchers_id": {
         "steam": "1211630",
         "epic": "7fb6ce95c6d04a44a55fef16ea0db4c9"
@@ -2316,6 +2337,9 @@
         "mac": "The Jackbox Party Pack 8.app/Contents/MacOS/The Jackbox Party Pack 8",
         "linux": "Launcher.sh"
       },
+      "resource_location": {
+        "mac":"The Jackbox Party Pack 8.app/Contents/Resources/macos"
+      },
       "loader": {
         "path": "loaders/tjpp8/default.zip",
         "version": "1.0.0"
@@ -2609,6 +2633,9 @@
         "mac": "The Jackbox Party Pack 9.app/Contents/MacOS/The Jackbox Party Pack 9",
         "linux": "Launcher.sh"
       },
+      "resource_location": {
+        "mac":"The Jackbox Party Pack 9.app/Contents/Resources/macos"
+      },
       "launchers_id": {
         "steam": "1850960",
         "epic": "ec6f77d356b247dc8d210850de8a3e2f"
@@ -2901,6 +2928,9 @@
         "mac": "The Jackbox Party Pack 10.app/Contents/MacOS/The Jackbox Party Pack 10",
         "linux": "Launcher.sh"
       },
+      "resource_location": {
+        "mac":"The Jackbox Party Pack 10.app/Contents/Resources/macos"
+      },
       "launchers_id": {
         "steam": "2216830",
         "epic": "fddfaf1422fb43b08d3ccc0fcc110a65"
@@ -3188,6 +3218,9 @@
         "windows": "The Jackbox Party Starter.exe",
         "mac": "The Jackbox Party Starter.app/Contents/MacOS/The Jackbox Party Pack Starter",
         "linux": "Launcher.sh"
+      },
+      "resource_location": {
+        "mac":"The Jackbox Party Pack Starter.app/Contents/Resources/macos"
       },
       "launchers_id": {
         "steam": "1755580",
@@ -3517,6 +3550,9 @@
         "mac": "Quiplash.app/Contents/MacOS/Quiplash",
         "linux": "Launcher.sh"
       },
+      "resource_location": {
+        "mac":"Quiplash.app/Contents/Resources/macos"
+      },
       "loader": {
         "path": "loaders/standalones/default.zip",
         "version": "1.0.0"
@@ -3592,6 +3628,9 @@
         "windows": "Quiplash 2 InterLASHional.exe",
         "mac": "Quiplash 2 InterLASHional.app/Contents/MacOS/Quiplash 2 InterLASHional",
         "linux": "Launcher.sh"
+      },
+      "resource_location": {
+        "mac":"Quiplash 2 InterLASHional.app/Contents/Resources/macos"
       },
       "loader": {
         "path": "loaders/standalones/default.zip",
@@ -3697,6 +3736,9 @@
         "windows": "Drawful 2.exe",
         "mac": "Drawful 2.app/Contents/MacOS/Drawful 2",
         "linux": "Launcher.sh"
+      },
+      "resource_location": {
+        "mac":"Drawful 2.app/Contents/Resources/macos"
       },
       "loader": {
         "path": "loaders/df2/default.zip",
