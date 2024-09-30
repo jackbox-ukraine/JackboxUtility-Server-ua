@@ -2035,7 +2035,7 @@
         "version_file": "config.jet",
         "version_property": "buildVersion",
         "launcher_version_file": {
-            "steam": "jbg.config.jet",
+            "steam": "config.jet",
             "epic_games": "config.jet",
             "native": "jbg.config.jet"
             }
