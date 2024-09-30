@@ -2031,7 +2031,7 @@
       },
       "configuration": {
         "file": "config.jet",
-        "version_origin": "game_file",
+        "version_origin": "repo_file",
         "version_file": "config.jet",
         "version_property": "buildVersion",
         "launcher_version_file": {
