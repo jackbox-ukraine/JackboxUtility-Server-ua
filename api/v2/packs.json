@@ -3236,11 +3236,11 @@
       },
       "configuration": {
         "file": "config.jet",
-        "version_origin": "repo_file",
-        "version_file": "config.jet",
+        "version_origin": "game_file",
+        "version_file": "jbg.config.jet",
         "version_property": "buildVersion",
         "launcher_version_file": {
-            "steam": "config.jet",
+            "steam": "jbg.config.jet",
             "epic_games": "config.jet",
             "native": "jbg.config.jet"
             }
