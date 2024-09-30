@@ -2048,7 +2048,7 @@
           "patch_path": "https://github.com/jackbox-ukraine/jpp7/releases/latest/download/JPP7-UA.zip",
           "configuration": {
             "version_origin": "repo_file",
-            "version_file": "https://raw.githubusercontent.com/jackbox-ukraine/jpp7/main/config.jet",
+            "version_file": "https://raw.githubusercontent.com/jackbox-ukraine/jpp7/refs/heads/main/config.jet",
             "version_property": "buildVersion"
           },
           "supported_launchers": ["steam","native"],
@@ -2059,7 +2059,7 @@
               "name": "Сміхрясь 3",
               "description": "Повний текстовий переклад гри з частковим озвученням від Lost Human'а.",
               "authors": "- Jackbox Ukraine\n- Lost Human",
-              "small_description": "Повний текстовий переклад гри з частковим озвученням від Lost Human'а.",
+              "small_description": "Повний текстовий переклад гри з повним озвученням від Lost Human'а.",
               "patch_type": {
                 "game_text": true,
                 "game_assets": true,
