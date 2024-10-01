@@ -2031,11 +2031,11 @@
       },
       "configuration": {
         "file": "config.jet",
-        "version_origin": "repo_file",
-        "version_file": "config.jet",
+        "version_origin": "game_file",
+        "version_file": "jbg.config.jet",
         "version_property": "buildVersion",
         "launcher_version_file": {
-            "steam": "config.jet",
+            "steam": "jbg.config.jet",
             "epic_games": "config.jet",
             "native": "jbg.config.jet"
             }
@@ -2048,7 +2048,7 @@
           "patch_path": "https://github.com/jackbox-ukraine/jpp7/releases/latest/download/JPP7-UA.zip",
           "configuration": {
             "version_origin": "repo_file",
-            "version_file": "https://raw.githubusercontent.com/jackbox-ukraine/jpp7/refs/heads/main/config.jet",
+            "version_file": "https://raw.githubusercontent.com/jackbox-ukraine/jpp7/main/config.jet",
             "version_property": "buildVersion"
           },
           "supported_launchers": ["steam","native"],
