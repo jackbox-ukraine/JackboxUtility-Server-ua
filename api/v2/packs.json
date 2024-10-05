@@ -1041,7 +1041,7 @@
           "patch_path": "https://github.com/jackbox-ukraine/jpp4/releases/latest/download/JPP4-UA.zip",
           "configuration": {
             "version_origin": "repo_file",
-            "version_file": "https://raw.githubusercontent.com/jackbox-ukraine/jpp4/main/config.jet",
+            "version_file": "https://raw.githubusercontent.com/jackbox-ukraine/jpp4/main/jbg.config.jet",
             "version_property": "buildVersion"
           },
           "supported_launchers": ["steam","native"],
