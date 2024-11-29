@@ -1716,7 +1716,7 @@
         {
           "id": "tjpp6_ua",
           "name": "Jackbox Party Pack 6",
-          "small_description": "Текстовий переклад однієї гри",
+          "small_description": "Текстовий переклад однієї гри з частковим озвученням",
           "patch_path": "https://github.com/jackbox-ukraine/jpp6/releases/latest/download/JPP6-UA.zip",
           "configuration": {
             "version_origin": "repo_file",
@@ -1729,15 +1729,15 @@
               "id": "trivia_murder_party_2_patch",
               "linked_game": "trivia_murder_party_2",
               "name": "Смертельні Вечорниці 2",
-              "description": "Повний текстовий переклад гри без озвучення.",
-              "authors": "Jackbox Ukraine",
-              "small_description": "Повний текстовий переклад гри без озвучення",
+              "description": "Повний текстовий переклад гри з частковим озвученням від Безлада",
+              "authors": "- Jackbox Ukraine\n- Безлад",
+              "small_description": "Повний текстовий переклад гри з частковим озвученням від Безлада",
               "patch_type": {
                 "game_text": true,
                 "game_assets": true,
                 "game_subtitles": true,
                 "website": true,
-                "audios": false
+                "audios": true
               }
             }
           ]
