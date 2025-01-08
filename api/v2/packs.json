@@ -1419,7 +1419,37 @@
             "native": "jbg.config.jet"
             }
       },
-      "patchs": [],
+      "patchs": [
+        {
+          "id": "tjpp5_ua",
+          "name": "Jackbox Party Pack 5",
+          "small_description": "Текстовий переклад однієї гри з частковим озвученням",
+          "patch_path": "https://github.com/jackbox-ukraine/jpp5/releases/latest/download/JPP5-UA.zip",
+          "configuration": {
+            "version_origin": "repo_file",
+            "version_file": "https://raw.githubusercontent.com/jackbox-ukraine/jpp5/main/jbg.config.jet",
+            "version_property": "buildVersion"
+          },
+          "supported_launchers": ["steam","native"],
+          "components": [
+            {
+              "id": "splittheroom_patch",
+              "linked_game": "splittheroom",
+              "name": "Розділи кімнату",
+              "description": "Повний текстовий переклад гри без озвучення",
+              "authors": "- Jackbox Ukraine",
+              "small_description": "Повний текстовий переклад гри без озвучення",
+              "patch_type": {
+                "game_text": true,
+                "game_assets": true,
+                "game_subtitles": true,
+                "website": true,
+                "audios": false
+              }
+            }
+          ]
+        }
+      ],
       "games": [
         {
           "id": "ydkj_fullstream",
@@ -1575,7 +1605,7 @@
           "id": "splittheroom",
           "name": "Розділи кімнату",
           "internal_name": "SplitTheRoom",
-          "background": "game_backgrounds/SplitTheRoom.webp",
+          "background": "game_backgrounds/SplitTheRoom.png",
           "path": "games/SplitTheRoom",
           "game_info": {
             "players": {
