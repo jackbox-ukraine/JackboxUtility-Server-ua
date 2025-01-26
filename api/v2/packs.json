@@ -1437,15 +1437,15 @@
               "id": "splittheroom_patch",
               "linked_game": "splittheroom",
               "name": "Розділи кімнату",
-              "description": "Повний текстовий переклад гри без озвучення",
-              "authors": "- Jackbox Ukraine",
-              "small_description": "Повний текстовий переклад гри без озвучення",
+              "description": "Повний текстовий переклад гри з неповним озвученням",
+              "authors": "- Jackbox Ukraine\n- RendarosUA",
+              "small_description": "Повний текстовий переклад гри з неповним озвученням",
               "patch_type": {
                 "game_text": true,
                 "game_assets": true,
                 "game_subtitles": true,
                 "website": true,
-                "audios": false
+                "audios": true
               }
             }
           ]
