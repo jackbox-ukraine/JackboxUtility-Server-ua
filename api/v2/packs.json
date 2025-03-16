@@ -1096,9 +1096,9 @@
               "id": "bracketeering_patch",
               "linked_game": "bracketeering",
               "name": "Жартурнір",
-              "description": "Текстовий переклад гри з частковим озвученням від AdrianZP.",
+              "description": "Текстовий переклад гри з повним озвученням від AdrianZP.",
               "authors": "- Jackbox Ukraine\n- AdrianZP",
-              "small_description": "Текстовий переклад гри з частковим озвученням від AdrianZP",
+              "small_description": "Текстовий переклад гри з повним озвученням від AdrianZP",
               "patch_type": {
                 "game_text": true,
                 "game_assets": true,
@@ -1112,14 +1112,14 @@
               "linked_game": "fibbage3",
               "name": "Брехалище 3",
               "description": "Частковий текстовий переклад гри без озвучення.",
-              "authors": "Jackbox Ukraine",
+              "authors": "- Jackbox Ukraine\n- Орест Лук'янчук",
               "small_description": "Частковий текстовий переклад гри без озвучення",
               "patch_type": {
                 "game_text": true,
                 "game_assets": true,
                 "game_subtitles": false,
                 "website": true,
-                "audios": false
+                "audios": true
               }
             }
           ]
