@@ -656,7 +656,7 @@
           "id": "tjpp3_ua",
           "name": "Jackbox Party Pack 3",
           "small_description": "Текстовий переклад усіх ігор, озвучення до чотирьох",
-          "patch_path": "https://github.com/jackbox-ukraine/jpp3/releases/latest/download/JPP3-ua.zip",
+          "patch_path": "https://jackbox-in-ua.ams3.cdn.digitaloceanspaces.com/JPP3-ua.zip",
           "configuration": {
             "version_origin": "repo_file",
             "version_file": "https://raw.githubusercontent.com/jackbox-ukraine/jpp3/main/config.jet",
@@ -1039,7 +1039,7 @@
           "id": "tjpp4_ua",
           "name": "Jackbox Party Pack 4",
           "small_description": "Текстовий переклад усіх ігор, озвучення до двох",
-          "patch_path": "https://github.com/jackbox-ukraine/jpp4/releases/latest/download/JPP4-UA.zip",
+          "patch_path": "https://jackbox-in-ua.ams3.cdn.digitaloceanspaces.com/JPP4-ua.zip",
           "configuration": {
             "version_origin": "repo_file",
             "version_file": "https://raw.githubusercontent.com/jackbox-ukraine/jpp4/main/jbg.config.jet",
@@ -1425,7 +1425,7 @@
           "id": "tjpp5_ua",
           "name": "Jackbox Party Pack 5",
           "small_description": "Текстовий переклад однієї гри з повним озвученням",
-          "patch_path": "https://github.com/jackbox-ukraine/jpp5/releases/latest/download/JPP5-UA.zip",
+          "patch_path": "https://jackbox-in-ua.ams3.cdn.digitaloceanspaces.com/JPP5-ua.zip",
           "configuration": {
             "version_origin": "repo_file",
             "version_file": "https://raw.githubusercontent.com/jackbox-ukraine/jpp5/main/config.jet",
@@ -1748,7 +1748,7 @@
           "id": "tjpp6_ua",
           "name": "Jackbox Party Pack 6",
           "small_description": "Текстовий переклад однієї гри з частковим озвученням",
-          "patch_path": "https://github.com/jackbox-ukraine/jpp6/releases/latest/download/JPP6-UA.zip",
+          "patch_path": "https://jackbox-in-ua.ams3.cdn.digitaloceanspaces.com/JPP6-UA.zip",
           "configuration": {
             "version_origin": "repo_file",
             "version_file": "https://raw.githubusercontent.com/jackbox-ukraine/jpp6/main/config.jet",
@@ -2076,7 +2076,7 @@
           "id": "tjpp7_ua",
           "name": "Jackbox Party Pack 7",
           "small_description": "Текстовий переклад однієї гри з частковим озвученням",
-          "patch_path": "https://github.com/jackbox-ukraine/jpp7/releases/latest/download/JPP7-UA.zip",
+          "patch_path": "https://jackbox-in-ua.ams3.cdn.digitaloceanspaces.com/JPP7-UA.zip",
           "configuration": {
             "version_origin": "repo_file",
             "version_file": "https://raw.githubusercontent.com/jackbox-ukraine/jpp7/main/config.jet",
@@ -3281,7 +3281,7 @@
           "id": "jpstarter_ua",
           "name": "Jackbox Party Starter",
           "small_description": "Текстовий переклад і озвучення усіх ігор",
-          "patch_path": "https://github.com/jackbox-ukraine/tjsp/releases/latest/download/TheJackboxPartyStarter-UA.zip",
+          "patch_path": "https://jackbox-in-ua.ams3.cdn.digitaloceanspaces.com/TheJackboxPartyStarter-UA.zip",
           "configuration": {
             "version_origin": "repo_file",
             "version_file": "https://raw.githubusercontent.com/jackbox-ukraine/tjsp/main/config.jet",
@@ -3683,7 +3683,7 @@
           "id": "quip2int_ua",
           "name": "Сміхрясь 2 МіжСМІХціональний",
           "small_description": "Текстовий переклад з повним озвученням",
-          "patch_path": "https://github.com/jackbox-ukraine/quiplash-2/releases/latest/download/Quiplash2-UA.zip",
+          "patch_path": "https://jackbox-in-ua.ams3.cdn.digitaloceanspaces.com/Quiplash2-UA.zip",
           "configuration": {
             "version_origin": "repo_file",
             "version_file": "https://raw.githubusercontent.com/jackbox-ukraine/quiplash-2/main/jbg.config.jet",
@@ -3792,7 +3792,7 @@
           "id": "df2_ua",
           "name": "Малювач 2",
           "small_description": "Текстовий переклад з повним озвученням",
-          "patch_path": "https://github.com/jackbox-ukraine/drawful-2/releases/latest/download/Drawful2-UA.zip",
+          "patch_path": "https://jackbox-in-ua.ams3.cdn.digitaloceanspaces.com/Drawful2-UA.zip",
           "configuration": {
             "version_origin": "repo_file",
             "version_file": "https://raw.githubusercontent.com/jackbox-ukraine/drawful-2/main/jbg.config.jet",
