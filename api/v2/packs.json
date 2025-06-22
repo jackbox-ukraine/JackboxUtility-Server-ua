@@ -2433,7 +2433,7 @@
           "id": "drawful_animate",
           "name": "Drawful: Animate",
           "internal_name": "DrawfulAnimate",
-          "background": "game_backgrounds/DrawfulAnimate.webp",
+          "background": "game_backgrounds/DrawfulAnimate.png",
           "path": "games/DrawfulAnimate",
           "game_info": {
             "players": {
