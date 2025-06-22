@@ -2403,7 +2403,7 @@
           "id": "tjpp8_ua",
           "name": "Jackbox Party Pack 8",
           "small_description": "Текстовий переклад однієї гри без озвучення",
-          "patch_path": "https://jackbox-in-ua.ams3.cdn.digitaloceanspaces.com/JPP8-ua.zip",
+          "patch_path": "https://jackbox-in-ua.ams3.cdn.digitaloceanspaces.com/JPP8-UA.zip",
           "configuration": {
             "version_origin": "repo_file",
             "version_file": "https://raw.githubusercontent.com/jackbox-ukraine/jpp8/main/config.jet",
