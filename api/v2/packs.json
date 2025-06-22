@@ -2459,10 +2459,10 @@
             "description": "**Малювач: Анімач** — гра призначена для 3–10 гравців і є третьою грою в серії **Drawful**. Основною особливістю є те, що гравці створюють анімацію з двох кадрів, а не один статичний малюнок. Інші додаткові функції включають три кольори для малювання та можливість подвоїти припущення один раз за раунд, що присуджує подвійні бали, якщо припущення правильне, але якщо неправильне, то подвійні бали присуджуються гравцеві, який написав фальшиву відповідь. Також додано «режим друга» (англ. friend mode), який містить підказки щодо гравців.",
             "images": [
               "game_images/DrawfulAnimate/drawfulanimate.mp4",
-              "game_images/DrawfulAnimate/drawfulanimate_1.webp",
-              "game_images/DrawfulAnimate/drawfulanimate_2.webp",
-              "game_images/DrawfulAnimate/drawfulanimate_3.webp",
-              "game_images/DrawfulAnimate/drawfulanimate_4.webp"
+              "game_images/DrawfulAnimate/drawfulanimate_1.png",
+              "game_images/DrawfulAnimate/drawfulanimate_2.png",
+              "game_images/DrawfulAnimate/drawfulanimate_3.png",
+              "game_images/DrawfulAnimate/drawfulanimate_4.png"
             ],
             "tags": [
               "drawing"
