@@ -75,7 +75,6 @@
         "epic": "https://store.epicgames.com/p/jackbox-party-pack-1"
       },
       "configuration": {
-        "file": "config.jet",
         "version_origin": "game_file",
         "version_file": "jbg.config.jet",
         "version_property": "buildVersion",
@@ -356,7 +355,6 @@
         "epic": "https://store.epicgames.com/p/jackbox-party-pack-2"
       },
       "configuration": {
-        "file": "config.jet",
         "version_origin": "game_file",
         "version_file": "jbg.config.jet",
         "version_property": "buildVersion",
@@ -642,7 +640,6 @@
         "version": "1.0.0"
       },
       "configuration": {
-        "file": "config.jet",
         "version_origin": "game_file",
         "version_file": "jbg.config.jet",
         "version_property": "buildVersion",
@@ -660,9 +657,11 @@
           "patch_path": "https://jackbox-in-ua.ams3.cdn.digitaloceanspaces.com/JPP3-ua.zip",
           "configuration": {
             "version_origin": "repo_file",
-            "version_file": "https://raw.githubusercontent.com/jackbox-ukraine/jpp3/main/config.jet",
+            "version_file": "https://raw.githubusercontent.com/jackbox-ukraine/jpp3/main/jbg.config.jet",
             "version_property": "buildVersion"
           },
+          "supported_platforms": ["windows","linux","mac"],
+          "supported_launchers": ["steam"],
           "components": [
             {
               "id": "fakinit_patch",
@@ -1025,7 +1024,6 @@
         "version": "1.0.0"
       },
       "configuration": {
-        "file": "config.jet",
         "version_origin": "game_file",
         "version_file": "jbg.config.jet",
         "version_property": "buildVersion",
@@ -1046,7 +1044,8 @@
             "version_file": "https://raw.githubusercontent.com/jackbox-ukraine/jpp4/main/jbg.config.jet",
             "version_property": "buildVersion"
           },
-          "supported_launchers": ["steam","native"],
+          "supported_platforms": ["windows","linux","mac"],
+          "supported_launchers": ["steam"],
           "components": [
             {
               "id": "monsterseekingmonster_patch",
@@ -1411,7 +1410,6 @@
         "epic": "https://store.epicgames.com/p/jackbox-party-pack-5"
       },
       "configuration": {
-        "file": "config.jet",
         "version_origin": "game_file",
         "version_file": "jbg.config.jet",
         "version_property": "buildVersion",
@@ -1429,10 +1427,11 @@
           "patch_path": "https://jackbox-in-ua.ams3.cdn.digitaloceanspaces.com/JPP5-ua.zip",
           "configuration": {
             "version_origin": "repo_file",
-            "version_file": "https://raw.githubusercontent.com/jackbox-ukraine/jpp5/main/config.jet",
+            "version_file": "https://raw.githubusercontent.com/jackbox-ukraine/jpp5/main/jbg.config.jet",
             "version_property": "buildVersion"
           },
-          "supported_launchers": ["steam","native"],
+          "supported_platforms": ["windows","linux","mac"],
+          "supported_launchers": ["steam"],
           "components": [
             {
               "id": "splittheroom_patch",
@@ -1734,7 +1733,6 @@
         "epic":"https://store.epicgames.com/p/jackbox-party-pack-6"
       },
       "configuration": {
-        "file": "config.jet",
         "version_origin": "game_file",
         "version_file": "jbg.config.jet",
         "version_property": "buildVersion",
@@ -1752,10 +1750,11 @@
           "patch_path": "https://jackbox-in-ua.ams3.cdn.digitaloceanspaces.com/JPP6-UA.zip",
           "configuration": {
             "version_origin": "repo_file",
-            "version_file": "https://raw.githubusercontent.com/jackbox-ukraine/jpp6/main/config.jet",
+            "version_file": "https://raw.githubusercontent.com/jackbox-ukraine/jpp6/main/jbg.config.jet",
             "version_property": "buildVersion"
           },
-          "supported_launchers": ["steam","native"],
+          "supported_platforms": ["windows","linux","mac"],
+          "supported_launchers": ["steam"],
           "components": [
             {
               "id": "trivia_murder_party_2_patch",
@@ -2062,7 +2061,6 @@
         "epic": "https://store.epicgames.com/p/jackbox-party-pack-7"
       },
       "configuration": {
-        "file": "config.jet",
         "version_origin": "game_file",
         "version_file": "jbg.config.jet",
         "version_property": "buildVersion",
@@ -2083,7 +2081,8 @@
             "version_file": "https://raw.githubusercontent.com/jackbox-ukraine/jpp7/main/config.jet",
             "version_property": "buildVersion"
           },
-          "supported_launchers": ["steam","native"],
+          "supported_platforms": ["windows","linux","mac"],
+          "supported_launchers": ["steam"],
           "components": [
             {
               "id": "quiplash3_patch",
@@ -2389,7 +2388,6 @@
         "epic": "https://store.epicgames.com/p/jackbox-party-pack-8"
       },
       "configuration": {
-        "file": "config.jet",
         "version_origin": "game_file",
         "version_file": "jbg.config.jet",
         "version_property": "buildVersion",
@@ -2407,9 +2405,11 @@
           "patch_path": "https://jackbox-in-ua.ams3.cdn.digitaloceanspaces.com/JPP8-UA.zip",
           "configuration": {
             "version_origin": "repo_file",
-            "version_file": "https://raw.githubusercontent.com/jackbox-ukraine/jpp8/main/config.jet",
+            "version_file": "https://raw.githubusercontent.com/jackbox-ukraine/jpp8/main/jbg.config.jet",
             "version_property": "buildVersion"
           },
+          "supported_platforms": ["windows","linux","mac"],
+          "supported_launchers": ["steam"],
           "components": [
             {
               "id": "drawful_animate_patch",
@@ -3296,7 +3296,6 @@
         "version": "1.0.2"
       },
       "configuration": {
-        "file": "config.jet",
         "version_origin": "game_file",
         "version_file": "jbg.config.jet",
         "version_property": "buildVersion",
@@ -3314,10 +3313,11 @@
           "patch_path": "https://jackbox-in-ua.ams3.cdn.digitaloceanspaces.com/TheJackboxPartyStarter-UA.zip",
           "configuration": {
             "version_origin": "repo_file",
-            "version_file": "https://raw.githubusercontent.com/jackbox-ukraine/tjsp/main/config.jet",
+            "version_file": "https://raw.githubusercontent.com/jackbox-ukraine/tjsp/main/jbg.config.jet",
             "version_property": "buildVersion"
           },
-          "supported_launchers": ["steam","native"],
+          "supported_platforms": ["windows","linux","mac"],
+          "supported_launchers": ["steam"],
           "components": [
             {
               "id": "teeko_starter_patch",
@@ -3991,6 +3991,7 @@
             "version_file": "https://raw.githubusercontent.com/jackbox-ukraine/quiplash-2/main/jbg.config.jet",
             "version_property": "buildVersion"
           },
+          "supported_platforms": ["windows","linux","mac"],
           "supported_launchers": ["steam","epic","native"],
           "components": [
             {
@@ -4100,6 +4101,7 @@
             "version_file": "https://raw.githubusercontent.com/jackbox-ukraine/drawful-2/main/jbg.config.jet",
             "version_property": "buildVersion"
           },
+          "supported_platforms": ["windows","linux","mac"],
           "supported_launchers": ["steam","epic","native"],
           "components": [
             {
