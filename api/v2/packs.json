@@ -661,7 +661,7 @@
             "version_property": "buildVersion"
           },
           "supported_platforms": ["windows","linux","mac"],
-          "supported_launchers": ["steam"],
+          "supported_launchers": ["steam","epic","native"],
           "components": [
             {
               "id": "fakinit_patch",
@@ -1754,7 +1754,7 @@
             "version_property": "buildVersion"
           },
           "supported_platforms": ["windows","linux","mac"],
-          "supported_launchers": ["steam"],
+          "supported_launchers": ["steam","epic","native"],
           "components": [
             {
               "id": "trivia_murder_party_2_patch",
@@ -2082,7 +2082,7 @@
             "version_property": "buildVersion"
           },
           "supported_platforms": ["windows","linux","mac"],
-          "supported_launchers": ["steam"],
+          "supported_launchers": ["steam","epic","native"],
           "components": [
             {
               "id": "quiplash3_patch",
@@ -2409,7 +2409,7 @@
             "version_property": "buildVersion"
           },
           "supported_platforms": ["windows","linux","mac"],
-          "supported_launchers": ["steam"],
+          "supported_launchers": ["steam","epic","native"],
           "components": [
             {
               "id": "drawful_animate_patch",
@@ -3317,7 +3317,7 @@
             "version_property": "buildVersion"
           },
           "supported_platforms": ["windows","linux","mac"],
-          "supported_launchers": ["steam"],
+          "supported_launchers": ["steam","epic","native"],
           "components": [
             {
               "id": "teeko_starter_patch",
