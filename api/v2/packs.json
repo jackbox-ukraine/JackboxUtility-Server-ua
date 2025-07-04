@@ -42,6 +42,7 @@
         "tjpp5_ua",
         "tjpp6_ua",
         "tjpp7_ua",
+        "tjpp8_ua",
         "jpstarter_ua",
         "df2_ua",
         "quip2int_ua"
@@ -1726,7 +1727,7 @@
       },
       "loader": {
         "path": "loaders/tjpp6/default.zip",
-        "version": "1.0.0"
+        "version": "1.0.1"
       },
       "store_links": {
         "steam": "https://store.steampowered.com/app/1005300/The_Jackbox_Party_Pack_6/",
@@ -1819,7 +1820,7 @@
           },
           "loader": {
             "path": "loaders/tjpp6/triviamurderparty2.zip",
-            "version": "1.0.0"
+            "version": "1.0.1"
           },
           "launch_with_loaders": {
             "steam": false,
@@ -1869,7 +1870,7 @@
           },
           "loader": {
             "path": "loaders/tjpp6/rolemodels.zip",
-            "version": "1.0.0"
+            "version": "1.0.1"
           },
           "launch_with_loaders": {
             "steam": false,
@@ -1920,7 +1921,7 @@
           },
           "loader": {
             "path": "loaders/tjpp6/jokeboat.zip",
-            "version": "1.0.0"
+            "version": "1.0.1"
           },
           "launch_with_loaders": {
             "steam": false,
@@ -1970,7 +1971,7 @@
           },
           "loader": {
             "path": "loaders/tjpp6/dictionarium.zip",
-            "version": "1.0.0"
+            "version": "1.0.1"
           },
           "launch_with_loaders": {
             "steam": false,
@@ -2023,7 +2024,7 @@
           },
           "loader": {
             "path": "loaders/tjpp6/pushthebutton.zip",
-            "version": "1.0.0"
+            "version": "1.0.1"
           },
           "launch_with_loaders": {
             "steam": false,
@@ -2414,7 +2415,7 @@
               "id": "drawful_animate_patch",
               "linked_game": "drawful_animate",
               "name": "Малювач: Анімач",
-              "description": "Повний текстовий переклад гри без озвучення",
+              "description": "Повний текстовий переклад гри без озвучення.",
               "authors": "- Jackbox Ukraine",
               "small_description": "Повний текстовий переклад гри без озвучення",
               "patch_type": {
@@ -2879,7 +2880,7 @@
         {
           "id": "nonsensory",
           "name": "Nonsensory",
-          "internal_name": "Nonsensory",
+          "internal_name": "RangeGame",
           "background": "game_backgrounds/Nonsensory.webp",
           "path": "games/RangeGame",
           "game_info": {
@@ -2947,9 +2948,9 @@
             "audience": true,
             "audience_description": "Глядачі об'єднуються в команди і сортують блоки так само, як і гравці. Наприкінці гри перемагає команда глядачів, яка зробить це найкраще.",
             "stream_friendly": "MIDLY_PLAYABLE",
-            "stream_friendly_description": "Being a discussion game, it's recommended for players to be able to at least hear each other.",
+            "stream_friendly_description": "Оскільки це дискусійна гра, рекомендується, щоб гравці могли принаймні чути один одного.",
             "moderation": "FULL_MODERATION",
-            "moderation_description": "З увімкненою опцією «Модерація» модератори, зайшовши на mod.jackbox.in.ua можуть вигнати гравців з гри за необхідності.",
+            "moderation_description": "Ця гра не потребує модерації. Проте, з увімкненою опцією «Модерація» модератори, зайшовши на mod.jackbox.in.ua можуть вигнати гравців.",
             "subtitles": true,
             "type": "TEAM",
             "translation": "ENGLISH",
@@ -3141,7 +3142,7 @@
             "audience_description": "Глядачі також відповідають на запитання вікторини і середня відповідь буде показана поряд з відповідями гравців.",
             "stream_friendly": "PLAYABLE",
             "moderation": "FULL_MODERATION",
-            "moderation_description": "Ця гра не потребує модерації.",
+            "moderation_description": "Ця гра не потребує модерації. Проте, з увімкненою опцією «Модерація» модератори, зайшовши на mod.jackbox.in.ua можуть вигнати гравців.",
             "subtitles": true,
             "type": "VERSUS",
             "translation": "ENGLISH",
@@ -3189,7 +3190,7 @@
             "family_friendly": "OPTIONAL",
             "audience": true,
             "audience_description": "Глядачі можуть голосувати за вподобані відповіді.",
-            "stream_friendly": "PLAYABLE",
+            "stream_friendly": "MIDLY_PLAYABLE",
             "moderation": "FULL_MODERATION",
             "moderation_description": "З увімкненою опцією «Модерація» модератори, зайшовши на mod.jackbox.in.ua, зможуть вирішувати, що відображатиметься на екрані.",
             "subtitles": true,
@@ -3243,7 +3244,7 @@
             "stream_friendly": "PLAYABLE",
             "stream_friendly_description": "На початку кожної пісні відбувається синхронізація гравців, тому проблем з затримкою виникати не має.",
             "moderation": "FULL_MODERATION",
-            "moderation_description": "Ця гра не потребує модерації.",
+            "moderation_description": "Ця гра не потребує модерації. Проте, з увімкненою опцією «Модерація» модератори, зайшовши на mod.jackbox.in.ua можуть вигнати гравців.",
             "subtitles": true,
             "type": "COOP",
             "translation": "ENGLISH",
@@ -3292,7 +3293,7 @@
       },
       "loader": {
         "path": "loaders/tjpstarter/default.zip",
-        "version": "1.0.1"
+        "version": "1.0.2"
       },
       "configuration": {
         "file": "config.jet",
@@ -3412,7 +3413,7 @@
           },
           "loader": {
             "path": "loaders/tjpstarter/quiplash3.zip",
-            "version": "1.0.1"
+            "version": "1.0.2"
           },
           "launch_with_loaders": {
             "steam": false,
@@ -3463,7 +3464,7 @@
           },
           "loader": {
             "path": "loaders/tjpstarter/teeko.zip",
-            "version": "1.0.1"
+            "version": "1.0.2"
           },
           "launch_with_loaders": {
             "steam": false,
@@ -3516,7 +3517,7 @@
           },
           "loader": {
             "path": "loaders/tjpstarter/triviamurderparty2.zip",
-            "version": "1.0.1"
+            "version": "1.0.2"
           },
           "launch_with_loaders": {
             "steam": false,
@@ -3843,7 +3844,7 @@
               "min": 15,
               "max": 20
             },
-            "family_friendly": "NOT_FAMILY_FRIENDLY",
+            "family_friendly": "OPTIONAL",
             "audience": false,
             "stream_friendly": "PLAYABLE",
             "moderation": "NO_MODERATION",
