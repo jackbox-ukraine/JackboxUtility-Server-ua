@@ -1037,7 +1037,7 @@
         {
           "id": "tjpp4_ua",
           "name": "Jackbox Party Pack 4",
-          "small_description": "Текстовий переклад усіх ігор, озвучення до двох",
+          "small_description": "Текстовий переклад усіх ігор, озвучення до трьох",
           "patch_path": "https://jackbox-in-ua.ams3.cdn.digitaloceanspaces.com/JPP4-ua.zip",
           "configuration": {
             "version_origin": "repo_file",
@@ -2074,7 +2074,7 @@
         {
           "id": "tjpp7_ua",
           "name": "Jackbox Party Pack 7",
-          "small_description": "Текстовий переклад однієї гри з частковим озвученням",
+          "small_description": "Текстовий переклад двох ігор з озвученням до однієї",
           "patch_path": "https://jackbox-in-ua.ams3.cdn.digitaloceanspaces.com/JPP7-UA.zip",
           "configuration": {
             "version_origin": "repo_file",
