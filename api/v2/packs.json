@@ -42,6 +42,7 @@
         "tjpp5_ua",
         "tjpp6_ua",
         "tjpp7_ua",
+        "tjpp8_ua",
         "jpstarter_ua",
         "df2_ua",
         "quip2int_ua"
@@ -74,7 +75,6 @@
         "epic": "https://store.epicgames.com/p/jackbox-party-pack-1"
       },
       "configuration": {
-        "file": "config.jet",
         "version_origin": "game_file",
         "version_file": "jbg.config.jet",
         "version_property": "buildVersion",
@@ -355,7 +355,6 @@
         "epic": "https://store.epicgames.com/p/jackbox-party-pack-2"
       },
       "configuration": {
-        "file": "config.jet",
         "version_origin": "game_file",
         "version_file": "jbg.config.jet",
         "version_property": "buildVersion",
@@ -641,7 +640,6 @@
         "version": "1.0.0"
       },
       "configuration": {
-        "file": "config.jet",
         "version_origin": "game_file",
         "version_file": "jbg.config.jet",
         "version_property": "buildVersion",
@@ -659,9 +657,11 @@
           "patch_path": "https://jackbox-in-ua.ams3.cdn.digitaloceanspaces.com/JPP3-ua.zip",
           "configuration": {
             "version_origin": "repo_file",
-            "version_file": "https://raw.githubusercontent.com/jackbox-ukraine/jpp3/main/config.jet",
+            "version_file": "https://raw.githubusercontent.com/jackbox-ukraine/jpp3/main/jbg.config.jet",
             "version_property": "buildVersion"
           },
+          "supported_platforms": ["windows","linux","mac"],
+          "supported_launchers": ["steam","epic","native"],
           "components": [
             {
               "id": "fakinit_patch",
@@ -1024,7 +1024,6 @@
         "version": "1.0.0"
       },
       "configuration": {
-        "file": "config.jet",
         "version_origin": "game_file",
         "version_file": "jbg.config.jet",
         "version_property": "buildVersion",
@@ -1045,7 +1044,8 @@
             "version_file": "https://raw.githubusercontent.com/jackbox-ukraine/jpp4/main/jbg.config.jet",
             "version_property": "buildVersion"
           },
-          "supported_launchers": ["steam","native"],
+          "supported_platforms": ["windows","linux","mac"],
+          "supported_launchers": ["steam"],
           "components": [
             {
               "id": "monsterseekingmonster_patch",
@@ -1410,7 +1410,6 @@
         "epic": "https://store.epicgames.com/p/jackbox-party-pack-5"
       },
       "configuration": {
-        "file": "config.jet",
         "version_origin": "game_file",
         "version_file": "jbg.config.jet",
         "version_property": "buildVersion",
@@ -1428,10 +1427,11 @@
           "patch_path": "https://jackbox-in-ua.ams3.cdn.digitaloceanspaces.com/JPP5-ua.zip",
           "configuration": {
             "version_origin": "repo_file",
-            "version_file": "https://raw.githubusercontent.com/jackbox-ukraine/jpp5/main/config.jet",
+            "version_file": "https://raw.githubusercontent.com/jackbox-ukraine/jpp5/main/jbg.config.jet",
             "version_property": "buildVersion"
           },
-          "supported_launchers": ["steam","native"],
+          "supported_platforms": ["windows","linux","mac"],
+          "supported_launchers": ["steam"],
           "components": [
             {
               "id": "splittheroom_patch",
@@ -1726,14 +1726,13 @@
       },
       "loader": {
         "path": "loaders/tjpp6/default.zip",
-        "version": "1.0.0"
+        "version": "1.0.1"
       },
       "store_links": {
         "steam": "https://store.steampowered.com/app/1005300/The_Jackbox_Party_Pack_6/",
         "epic":"https://store.epicgames.com/p/jackbox-party-pack-6"
       },
       "configuration": {
-        "file": "config.jet",
         "version_origin": "game_file",
         "version_file": "jbg.config.jet",
         "version_property": "buildVersion",
@@ -1751,10 +1750,11 @@
           "patch_path": "https://jackbox-in-ua.ams3.cdn.digitaloceanspaces.com/JPP6-UA.zip",
           "configuration": {
             "version_origin": "repo_file",
-            "version_file": "https://raw.githubusercontent.com/jackbox-ukraine/jpp6/main/config.jet",
+            "version_file": "https://raw.githubusercontent.com/jackbox-ukraine/jpp6/main/jbg.config.jet",
             "version_property": "buildVersion"
           },
-          "supported_launchers": ["steam","native"],
+          "supported_platforms": ["windows","linux","mac"],
+          "supported_launchers": ["steam","epic","native"],
           "components": [
             {
               "id": "trivia_murder_party_2_patch",
@@ -1819,7 +1819,7 @@
           },
           "loader": {
             "path": "loaders/tjpp6/triviamurderparty2.zip",
-            "version": "1.0.0"
+            "version": "1.0.1"
           },
           "launch_with_loaders": {
             "steam": false,
@@ -1869,7 +1869,7 @@
           },
           "loader": {
             "path": "loaders/tjpp6/rolemodels.zip",
-            "version": "1.0.0"
+            "version": "1.0.1"
           },
           "launch_with_loaders": {
             "steam": false,
@@ -1920,7 +1920,7 @@
           },
           "loader": {
             "path": "loaders/tjpp6/jokeboat.zip",
-            "version": "1.0.0"
+            "version": "1.0.1"
           },
           "launch_with_loaders": {
             "steam": false,
@@ -1970,7 +1970,7 @@
           },
           "loader": {
             "path": "loaders/tjpp6/dictionarium.zip",
-            "version": "1.0.0"
+            "version": "1.0.1"
           },
           "launch_with_loaders": {
             "steam": false,
@@ -2023,7 +2023,7 @@
           },
           "loader": {
             "path": "loaders/tjpp6/pushthebutton.zip",
-            "version": "1.0.0"
+            "version": "1.0.1"
           },
           "launch_with_loaders": {
             "steam": false,
@@ -2061,7 +2061,6 @@
         "epic": "https://store.epicgames.com/p/jackbox-party-pack-7"
       },
       "configuration": {
-        "file": "config.jet",
         "version_origin": "game_file",
         "version_file": "jbg.config.jet",
         "version_property": "buildVersion",
@@ -2082,7 +2081,8 @@
             "version_file": "https://raw.githubusercontent.com/jackbox-ukraine/jpp7/main/config.jet",
             "version_property": "buildVersion"
           },
-          "supported_launchers": ["steam","native"],
+          "supported_platforms": ["windows","linux","mac"],
+          "supported_launchers": ["steam","epic","native"],
           "components": [
             {
               "id": "quiplash3_patch",
@@ -2187,11 +2187,11 @@
             },
             "family_friendly": "OPTIONAL",
             "audience": true,
-            "audience_description": "Глядачі керують домашнім котиком, який може створювати проблеми для решти гравців.",
+            "audience_description": "Глядачі можуть голосувати під час доповідей, а наприкінці вручити приз найулюбленішій доповіді.",
             "stream_friendly": "MIDLY_PLAYABLE",
-            "stream_friendly_description": "Оскільки це дискусійна гра, рекомендується, щоб гравці могли принаймні чути один одного, щоб виконувати командні завдання.",
+            "stream_friendly_description": "Оскільки це презентаційна гра, рекомендується, щоб гравці могли принаймні чути один одного.",
             "moderation": "FULL_MODERATION",
-            "moderation_description": "Ця гра не потребує модерації.",
+            "moderation_description": "З увімкненою опцією «Модерація» модератори, зайшовши на mod.jackbox.in.ua, зможуть вирішувати, що відображатиметься на екрані. За необхідності рекомендовано увімкнути опцію «Фільтр лихослів'я» та опцію «Вимкнути фото гравців», щоб гравці не могли використовувати фотографії як свій аватар.",
             "subtitles": true,
             "type": "VERSUS",
             "translation": "COMMUNITY_TRANSLATED",
@@ -2239,10 +2239,11 @@
             },
             "family_friendly": "OPTIONAL",
             "audience": true,
-            "audience_description": "Глядачі можуть голосувати за вподобані відповіді. Крім того, вони можуть голосувати за показ різних заохочувальних банерів для гравців.",
-            "stream_friendly": "PLAYABLE",
+            "audience_description": "Глядачі керують домашнім котиком, який може створювати проблеми для решти гравців.",
+            "stream_friendly": "MIDLY_PLAYABLE",
+            "stream_friendly_description":"Оскільки це дискусійна гра, рекомендується, щоб гравці могли принаймні чути один одного, щоб виконувати командні завдання.",
             "moderation": "FULL_MODERATION",
-            "moderation_description": "З увімкненою опцією «Модерація» модератори, зайшовши на mod.jackbox.in.ua, зможуть вирішувати, що відображатиметься на екрані. За необхідності рекомендовано увімкнути опцію «Фільтр лихослів'я».",
+            "moderation_description": "Ця гра не потребує модерації.",
             "subtitles": true,
             "type": "COOP",
             "translation": "ENGLISH",
@@ -2290,17 +2291,16 @@
             },
             "family_friendly": "OPTIONAL",
             "audience": true,
-            "audience_description": "Глядачі можуть голосувати під час доповідей, а наприкінці вручити приз найулюбленішій доповіді.",
-            "stream_friendly": "MIDLY_PLAYABLE",
-            "stream_friendly_description": "Оскільки це презентаційна гра, рекомендується, щоб гравці могли принаймні чути один одного.",
+            "audience_description": "Глядачі можуть голосувати за вподобані відповіді.",
+            "stream_friendly": "PLAYABLE",
             "moderation": "FULL_MODERATION",
-            "moderation_description": "З увімкненою опцією «Модерація» модератори, зайшовши на mod.jackbox.in.ua, зможуть вирішувати, що відображатиметься на екрані. За необхідності рекомендовано увімкнути опцію «Фільтр лихослів'я» та опцію «Вимкнути фото гравців», щоб гравці не могли використовувати фотографії як свій аватар.",
+            "moderation_description": "З увімкненою опцією «Модерація» модератори, зайшовши на mod.jackbox.in.ua, зможуть вирішувати, що відображатиметься на екрані. За необхідності рекомендовано увімкнути опцію «Фільтр лихослів'я».",
             "subtitles": true,
             "type": "VERSUS",
             "translation": "COMMUNITY_TRANSLATED",
             "tagline": "Дотепна гра для вечірок",
             "small_description": "Відповідайте на питання і змусьте ваших друзів сміятися... якщо вийде.",
-            "description": "**Сміхрясь 3** — гра розрахована на 3–8 гравців. Це третя гра в серії Сміхрясь. Тут фірмовий фінальний раунд гри, «The Last Lash», замінений на «Thriplash» *(укр. Трихрясь)*, де замість того, щоб усі гравці відповідали на однакові підказки, кожна пара гравців отримує лише одну підказку замість зазвичай двох, але потрібно відповісти трьома окремими відповідями. Ведучий гратиме з гравцем, який займає останнє місце, якщо в грі непарна кількість гравців. Двовимірний дизайн гри також було замінено глиняною анімацією.",
+            "description": "**Сміхрясь 3** — гра розрахована на 3–8 гравців. Це третя гра в серії Сміхрясь. Тут фірмовий фінальний раунд гри, «Останній хрясь», замінений на «Трихрясь», де замість того, щоб усі гравці відповідали на однакові підказки, кожна пара гравців отримує лише одну підказку замість зазвичай двох, але потрібно відповісти трьома окремими відповідями. Ведучий гратиме з гравцем, який займає останнє місце, якщо в грі непарна кількість гравців. Двовимірний дизайн гри також було замінено глиняною анімацією.",
             "images": [
               "game_images/Quiplash3/quiplash3.mp4",
               "game_images/Quiplash3/quiplash3_1.webp",
@@ -2403,7 +2403,6 @@
         "epic": "https://store.epicgames.com/p/jackbox-party-pack-8"
       },
       "configuration": {
-        "file": "config.jet",
         "version_origin": "game_file",
         "version_file": "jbg.config.jet",
         "version_property": "buildVersion",
@@ -2421,15 +2420,17 @@
           "patch_path": "https://jackbox-in-ua.ams3.cdn.digitaloceanspaces.com/JPP8-UA.zip",
           "configuration": {
             "version_origin": "repo_file",
-            "version_file": "https://raw.githubusercontent.com/jackbox-ukraine/jpp8/main/config.jet",
+            "version_file": "https://raw.githubusercontent.com/jackbox-ukraine/jpp8/main/jbg.config.jet",
             "version_property": "buildVersion"
           },
+          "supported_platforms": ["windows","linux","mac"],
+          "supported_launchers": ["steam","epic","native"],
           "components": [
             {
               "id": "drawful_animate_patch",
               "linked_game": "drawful_animate",
               "name": "Малювач: Анімач",
-              "description": "Повний текстовий переклад гри без озвучення",
+              "description": "Повний текстовий переклад гри без озвучення.",
               "authors": "- Jackbox Ukraine",
               "small_description": "Повний текстовий переклад гри без озвучення",
               "patch_type": {
@@ -2894,7 +2895,7 @@
         {
           "id": "nonsensory",
           "name": "Nonsensory",
-          "internal_name": "Nonsensory",
+          "internal_name": "RangeGame",
           "background": "game_backgrounds/Nonsensory.webp",
           "path": "games/RangeGame",
           "game_info": {
@@ -2962,9 +2963,9 @@
             "audience": true,
             "audience_description": "Глядачі об'єднуються в команди і сортують блоки так само, як і гравці. Наприкінці гри перемагає команда глядачів, яка зробить це найкраще.",
             "stream_friendly": "MIDLY_PLAYABLE",
-            "stream_friendly_description": "Being a discussion game, it's recommended for players to be able to at least hear each other.",
+            "stream_friendly_description": "Оскільки це дискусійна гра, рекомендується, щоб гравці могли принаймні чути один одного.",
             "moderation": "FULL_MODERATION",
-            "moderation_description": "З увімкненою опцією «Модерація» модератори, зайшовши на mod.jackbox.in.ua можуть вигнати гравців з гри за необхідності.",
+            "moderation_description": "Ця гра не потребує модерації. Проте, з увімкненою опцією «Модерація» модератори, зайшовши на mod.jackbox.in.ua можуть вигнати гравців.",
             "subtitles": true,
             "type": "TEAM",
             "translation": "ENGLISH",
@@ -3156,7 +3157,7 @@
             "audience_description": "Глядачі також відповідають на запитання вікторини і середня відповідь буде показана поряд з відповідями гравців.",
             "stream_friendly": "PLAYABLE",
             "moderation": "FULL_MODERATION",
-            "moderation_description": "Ця гра не потребує модерації.",
+            "moderation_description": "Ця гра не потребує модерації. Проте, з увімкненою опцією «Модерація» модератори, зайшовши на mod.jackbox.in.ua можуть вигнати гравців.",
             "subtitles": true,
             "type": "VERSUS",
             "translation": "ENGLISH",
@@ -3204,7 +3205,7 @@
             "family_friendly": "OPTIONAL",
             "audience": true,
             "audience_description": "Глядачі можуть голосувати за вподобані відповіді.",
-            "stream_friendly": "PLAYABLE",
+            "stream_friendly": "MIDLY_PLAYABLE",
             "moderation": "FULL_MODERATION",
             "moderation_description": "З увімкненою опцією «Модерація» модератори, зайшовши на mod.jackbox.in.ua, зможуть вирішувати, що відображатиметься на екрані.",
             "subtitles": true,
@@ -3258,7 +3259,7 @@
             "stream_friendly": "PLAYABLE",
             "stream_friendly_description": "На початку кожної пісні відбувається синхронізація гравців, тому проблем з затримкою виникати не має.",
             "moderation": "FULL_MODERATION",
-            "moderation_description": "Ця гра не потребує модерації.",
+            "moderation_description": "Ця гра не потребує модерації. Проте, з увімкненою опцією «Модерація» модератори, зайшовши на mod.jackbox.in.ua можуть вигнати гравців.",
             "subtitles": true,
             "type": "COOP",
             "translation": "ENGLISH",
@@ -3307,10 +3308,9 @@
       },
       "loader": {
         "path": "loaders/tjpstarter/default.zip",
-        "version": "1.0.1"
+        "version": "1.0.2"
       },
       "configuration": {
-        "file": "config.jet",
         "version_origin": "game_file",
         "version_file": "jbg.config.jet",
         "version_property": "buildVersion",
@@ -3328,10 +3328,11 @@
           "patch_path": "https://jackbox-in-ua.ams3.cdn.digitaloceanspaces.com/TheJackboxPartyStarter-UA.zip",
           "configuration": {
             "version_origin": "repo_file",
-            "version_file": "https://raw.githubusercontent.com/jackbox-ukraine/tjsp/main/config.jet",
+            "version_file": "https://raw.githubusercontent.com/jackbox-ukraine/tjsp/main/jbg.config.jet",
             "version_property": "buildVersion"
           },
-          "supported_launchers": ["steam","native"],
+          "supported_platforms": ["windows","linux","mac"],
+          "supported_launchers": ["steam","epic","native"],
           "components": [
             {
               "id": "teeko_starter_patch",
@@ -3413,7 +3414,7 @@
             "translation": "COMMUNITY_TRANSLATED",
             "tagline": "Дотепна гра для вечірок",
             "small_description": "Відповідайте на питання і змусьте ваших друзів сміятися... якщо вийде.",
-            "description": "**Сміхрясь 3** — гра розрахована на 3–8 гравців. Це третя гра в серії Сміхрясь. Тут фірмовий фінальний раунд гри, «The Last Lash», замінений на «Thriplash» *(укр. Трихрясь)*, де замість того, щоб усі гравці відповідали на однакові підказки, кожна пара гравців отримує лише одну підказку замість зазвичай двох, але потрібно відповісти трьома окремими відповідями. Ведучий гратиме з гравцем, який займає останнє місце, якщо в грі непарна кількість гравців. Двовимірний дизайн гри також було замінено глиняною анімацією.",
+            "description": "**Сміхрясь 3** — гра розрахована на 3–8 гравців. Це третя гра в серії Сміхрясь. Тут фірмовий фінальний раунд гри, «Останній хрясь», замінений на «Трихрясь», де замість того, щоб усі гравці відповідали на однакові підказки, кожна пара гравців отримує лише одну підказку замість зазвичай двох, але потрібно відповісти трьома окремими відповідями. Ведучий гратиме з гравцем, який займає останнє місце, якщо в грі непарна кількість гравців. Двовимірний дизайн гри також було замінено глиняною анімацією.",
             "images": [
               "game_images/Quiplash3/quiplash3.mp4",
               "game_images/Quiplash3/quiplash3_1.webp",
@@ -3427,7 +3428,7 @@
           },
           "loader": {
             "path": "loaders/tjpstarter/quiplash3.zip",
-            "version": "1.0.1"
+            "version": "1.0.2"
           },
           "launch_with_loaders": {
             "steam": false,
@@ -3478,7 +3479,7 @@
           },
           "loader": {
             "path": "loaders/tjpstarter/teeko.zip",
-            "version": "1.0.1"
+            "version": "1.0.2"
           },
           "launch_with_loaders": {
             "steam": false,
@@ -3531,7 +3532,7 @@
           },
           "loader": {
             "path": "loaders/tjpstarter/triviamurderparty2.zip",
-            "version": "1.0.1"
+            "version": "1.0.2"
           },
           "launch_with_loaders": {
             "steam": false,
@@ -3543,6 +3544,278 @@
       ],
       "icon": "jpstarter.ico",
       "background": "backgrounds/jpstarter.jpg"
+    },
+    {
+        "id": "jnp",
+        "name": "The Jackbox Naughty Pack",
+        "description": "Спеціальна збірка з трьох хтивих і пікантних ігор.",
+        "launchers_id": {
+            "steam": "2652000",
+            "epic": "a0cb04062cfb4e38b79cb076003a2cfe"
+        },
+        "executables": {
+            "windows": "The Jackbox Naughty Pack.exe",
+            "mac": "The Jackbox Naughty Pack.app/Contents/MacOS/The Jackbox Naughty Pack",
+            "linux": "Launcher.sh"
+        },
+        "loader": {
+            "path": "loaders/tjnp/default.zip",
+            "version": "1.0.0"
+        },
+        "configuration": {
+            "version_property": "buildVersion",
+            "version_origin": "game_file",
+            "version_file": "jbg.config.jet"
+        },
+        "resource_location":{
+            "mac":"The Jackbox Naughty Pack.app/Contents/Resources/macos"
+        },
+        "store_links": {
+            "steam": "https://store.steampowered.com/app/2652000/The_Jackbox_Naughty_Pack/",
+            "epic": "https://store.epicgames.com/p/jackbox-naughty-pack-0bffd7"
+        },
+        "patchs": [],
+        "games": [
+            {
+                "id": "fakinitanl",
+                "internal_name": "FakinIt2",
+                "name": "Fakin' It All Night Long",
+                "background": "game_backgrounds/FakinItANL.webp",
+                "path": "games/FakinIt2",
+                "game_info": {
+                    "players": {
+                        "min": 3,
+                        "max": 8
+                    },
+                    "playtime": {
+                        "min": 20,
+                        "max": 30
+                    },
+                    "family_friendly": "NOT_FAMILY_FRIENDLY",
+                    "audience": true,
+                    "audience_description": "Глядачі намагаються вгадати, хто ж Дурисвіт, разом з гравцями.",
+                    "stream_friendly": "PLAYABLE",
+                    "moderation": "FULL_MODERATION",
+                    "moderation_description": "З увімкненою опцією «Модерація» модератори, зайшовши на mod.jackbox.in.ua, зможуть вирішувати, що відображатиметься на екрані. За необхідності рекомендовано увімкнути опцію «Фільтр лихослів'я».",
+                    "subtitles": true,
+                    "type": "VERSUS",
+                    "translation": "ENGLISH",
+                    "tagline": "Зловіть підступного Дурисвіта!",
+                    "small_description": "Кожен дає відповідь, але не кожен знає питання. Одному з ваших друзів є що приховувати. Знайди Дурисвіта, поки не пізно!",
+                    "description": "*повний опис буде додано пізніше*",
+                    "images": [
+                        "game_images/FakinItANL/fakinitanl.mp4",
+                        "game_images/FakinItANL/fakinitanl_1.webp",
+                        "game_images/FakinItANL/fakinitanl_2.webp",
+                        "game_images/FakinItANL/fakinitanl_3.webp"
+                    ],
+                    "tags": [
+                        "deduction",
+                        "talking"
+                    ]
+                },
+                "loader": {
+                    "path": "loaders/tjnp/fakinitanl.zip",
+                    "version": "1.0.0"
+                },
+                "launch_with_loaders": {
+                    "steam": false,
+                    "epic_games": true,
+                    "native": true
+                },
+                "patchs": []
+            },
+            {
+                "id": "dirtydrawful",
+                "internal_name": "Drawful3",
+                "name": "Dirty Drawful",
+                "background": "game_backgrounds/DirtyDrawful.webp",
+                "path": "games/Drawful3",
+                "game_info": {
+                    "players": {
+                        "min": 3,
+                        "max": 8
+                    },
+                    "playtime": {
+                        "min": 15,
+                        "max": 20
+                    },
+                    "family_friendly": "NOT_FAMILY_FRIENDLY",
+                    "audience": true,
+                    "audience_description": "Глядачі намагаються вгадати правильну відповідь разом з гравцями, даючи бали гравцям, якщо вони обирають їхні заголовки, та ставлячи вподобайки улюбленим заголовкам.",
+                    "stream_friendly": "PLAYABLE",
+                    "moderation": "FULL_MODERATION",
+                    "moderation_description": "З увімкненою опцією «Модерація» модератори, зайшовши на mod.jackbox.in.ua, зможуть вирішувати, що відображатиметься на екрані. За необхідності рекомендовано увімкнути опцію «Фільтр лихослів'я».",
+                    "subtitles": true,
+                    "type": "VERSUS",
+                    "translation": "ENGLISH",
+                    "tagline": "Малюйте брудні речі, але зі стилем!",
+                    "small_description": "Гра в жахливі малюнки та кумедні неправильні відповіді.",
+                    "description": "*повний опис буде додано пізніше*",
+                    "images": [
+                        "game_images/DirtyDrawful/dirtydrawful.mp4",
+                        "game_images/DirtyDrawful/dirtydrawful_1.webp",
+                        "game_images/DirtyDrawful/dirtydrawful_2.webp",
+                        "game_images/DirtyDrawful/dirtydrawful_3.webp"
+                    ],
+                    "tags": [
+                        "drawing",
+                        "writing"
+                    ]
+                },
+                "loader": {
+                    "path": "loaders/tjnp/dirtydrawful.zip",
+                    "version": "1.0.0"
+                },
+                "launch_with_loaders": {
+                    "steam": false,
+                    "epic_games": true,
+                    "native": true
+                },
+                "patchs": []
+            },
+            {
+                "id": "letmefinish",
+                "internal_name": "CAPTCHA",
+                "name": "Let Me Finish",
+                "background": "game_backgrounds/LetMeFinish.webp",
+                "path": "games/CAPTCHA",
+                "game_info": {
+                    "players": {
+                        "min": 3,
+                        "max": 8
+                    },
+                    "playtime": {
+                        "min": 5,
+                        "max": 20
+                    },
+                    "family_friendly": "NOT_FAMILY_FRIENDLY",
+                    "audience": true,
+                    "audience_description": "Глядачі можуть голосувати за гравця, який сподобався їм найбільше, і таким чином присудити йому бали.",
+                    "stream_friendly": "PLAYABLE",
+                    "stream_friendly_description": "Ця гра чудово працює на трансляціях у «Швидкому режимі». У «Режимі дебатів», оскільки це презентаційна гра, рекомендується, щоб гравці могли принаймні чути один одного.",
+                    "moderation": "FULL_MODERATION",
+                    "moderation_description": "З увімкненою опцією «Модерація» модератори, зайшовши на mod.jackbox.in.ua, зможуть вирішувати, що відображатиметься на екрані. За необхідності рекомендовано увімкнути опцію «Фільтр лихослів'я».",
+                    "subtitles": true,
+                    "type": "VERSUS",
+                    "translation": "ENGLISH",
+                    "tagline": "Відповідайте на зухвалі запитання!",
+                    "small_description": "Відповідайте на зухвалі запитання!",
+                    "description": "*повний опис буде додано пізніше*",
+                    "images": [
+                        "game_images/LetMeFinish/letmefinish.mp4",
+                        "game_images/LetMeFinish/letmefinish_1.webp",
+                        "game_images/LetMeFinish/letmefinish_2.webp",
+                        "game_images/LetMeFinish/letmefinish_3.webp"
+                    ],
+                    "tags": [
+                        "writing",
+                        "drawing",
+                        "talking"
+                    ]
+                },
+                "loader": {
+                    "path": "loaders/tjnp/letmefinish.zip",
+                    "version": "1.0.0"
+                },
+                "launch_with_loaders": {
+                    "steam": false,
+                    "epic_games": true,
+                    "native": true
+                },
+                "patchs": []
+            }
+        ],
+        "icon": "jnp.ico",
+        "background": "backgrounds/jnp.jpg"
+    },
+    {
+        "id": "jss",
+        "name": "The Jackbox Survey Scramble",
+        "description": "Окрема гра з різними режимами вікторин.",
+        "launchers_id": {
+            "steam": "2948640",
+            "epic": "6d2e6c642bf14068bad5388651538450"
+        },
+        "executables": {
+            "windows": "The Jackbox Survey Scramble.exe",
+            "mac": "The Jackbox Survey Scramble.app/Contents/MacOS/The Jackbox Survey Scramble",
+            "linux": "Launcher.sh"
+        },
+        "loader":{
+            "path":"loaders/standalones/default.zip",
+            "version":"1.0.0"
+        },
+        "configuration": {
+            "version_property": "buildVersion",
+            "version_origin": "game_file",
+            "version_file": "jbg.config.jet"
+        },
+        "resource_location": {
+            "mac": "The Jackbox Survey Scramble.app/Contents/Resources/macos"
+        },
+        "store_links": {
+            "steam": "https://store.steampowered.com/app/2948640/The_Jackbox_Survey_Scramble/",
+            "epic": "https://store.epicgames.com/de/p/the-jackbox-survey-scramble-8cfeb4"
+        },
+        "patchs": [],
+        "games": [
+            {
+                "id": "surveyscramble",
+                "name": "The Jackbox Survey Scramble",
+                "background": "game_backgrounds/SurveyScramble.webp",
+                "path": "",
+                "game_info": {
+                    "players": {
+                        "min": 2,
+                        "max": 10
+                    },
+                    "playtime": {
+                        "min": 5,
+                        "max": 15
+                    },
+                    "family_friendly": "OPTIONAL",
+                    "audience": true,
+                    "audience_description": "Глядачі відповідають на запитання разом з гравцями.",
+                    "stream_friendly": "PLAYABLE",
+                    "stream_friendly_description": "У режимі «Bounce», коли гра відбувається дуже стрімко, той, хто транслює свій екран, матиме незначну перевагу над іншими, хоча вона не є дуже суттєвою. Усі інші режими чудово працюють на трансляціях.",
+                    "moderation": "FULL_MODERATION",
+                    "moderation_description":"Ця гра не потребує модерації. Проте, з увімкненою опцією «Модерація» модератори, зайшовши на mod.jackbox.in.ua можуть вигнати гравців. За необхідності рекомендовано увімкнути опцію «Фільтр лихослів'я».",
+                    "subtitles": true,
+                    "type": "VERSUS",
+                    "translation": "ENGLISH",
+                    "tagline": "Зможете вгадати, про що всі думають?",
+                    "small_description": "Зможете вгадати, про що всі думають?",
+                    "description": "*повний опис буде додано пізніше*",
+                    "images": [
+                        "game_images/SurveyScramble/surveyscramble.mp4",
+                        "game_images/SurveyScramble/surveyscramble_1.webp",
+                        "game_images/SurveyScramble/surveyscramble_2.webp",
+                        "game_images/SurveyScramble/surveyscramble_3.webp",
+                        "game_images/SurveyScramble/surveyscramble_4.webp",
+                        "game_images/SurveyScramble/surveyscramble_5.webp"
+                    ],
+                    "tags": [
+                        "deduction",
+                        "knowledge",
+                        "writing",
+                        "talking"
+                    ]
+                },
+                "loader":{
+                    "path":"loaders/standalones/standalones.zip",
+                    "version":"1.0.0"
+                },
+                "launch_with_loaders":{
+                    "steam":true,
+                    "epic_games":true,
+                    "native":true
+                },
+                "patchs": []
+            }
+        ],
+        "icon": "jss.ico",
+        "background": "backgrounds/jss.jpg"
     },
     {
       "id": "fbxl",
@@ -3586,7 +3859,7 @@
               "min": 15,
               "max": 20
             },
-            "family_friendly": "NOT_FAMILY_FRIENDLY",
+            "family_friendly": "OPTIONAL",
             "audience": false,
             "stream_friendly": "PLAYABLE",
             "moderation": "NO_MODERATION",
@@ -3634,7 +3907,7 @@
         "mac":"Quiplash.app/Contents/Resources/macos"
       },
       "loader": {
-        "path": "loaders/standalones/default.zip",
+        "path": "loaders/standalones/quiplashdefault.zip",
         "version": "1.0.0"
       },
       "configuration": {
@@ -3687,7 +3960,7 @@
             ]
           },
           "loader": {
-            "path": "loaders/standalones/standalones.zip",
+            "path": "loaders/standalones/quiplash.zip",
             "version": "1.0.0"
           },
           "patchs": []
@@ -3733,6 +4006,7 @@
             "version_file": "https://raw.githubusercontent.com/jackbox-ukraine/quiplash-2/main/jbg.config.jet",
             "version_property": "buildVersion"
           },
+          "supported_platforms": ["windows","linux","mac"],
           "supported_launchers": ["steam","epic","native"],
           "components": [
             {
@@ -3842,6 +4116,7 @@
             "version_file": "https://raw.githubusercontent.com/jackbox-ukraine/drawful-2/main/jbg.config.jet",
             "version_property": "buildVersion"
           },
+          "supported_platforms": ["windows","linux","mac"],
           "supported_launchers": ["steam","epic","native"],
           "components": [
             {
