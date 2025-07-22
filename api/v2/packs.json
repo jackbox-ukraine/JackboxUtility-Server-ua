@@ -1285,7 +1285,7 @@
           "id": "fibbage3",
           "name": "Брехалище 3",
           "internal_name": "Fibbage3",
-          "background": "game_backgrounds/Fibbage3.jpg",
+          "background": "game_backgrounds/Fibbage3.webp",
           "path": "games/Fibbage3",
           "game_info": {
             "players": {
