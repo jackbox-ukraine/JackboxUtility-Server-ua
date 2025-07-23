@@ -1135,7 +1135,7 @@
           "id": "survivetheinternet",
           "name": "Вижити в інтернеті",
           "internal_name": "SurviveTheInternet",
-          "background": "game_backgrounds/SurviveTheInternet.png",
+          "background": "game_backgrounds/SurviveTheInternet.webp",
           "path": "games/SurviveTheInternet",
           "game_info": {
             "players": {
@@ -1235,7 +1235,7 @@
           "id": "bracketeering",
           "name": "Жартурнір",
           "internal_name": "Bracketeering",
-          "background": "game_backgrounds/Bracketeering.png",
+          "background": "game_backgrounds/Bracketeering.webp",
           "path": "games/Bracketeering",
           "game_info": {
             "players": {
@@ -1336,7 +1336,7 @@
           "id": "civicdoodle",
           "name": "Громадська мазня",
           "internal_name": "Overdrawn",
-          "background": "game_backgrounds/CivicDoodle.png",
+          "background": "game_backgrounds/CivicDoodle.webp",
           "path": "games/CivicDoodle",
           "game_info": {
             "players": {
@@ -1607,7 +1607,7 @@
           "id": "splittheroom",
           "name": "Розділи кімнату",
           "internal_name": "SplitTheRoom",
-          "background": "game_backgrounds/SplitTheRoom.png",
+          "background": "game_backgrounds/SplitTheRoom.webp",
           "path": "games/SplitTheRoom",
           "game_info": {
             "players": {
@@ -2278,7 +2278,7 @@
           "id": "quiplash3",
           "name": "Сміхрясь 3",
           "internal_name": "Quiplash3",
-          "background": "game_backgrounds/Quiplash3.png",
+          "background": "game_backgrounds/Quiplash3.webp",
           "path": "games/Quiplash3",
           "game_info": {
             "players": {
@@ -2451,7 +2451,7 @@
           "id": "drawful_animate",
           "name": "Малювач: Анімач",
           "internal_name": "DrawfulAnimate",
-          "background": "game_backgrounds/DrawfulAnimate.png",
+          "background": "game_backgrounds/DrawfulAnimate.webp",
           "path": "games/DrawfulAnimate",
           "game_info": {
             "players": {
@@ -3043,7 +3043,7 @@
           "id": "teeko2",
           "name": "Tee K.O. 2",
           "internal_name": "AwShirt2",
-          "background": "game_backgrounds/TeeKO2.png",
+          "background": "game_backgrounds/TeeKO2.webp",
           "path": "games/AwShirt2",
           "game_info": {
             "players": {
@@ -3094,7 +3094,7 @@
           "id": "fixytext",
           "name": "FixyText",
           "internal_name": "RiskyText",
-          "background": "game_backgrounds/FixyText.png",
+          "background": "game_backgrounds/FixyText.webp",
           "path": "games/RiskyText",
           "game_info": {
             "players": {
@@ -3144,7 +3144,7 @@
           "id": "timejinx",
           "name": "Timejinx",
           "internal_name": "TimeTrivia",
-          "background": "game_backgrounds/Timejinx.png",
+          "background": "game_backgrounds/Timejinx.webp",
           "path": "games/TimeTrivia",
           "game_info": {
             "players": {
@@ -3194,7 +3194,7 @@
           "id": "hypnotorious",
           "name": "Hypnotorious",
           "internal_name": "Strangers",
-          "background": "game_backgrounds/Hypnotorious.png",
+          "background": "game_backgrounds/Hypnotorious.webp",
           "path": "games/Strangers",
           "game_info": {
             "players": {
@@ -3245,7 +3245,7 @@
           "id": "dodoremi",
           "name": "Dodo Re Mi",
           "internal_name": "NopusOpus",
-          "background": "game_backgrounds/DodoReMi.png",
+          "background": "game_backgrounds/DodoReMi.webp",
           "path": "games/NopusOpus",
           "game_info": {
             "players": {
@@ -3395,7 +3395,7 @@
           "id": "quiplash3_starter",
           "name": "Сміхрясь 3 (Starter)",
           "internal_name": "Quiplash3",
-          "background": "game_backgrounds/Quiplash3Starter.png",
+          "background": "game_backgrounds/Quiplash3Starter.webp",
           "path": "games/Quiplash3",
           "game_info": {
             "players": {
@@ -3445,7 +3445,7 @@
           "id": "teeko_starter",
           "name": "Футбол К.О. (Starter)",
           "internal_name": "AwShirt",
-          "background": "game_backgrounds/TeeKOStarter.png",
+          "background": "game_backgrounds/TeeKOStarter.webp",
           "path": "games/AwShirt",
           "game_info": {
             "players": {
@@ -3496,7 +3496,7 @@
           "id": "trivia_murder_party_2_starter",
           "name": "Смертельні вечорниці 2 (Starter)",
           "internal_name": "triviadeath2",
-          "background": "game_backgrounds/TriviaMurderParty2Starter.png",
+          "background": "game_backgrounds/TriviaMurderParty2Starter.webp",
           "path": "games/triviadeath2",
           "game_info": {
             "players": {
@@ -4038,7 +4038,7 @@
         {
           "id": "quiplash2interlashional",
           "name": "Сміхрясь 2 МіжСМІХціональний",
-          "background": "game_backgrounds/Quiplash2InterLASHional.jpg",
+          "background": "game_backgrounds/Quiplash2InterLASHional.webp",
           "path": "",
           "game_info": {
             "players": {
