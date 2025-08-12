@@ -2079,7 +2079,7 @@
           "patch_path": "https://jackbox-in-ua.ams3.cdn.digitaloceanspaces.com/JPP7-UA.zip",
           "configuration": {
             "version_origin": "repo_file",
-            "version_file": "https://raw.githubusercontent.com/jackbox-ukraine/jpp7/main/config.jet",
+            "version_file": "https://raw.githubusercontent.com/jackbox-ukraine/jpp7/main/jbg.config.jet",
             "version_property": "buildVersion"
           },
           "supported_platforms": ["windows","linux","mac"],
