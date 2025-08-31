@@ -1038,7 +1038,7 @@
         {
           "id": "tjpp4_ua",
           "name": "Jackbox Party Pack 4",
-          "small_description": "Текстовий переклад усіх ігор, озвучення до трьох",
+          "small_description": "Текстовий переклад і озвучення усіх ігор",
           "patch_path": "https://jackbox-in-ua.ams3.cdn.digitaloceanspaces.com/JPP4-ua.zip",
           "configuration": {
             "version_origin": "repo_file",
@@ -1052,15 +1052,15 @@
               "id": "monsterseekingmonster_patch",
               "linked_game": "monsterseekingmonster",
               "name": "Монстр шукає монстра",
-              "description": "Повний текстовий переклад гри без озвучення.",
-              "authors": "Jackbox Ukraine",
-              "small_description": "Повний текстовий переклад гри без озвучення",
+              "description": "Повний текстовий переклад гри з повним озвученням.",
+              "authors": "- Jackbox Ukraine\n- [ddvvwq](https://linktr.ee/ddvvwq)",
+              "small_description": "Повний текстовий переклад гри з повним озвученням",
               "patch_type": {
                 "game_text": true,
-                "game_assets": false,
+                "game_assets": true,
                 "game_subtitles": false,
                 "website": true,
-                "audios": false
+                "audios": true
               }
             },
             {
