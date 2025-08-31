@@ -1211,10 +1211,10 @@
             "description": "**Монстр шукає монстра** — гра розрахована на 3–7 гравців і має тему жахів, де кожен гравець є замаскованим монстром, який намагається піти на побачення з іншими гравцями. У кожному з шести раундів гравці починають з надсилання до чотирьох повідомлень іншим гравцям. Неігровий монстр, робот, якщо глядачів вимкнено для ігор для 3–4 гравців, генерує повідомлення одразу після того, як гравець надішле йому текстове повідомлення. Глядачі, якщо вони беруть участь, використовують підказки у стилі mad lib для вибору фраз. Після цього кожен гравець вибирає ще одного гравця, з яким би зустрічався на основі цих відповідей. Якщо два гравці вибирають один одного, вони обидва отримують серце. Також враховуються додаткові бонуси та ефекти завдяки прихованій силі монстра. Відмова трапляється, коли два гравці вибирають інших гравців замість один одного, або якщо один або кілька гравців не вибирають нікого (вони також втрачають серце, якщо не вибирають жодного гравця на зустріч). Від кінця другого раунду форма монстра провідного гравця, чия форма монстра ще невідома, відкривається всім. Перемагає гравець із найбільшою кількістю сердець у кінці, якщо не виконано інших спеціальних умов щодо монстра гравця.",
             "images": [
               "game_images/MonsterSeekingMonster/monsterseekingmonster.mp4",
-              "game_images/MonsterSeekingMonster/monsterseekingmonster_1.webp",
-              "game_images/MonsterSeekingMonster/monsterseekingmonster_2.webp",
-              "game_images/MonsterSeekingMonster/monsterseekingmonster_3.webp",
-              "game_images/MonsterSeekingMonster/monsterseekingmonster_4.webp"
+              "game_images/MonsterSeekingMonster/monsterseekingmonster_1.jpg",
+              "game_images/MonsterSeekingMonster/monsterseekingmonster_2.png",
+              "game_images/MonsterSeekingMonster/monsterseekingmonster_3.jpg",
+              "game_images/MonsterSeekingMonster/monsterseekingmonster_4.png"
             ],
             "tags": [
               "writing"
