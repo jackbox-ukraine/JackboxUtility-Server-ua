@@ -20,19 +20,9 @@
             "text":"Донатьте на ЗСУ!"
         },
         {
-            "icon":"hryvnia",
-            "url":"https://donatello.to/jackbox_ukraine",
-            "text":"Donatello"
-        },
-        {
             "icon":"patreon",
             "url":"https://www.patreon.com/jackbox_ukraine",
             "text":"Patreon"
-        },
-        {
-            "icon":"globe",
-            "url":"https://www.buymeacoffee.com/jackbox.ua",
-            "text":"Buy Me a Coffee"
         },
         {
             "icon":"discord",
@@ -43,6 +33,11 @@
             "icon":"telegram",
             "url":"https://t.me/jackbox_ua",
             "text":"Telegram"
+        },
+        {
+            "icon":"youtube",
+            "url":"https://www.youtube.com/@jackbox.ukraine",
+            "text":"YouTube"
         }
     ]
 }
