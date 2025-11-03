@@ -1863,7 +1863,8 @@
               "game_images/RoleModels/rolemodels.mp4",
               "game_images/RoleModels/rolemodels_1.webp",
               "game_images/RoleModels/rolemodels_2.webp",
-              "game_images/RoleModels/rolemodels_3.webp"
+              "game_images/RoleModels/rolemodels_3.webp",
+              "game_images/RoleModels/rolemodels_4.jpg"
             ],
             "tags": [
               "talking"
@@ -3400,9 +3401,10 @@
             "small_description": "Записуйте звукові ефекти та репліки прямо зі свого пристрою в грі, натхненній роботою шумовика, де сміх стає саундтреком. А потім дивіться, як ваші голоси оживають у серії коротких кінофрагментів!",
             "description": "Спершу ви та ваші друзі повинні будете пройти калібрування. Вам дадуть просте завдання, наприклад: за допомогою лише свого голосу підняти цю крапку вище лінії якомога більше разів.\n\nПотім на вашому пристрої з'являться завдання на кшталт: «зроби звук, ніби лопається повітряна кулька». Якщо ви граєте в одній кімнаті з друзями або на дуже активному сервері Discord з увімкненими мікрофонами, готуйтеся до неймовірного шумового хаосу! Записуйте свої звуки серед цього галасу або знайдіть тихий куточок, щоб здивувати всіх своїми кумедними ефектами.\n\nПісля того як усі запишуть свої звуки, їх програють для всіх, щоб кожен міг голосувати за улюблені. Коли визначать переможців кожного раунду, ці звуки будуть представлені в зовсім новому контексті. Та сама кулька, що лопається? Тепер вона порушує тишу в спокійній йога-студії.\n\nКраса цієї гри в тому, що зіркою може стати будь-хто — від найхаризматичнішого друга в груповому чаті до найсором'язливішого гостя на заході.",
             "images": [
-              "game_images/HearSay/hearsay_1.webp",
-              "game_images/HearSay/hearsay_2.webp",
-              "game_images/HearSay/hearsay_3.webp"
+              "game_images/HearSay/hearsay_1.jpg",
+              "game_images/HearSay/hearsay_2.jpg",
+              "game_images/HearSay/hearsay_3.jpg",
+              "game_images/HearSay/hearsay_4.jpg"
             ],
             "tags": [
               "talking"
@@ -3449,7 +3451,8 @@
             "images": [
               "game_images/CookieHaus/cookiehaus_1.webp",
               "game_images/CookieHaus/cookiehaus_2.webp",
-              "game_images/CookieHaus/cookiehaus_3.webp"
+              "game_images/CookieHaus/cookiehaus_3.webp",
+              "game_images/CookieHaus/cookiehaus_3.jpg"
             ],
             "tags": [
               "drawing"
@@ -3496,7 +3499,8 @@
             "images": [
               "game_images/Suspectives/suspectives_1.webp",
               "game_images/Suspectives/suspectives_2.webp",
-              "game_images/Suspectives/suspectives_3.webp"
+              "game_images/Suspectives/suspectives_3.webp",
+              "game_images/Suspectives/suspectives_4.jpg"
             ],
             "tags": [
               "deduction"
