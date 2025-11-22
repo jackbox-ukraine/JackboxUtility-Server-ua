@@ -2575,7 +2575,7 @@
           "id": "jobjob",
           "name": "Діло Ділом",
           "internal_name": "JobGame",
-          "background": "game_backgrounds/JobJob.webp",
+          "background": "game_backgrounds/JobJob.png",
           "path": "games/JobGame",
           "game_info": {
             "players": {
