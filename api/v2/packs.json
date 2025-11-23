@@ -2429,8 +2429,7 @@
           },
           "supported_platforms": [
             "windows",
-            "linux",
-            "mac"
+            "linux"
           ],
           "supported_launchers": [
             "steam",
