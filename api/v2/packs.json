@@ -1840,7 +1840,7 @@
         {
           "id": "tjpp6_ua",
           "name": "Jackbox Party Pack 6",
-          "small_description": "Текстовий переклад однієї гри з частковим озвученням",
+          "small_description": "Текстовий переклад однієї гри з повним озвученням",
           "patch_path": "https://jackbox-in-ua.ams3.cdn.digitaloceanspaces.com/JPP6-UA.zip",
           "configuration": {
             "version_origin": "repo_file",
