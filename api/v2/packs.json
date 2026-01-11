@@ -1862,9 +1862,9 @@
               "id": "trivia_murder_party_2_patch",
               "linked_game": "trivia_murder_party_2",
               "name": "Смертельні вечорниці 2",
-              "description": "Повний текстовий переклад гри з частковим озвученням від Безлада",
+              "description": "Повний текстовий переклад гри з повним озвученням від Безлада",
               "authors": "- Jackbox Ukraine\n- Безлад",
-              "small_description": "Повний текстовий переклад гри з частковим озвученням від Безлада",
+              "small_description": "Повний текстовий переклад гри з повним озвученням від Безлада",
               "patch_type": {
                 "game_text": true,
                 "game_assets": true,
@@ -3753,9 +3753,9 @@
               "id": "trivia_murder_party_2_starter_patch",
               "linked_game": "trivia_murder_party_2_starter",
               "name": "Смертельні вечорниці 2",
-              "description": "Повний текстовий переклад гри з частковим озвученням від Безлада.",
+              "description": "Повний текстовий переклад гри з повним озвученням від Безлада.",
               "authors": "- Jackbox Ukraine\n- Безлад",
-              "small_description": "Повний текстовий переклад гри з частковим озвученням від Безлада",
+              "small_description": "Повний текстовий переклад гри з повним озвученням від Безлада",
               "patch_type": {
                 "game_text": true,
                 "game_assets": true,
