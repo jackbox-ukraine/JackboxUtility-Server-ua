@@ -7,7 +7,7 @@
     "urls":[
         {
             "versions":["1.0.0"],
-            "api":"https://raw.githubusercontent.com/jackbox-ukraine/JackboxUtility-Server-ua/main/api/v2/",
+            "api":"https://raw.githubusercontent.com/jackbox-ukraine/JackboxUtility-Server-ua/main/api/v2",
             "assets":"https://raw.githubusercontent.com/jackbox-ukraine/JackboxUtility-Server-ua/main/assets"
         }
     ],
