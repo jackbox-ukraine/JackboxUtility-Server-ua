@@ -668,6 +668,9 @@
               "name": "Надурисвіт",
               "description": "Повний текстовий переклад гри з повним озвученням від Ореста Лукʼянчука.",
               "authors": "- Jackbox Ukraine\n- Орест Лукʼянчук",
+              "voiceActors": [
+                {"name": "Орест Лукʼянчук", "url": "https://www.youtube.com/@Useiodrazu"}
+              ],
               "small_description": "Повний текстовий переклад гри з повним озвученням від Ореста Лукʼянчука",
               "patch_type": {
                 "game_text": true,
@@ -683,6 +686,9 @@
               "name": "Сміхрясь 2",
               "description": "Повний текстовий переклад гри з повним озвученням від Lost Human'а.",
               "authors": "- Jackbox Ukraine\n- Lost Human",
+              "voiceActors": [
+                {"name": "Lost Human", "url": "https://www.youtube.com/@lost_human"}
+              ],
               "small_description": "Повний текстовий переклад гри з повним озвученням від Lost Human'а",
               "patch_type": {
                 "game_text": true,
@@ -698,6 +704,9 @@
               "name": "Футбол К.О.",
               "description": "Повний текстовий переклад гри з повним озвученням від Падона.",
               "authors": "- Jackbox Ukraine\n- Падон",
+              "voiceActors": [
+                {"name": "Падон", "url": "https://www.youtube.com/@pad0n"}
+              ],
               "small_description": "Повний текстовий переклад гри з повним озвученням від Падона",
               "patch_type": {
                 "game_text": true,
@@ -713,6 +722,9 @@
               "name": "Шпигадаш",
               "description": "Повний текстовий переклад гри з частковим озвученням від Slidan'а.\nЦей переклад присвячений памʼяті Антона Стрікова — героя, що загинув під Бахмутом захищаючи Україну.",
               "authors": "- Jackbox Ukraine\n- Slidan",
+              "voiceActors": [
+                {"name": "Slidan", "url": "https://www.youtube.com/@Slidan"}
+              ],
               "small_description": "Повний текстовий переклад гри з частковим озвученням від Slidan'а",
               "patch_type": {
                 "game_text": true,
@@ -1054,6 +1066,9 @@
               "name": "Монстр шукає монстра",
               "description": "Повний текстовий переклад гри з повним озвученням.",
               "authors": "- Jackbox Ukraine\n- ddvvwq",
+              "voiceActors": [
+                {"name": "ddvvwq", "url": "https://linktr.ee/ddvvwq"}
+              ],
               "small_description": "Повний текстовий переклад гри з повним озвученням",
               "patch_type": {
                 "game_text": true,
@@ -1069,6 +1084,10 @@
               "name": "Вижити в інтернеті",
               "description": "Повний текстовий переклад гри з повним озвученням від Квадратного та OLDBoi.",
               "authors": "- Jackbox Ukraine\n- Квадратний\n- OLDBoi",
+              "voiceActors": [
+                {"name": "Квадратний", "url": "https://www.youtube.com/@kvadratnyk"},
+                {"name": "OLDBoi", "url": "https://www.youtube.com/@oldboiua"}
+              ],
               "small_description": "Повний текстовий переклад гри з повним озвученням від Квадратного та OLDBoi",
               "patch_type": {
                 "game_text": true,
@@ -1084,6 +1103,10 @@
               "name": "Громадська мазня",
               "description": "Повний текстовий переклад гри з повним озвученням від MariAm та SkomUA.",
               "authors": "- Jackbox Ukraine\n- MariAm\n- SkomUA",
+              "voiceActors": [
+                {"name": "MariAm", "url": "https://www.youtube.com/@MariAmBlog"},
+                {"name": "SkomUA", "url": "https://www.youtube.com/@SkomUA"}
+              ],
               "small_description": "Повний текстовий переклад гри з повним озвученням від MariAm та SkomUA",
               "patch_type": {
                 "game_text": true,
@@ -1099,6 +1122,9 @@
               "name": "Жартурнір",
               "description": "Текстовий переклад гри з повним озвученням від AdrianZP.",
               "authors": "- Jackbox Ukraine\n- AdrianZP",
+              "voiceActors": [
+                {"name": "AdrianZP", "url": "https://www.youtube.com/@AdrianZPcity"}
+              ],
               "small_description": "Текстовий переклад гри з повним озвученням від AdrianZP",
               "patch_type": {
                 "game_text": true,
@@ -1114,6 +1140,9 @@
               "name": "Брехалище 3",
               "description": "Частковий текстовий переклад гри з частковим озвученням від Ореста Лукʼянчука.",
               "authors": "- Jackbox Ukraine\n- Орест Лукʼянчук",
+              "voiceActors": [
+                {"name": "Орест Лукʼянчук", "url": "https://www.youtube.com/@Useiodrazu"}
+              ],
               "small_description": "Частковий текстовий переклад гри з частковим озвученням від Ореста Лукʼянчука",
               "patch_type": {
                 "game_text": true,
@@ -1151,6 +1180,9 @@
               "name": "Монстр шукає монстра",
               "description": "Повний текстовий переклад гри з повним озвученням.",
               "authors": "- Jackbox Ukraine\n- ddvvwq",
+              "voiceActors": [
+                {"name": "ddvvwq", "url": "https://linktr.ee/ddvvwq"}
+              ],
               "small_description": "Повний текстовий переклад гри з повним озвученням",
               "patch_type": {
                 "game_text": true,
@@ -1166,6 +1198,10 @@
               "name": "Вижити в інтернеті",
               "description": "Повний текстовий переклад гри з повним озвученням від Квадратного та OLDBoi.",
               "authors": "- Jackbox Ukraine\n- Квадратний\n- OLDBoi",
+              "voiceActors": [
+                {"name": "Квадратний", "url": "https://www.youtube.com/@kvadratnyk"},
+                {"name": "OLDBoi", "url": "https://www.youtube.com/@oldboiua"}
+              ],
               "small_description": "Повний текстовий переклад гри з повним озвученням від Квадратного та OLDBoi",
               "patch_type": {
                 "game_text": true,
@@ -1181,6 +1217,10 @@
               "name": "Громадська мазня",
               "description": "Повний текстовий переклад гри з повним озвученням від MariAm та SkomUA.",
               "authors": "- Jackbox Ukraine\n- MariAm\n- SkomUA",
+              "voiceActors": [
+                {"name": "MariAm", "url": "https://www.youtube.com/@MariAmBlog"},
+                {"name": "SkomUA", "url": "https://www.youtube.com/@SkomUA"}
+              ],
               "small_description": "Повний текстовий переклад гри з повним озвученням від MariAm та SkomUA",
               "patch_type": {
                 "game_text": true,
@@ -1196,6 +1236,9 @@
               "name": "Жартурнір",
               "description": "Текстовий переклад гри з повним озвученням від AdrianZP.",
               "authors": "- Jackbox Ukraine\n- AdrianZP",
+              "voiceActors": [
+                {"name": "AdrianZP", "url": "https://www.youtube.com/@AdrianZPcity"}
+              ],
               "small_description": "Текстовий переклад гри з повним озвученням від AdrianZP",
               "patch_type": {
                 "game_text": true,
@@ -1211,6 +1254,9 @@
               "name": "Брехалище 3",
               "description": "Частковий текстовий переклад гри з частковим озвученням від Ореста Лукʼянчука.",
               "authors": "- Jackbox Ukraine\n- Орест Лукʼянчук",
+              "voiceActors": [
+                {"name": "Орест Лукʼянчук", "url": "https://www.youtube.com/@Useiodrazu"}
+              ],
               "small_description": "Частковий текстовий переклад гри з частковим озвученням від Ореста Лукʼянчука",
               "patch_type": {
                 "game_text": true,
@@ -1538,6 +1584,9 @@
               "name": "Розділи кімнату",
               "description": "Повний текстовий переклад гри з повним озвученням від RendarosUA.",
               "authors": "- Jackbox Ukraine\n- RendarosUA",
+              "voiceActors": [
+                {"name": "RendarosUA", "url": "https://www.youtube.com/@RendarosUA"}
+              ],
               "small_description": "Повний текстовий переклад гри з повним озвученням від RendarosUA",
               "patch_type": {
                 "game_text": true,
@@ -1864,6 +1913,9 @@
               "name": "Смертельні вечорниці 2",
               "description": "Повний текстовий переклад гри з повним озвученням від Безлада",
               "authors": "- Jackbox Ukraine\n- Безлад",
+              "voiceActors": [
+                {"name": "Безлад", "url": "https://www.youtube.com/@bezlad"}
+              ],
               "small_description": "Повний текстовий переклад гри з повним озвученням від Безлада",
               "patch_type": {
                 "game_text": true,
@@ -2196,6 +2248,9 @@
               "name": "Сміхрясь 3",
               "description": "Повний текстовий переклад гри з повним озвученням від Lost Human'а.",
               "authors": "- Jackbox Ukraine\n- Lost Human",
+              "voiceActors": [
+                {"name": "Lost Human", "url": "https://www.youtube.com/@lost_human"}
+              ],
               "small_description": "Повний текстовий переклад гри з повним озвученням від Lost Human'а",
               "patch_type": {
                 "game_text": true,
@@ -3755,6 +3810,9 @@
               "name": "Футбол К.О.",
               "description": "Повний текстовий переклад гри з повним озвученням від Падона.",
               "authors": "- Jackbox Ukraine\n- Падон",
+              "voiceActors": [
+                {"name": "Падон", "url": "https://www.youtube.com/@pad0n"}
+              ],
               "small_description": "Повний текстовий переклад гри з повним озвученням від Падона",
               "patch_type": {
                 "game_text": true,
@@ -3770,6 +3828,9 @@
               "name": "Смертельні вечорниці 2",
               "description": "Повний текстовий переклад гри з повним озвученням від Безлада.",
               "authors": "- Jackbox Ukraine\n- Безлад",
+              "voiceActors": [
+                {"name": "Безлад", "url": "https://www.youtube.com/@bezlad"}
+              ],
               "small_description": "Повний текстовий переклад гри з повним озвученням від Безлада",
               "patch_type": {
                 "game_text": true,
@@ -3785,6 +3846,9 @@
               "name": "Сміхрясь 3",
               "description": "Повний текстовий переклад гри з частковим озвученням від Lost Human'а.",
               "authors": "- Jackbox Ukraine\n- Lost Human",
+              "voiceActors": [
+                {"name": "Lost Human", "url": "https://www.youtube.com/@lost_human"}
+              ],
               "small_description": "Повний текстовий переклад гри з частковим озвученням від Lost Human'а",
               "patch_type": {
                 "game_text": true,
