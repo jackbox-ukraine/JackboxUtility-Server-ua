@@ -4433,6 +4433,9 @@
               "name": "Сміхрясь 2 МіжСМІХціональний",
               "description": "Повний текстовий переклад гри з повним озвученням від Lost Human'а.",
               "authors": "- Jackbox Ukraine\n- Lost Human",
+              "voiceActors": [
+                {"name": "Lost Human", "url": "https://www.youtube.com/@lost_human"}
+              ],
               "small_description": "Повний текстовий переклад гри з повним озвученням від Lost Human'а",
               "patch_type": {
                 "game_text": true,
@@ -4550,6 +4553,9 @@
               "name": "Малювач 2",
               "description": "Повний текстовий переклад гри з повним озвученням від Lunar Shadow.",
               "authors": "- Jackbox Ukraine\n- Lunar Shadow",
+              "voiceActors": [
+                {"name": "Lunar Shadow", "url": "https://t.me/LunarShadow_ua"}
+              ],
               "small_description": "Повний текстовий переклад гри з повним озвученням від Lunar Shadow",
               "patch_type": {
                 "game_text": true,
