@@ -1,20 +1,21 @@
 {
   "SERVER_INFORMATION": {
-      "SHOW_PATREONS_SUBSCRIBERS": true,
-      "PATREONS_SUBSCRIBERS": [
-        "Retrochainik19",
-        "Viktor Kozachok",
-        "Vitaliy Reshetar",
-        "StTaras",
-        "Eugene Litvin",
-        "Pylorama",
-        "Сергій Ярошевич",
-        "Владислав Антоненко",
-        "Kilivanchik",
-        "SiRKo",
-        "qingal",
-        "Nikita Poddubny",
-        "kybarg"
-      ]
+    "SHOW_PATREONS_SUBSCRIBERS": true,
+    "PATREONS_SUBSCRIBERS": [
+      "Руслан Мельниченко",
+      "Валерій Марчук",
+      "Pyloramar",
+      "Eugene Morton",
+      "Добрий Ранок",
+      "Ruslan Vasylkiv",
+      "Роман (ukraine_man1",
+      "Anton Chupryn",
+      "Artemgg6",
+      "Ivan Pidoprygora",
+      "Yuliia Khyzhnychenko",
+      "Василь Цьокан",
+      "Ігор Зозуля",
+      "Лорд Маска"
+    ]
   }
 }
