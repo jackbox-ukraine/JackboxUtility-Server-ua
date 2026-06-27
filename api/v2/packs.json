@@ -2859,7 +2859,7 @@
         },
         {
           "id": "weaponsdrawn",
-          "name": "Weapons Drawn",
+          "name": "Мальовнича зброя",
           "internal_name": "MurderDetectives",
           "background": "game_backgrounds/WeaponsDrawn.webp",
           "path": "games/MurderDetectives",
