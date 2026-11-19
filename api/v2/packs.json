@@ -775,8 +775,8 @@
             "family_friendly": "OPTIONAL",
             "audience": true,
             "audience_description": "Глядачі намагаються вгадати, хто ж Дурисвіт, разом з гравцями.",
-            "stream_friendly": "MIDLY_PLAYABLE",
-            "stream_friendly_description": "Гравцям рекомендовано бачити один одного. Тому, якщо гра проводиться через трансляцію, гравці повинні мати камери. Для категорії «ПАЛЬЦЕМ У НЕБО» рекомендується, щоб гравці написали імена один одного на різних аркушах паперу і показували їх у камеру, або ж, писали імена в чаті, коли їх про це попросять.",
+            "stream_friendly": "NOT_PLAYABLE",
+            "stream_friendly_description": "Гравцям рекомендовано бачити один одного. Рекомендується грати в дистанційному режимі, який передбачений в окремій грі Fakin' It XL. Щоб грати в гру саме з цього набору на трансляції, гравці повинні мати камери. Для категорії «ПАЛЬЦЕМ У НЕБО» рекомендується, щоб гравці написали імена один одного на різних аркушах паперу і показували їх у камеру, або ж, писали імена в чаті, коли їх про це попросять.",
             "moderation": "CENSORING",
             "moderation_description": "Увімкнувши опцію «Ручна цензура», VIP може цензурувати відповіді гравців і глядачів, щойно вони з'являться на екрані у фінальному раунді.",
             "subtitles": false,
@@ -2955,12 +2955,7 @@
         "file": "jbg.config.jet",
         "version_origin": "game_file",
         "version_file": "jbg.config.jet",
-        "version_property": "buildVersion",
-        "launcher_version_file": {
-          "steam": "jbg.config.jet",
-          "epic_games": "config.jet",
-          "native": "jbg.config.jet"
-        }
+        "version_property": "buildVersion"
       },
       "patchs": [],
       "store_links": {
@@ -3246,12 +3241,7 @@
         "file": "jbg.config.jet",
         "version_origin": "game_file",
         "version_file": "jbg.config.jet",
-        "version_property": "buildVersion",
-        "launcher_version_file": {
-          "steam": "jbg.config.jet",
-          "epic_games": "config.jet",
-          "native": "jbg.config.jet"
-        }
+        "version_property": "buildVersion"
       },
       "patchs": [],
       "store_links": {
@@ -3528,12 +3518,7 @@
       "configuration": {
         "version_origin": "game_file",
         "version_file": "jbg.config.jet",
-        "version_property": "buildVersion",
-        "launcher_version_file": {
-          "steam": "jbg.config.jet",
-          "epic_games": "jbg.config.jet",
-          "native": "jbg.config.jet"
-        }
+        "version_property": "buildVersion"
       },
       "resource_location": {
         "mac": "The Jackbox Party Pack 11.app/Contents/Resources/macos"
@@ -3608,7 +3593,7 @@
             },
             "family_friendly": "OPTIONAL",
             "audience": true,
-            "audience_description": "Глядачі можуть голосувати і брати участь в мінііграх під час пауз.",
+            "audience_description": "Глядачі можуть голосувати і брати участь в мінііграх під час пауз. Вони також можуть впливати на фонові візуальні ефекти своїми голосами, поки гравці записують власні звуки.",
             "stream_friendly": "PLAYABLE",
             "stream_friendly_description": "Оскільки це гра, в якій гравці записують звуки, якщо ви граєте з незнайомими людьми, рекомендується грати з увімкненою опцією «Модерація».",
             "moderation": "FULL_MODERATION",
@@ -3705,8 +3690,9 @@
             },
             "family_friendly": "FAMILY_FRIENDLY",
             "audience": true,
-            "audience_description": "Глядачі також можуть голосувати.",
-            "stream_friendly": "PLAYABLE",
+            "audience_description": "Глядачі також можуть голосувати. Крім того, вони можуть пропонувати, кого допитати та яку інформацію розкрити під час тесту на детекторі брехні.",
+            "stream_friendly": "MIDLY_PLAYABLE",
+            "stream_friendly_description": "Оскільки це гра на соціальну дедукцію, гравцям рекомендується мати можливість хоча б чути один одного. Крім того, під час гри з незнайомцями рекомендується змінити налаштування «Знайомість гравців» на «Незнайомці», щоб питання опитування були відповідно скориговані.",
             "moderation_description": "Ця гра не потребує модерації. Проте, з увімкненою опцією «Модерація» модератори, зайшовши на mod.jackbox.in.ua можуть вигнати гравців.",
             "moderation": "FULL_MODERATION",
             "subtitles": true,
@@ -3753,8 +3739,9 @@
             },
             "family_friendly": "OPTIONAL",
             "audience": true,
-            "audience_description": "Глядачі можуть лікувати гравців або супротивників, підкидаючи кубик.",
+            "audience_description": "Глядачі можуть лікувати гравців або супротивників, підкидаючи кубик. Вони також можуть завдавати шкоди гравцям або монстрам.",
             "stream_friendly": "PLAYABLE",
+            "stream_friendly_description": "Оскільки це кооперативна гра, бажано, щоб гравці хоча б чули один одного, щоб обговорити питання. Проте гра чудово працює навіть тоді, коли гравці не чують один одного.",
             "moderation": "FULL_MODERATION",
             "moderation_description": "З увімкненою опцією «Модерація» модератори, зайшовши на mod.jackbox.in.ua, зможуть вирішувати, що відображатиметься на екрані. За необхідності рекомендовано увімкнути опцію «Фільтр лихослів'я».",
             "subtitles": true,
@@ -3793,7 +3780,7 @@
       "name": "Jackbox Party Pack 12",
       "description": "Дванадцята збірка серії Jackbox Party Pack.",
       "executables": {
-        "windows": "The Jackbox Party Pack 12.exe",
+        "windows": "TJPP12.exe",
         "mac": "The Jackbox Party Pack 12.app/Contents/MacOS/The Jackbox Party Pack 12",
         "linux": "Launcher.sh"
       },
@@ -3804,20 +3791,20 @@
         "steam": "4199960",
         "epic": "9294aad1dcf845d5a800f309facae1f1"
       },
+      "loader": {
+        "path": "loaders/tjpp12/default.zip",
+        "version": "1.0.0"
+      },
       "configuration": {
         "file": "jbg.config.jet",
         "version_origin": "game_file",
         "version_file": "jbg.config.jet",
-        "version_property": "buildVersion",
-        "launcher_version_file": {
-          "steam": "jbg.config.jet",
-          "epic_games": "config.jet",
-          "native": "jbg.config.jet"
-        }
+        "version_property": "buildVersion"
       },
       "patchs": [],
       "store_links": {
-        "steam": "https://store.steampowered.com/app/4199960/The_Jackbox_Party_Pack_12/"
+        "steam": "https://store.steampowered.com/app/4199960/The_Jackbox_Party_Pack_12/",
+        "epic": "https://store.epicgames.com/p/the-jackbox-party-pack-12-ecd7c0"
       },
       "games": [
         {
@@ -3832,13 +3819,15 @@
               "max": 8
             },
             "playtime": {
-              "min": 20,
+              "min": 15,
               "max": 25
             },
             "family_friendly": "OPTIONAL",
             "audience": true,
+            "audience_description": "Глядачі можуть голосувати за вподобані варіанти.",
             "stream_friendly": "PLAYABLE",
             "moderation": "FULL_MODERATION",
+            "moderation_description": "З увімкненою опцією «Модерація» модератори, зайшовши на mod.jackbox.in.ua, зможуть вирішувати, що відображатиметься на екрані. Вони також можуть вигнати гравців з гри. За необхідності рекомендовано увімкнути опцію «Фільтр лихослів'я».",
             "subtitles": true,
             "type": "VERSUS",
             "translation": "ENGLISH",
@@ -3856,6 +3845,15 @@
               "writing"
             ]
           },
+          "loader": {
+            "path": "loaders/tjpp12/weforgotacard.zip",
+            "version": "1.0.0"
+          },
+          "launch_with_loaders":{
+            "steam":false,
+            "epic_games":true,
+            "native":true
+          },
           "patchs": []
         },
         {
@@ -3870,13 +3868,15 @@
               "max": 8
             },
             "playtime": {
-              "min": 15,
+              "min": 20,
               "max": 15
             },
-            "family_friendly": "OPTIONAL",
+            "family_friendly": "FAMILY_FRIENDLY",
             "audience": true,
+            "audience_description": "Глядачі можуть голосувати за те, хто найкраще підходить один одному, і нараховувати бали цій парі. Вони також можуть вгадувати, хто написав ті чи інші слова, і якщо їхня відповідь правильна, ця людина отримує бали.",
             "stream_friendly": "PLAYABLE",
             "moderation": "FULL_MODERATION",
+            "moderation_description": "З увімкненою опцією «Модерація» модератори, зайшовши на mod.jackbox.in.ua, зможуть вирішувати, що відображатиметься на екрані. Вони також можуть вигнати гравців з гри. За необхідності рекомендовано увімкнути опцію «Фільтр лихослів'я».",
             "subtitles": true,
             "type": "VERSUS",
             "translation": "ENGLISH",
@@ -3890,9 +3890,17 @@
               "game_images/MegaPals/MegaPals_4.png"
             ],
             "tags": [
-              "writing",
-              "deduction"
+              "writing"
             ]
+          },
+          "loader": {
+            "path": "loaders/tjpp12/megapals.zip",
+            "version": "1.0.0"
+          },
+          "launch_with_loaders":{
+            "steam":false,
+            "epic_games":true,
+            "native":true
           },
           "patchs": []
         },
@@ -3908,13 +3916,16 @@
               "max": 8
             },
             "playtime": {
-              "min": 15,
-              "max": 15
+              "min": 10,
+              "max": 20
             },
             "family_friendly": "OPTIONAL",
             "audience": true,
-            "stream_friendly": "PLAYABLE",
+            "audience_description": "Під час дебатів глядачі можуть голосувати разом з іншими учасниками. Вони також можуть голосувати за наступний несподіваний поворот у дебатах, який має обрати учасник (хоча остаточне рішення все одно залишається за цим учасником). Крім того, вони беруть участь у «Глядацьких дебатах» — по суті, це просто опитування, на які глядачі відповідають для розваги ще до початку власне дебатів.",
+            "stream_friendly": "MIDLY_PLAYABLE",
+            "stream_friendly_description": "Оскільки це дискусійна гра, рекомендується, щоб гравці могли принаймні чути один одного.",
             "moderation": "FULL_MODERATION",
+            "moderation_description": "З увімкненою опцією «Модерація» модератори, зайшовши на mod.jackbox.in.ua, зможуть вирішувати, що відображатиметься на екрані. Вони також можуть вигнати гравців з гри. За необхідності рекомендовано увімкнути опцію «Фільтр лихослів'я».",
             "subtitles": true,
             "type": "VERSUS",
             "translation": "ENGLISH",
@@ -3932,6 +3943,15 @@
               "writing"
             ]
           },
+          "loader": {
+            "path": "loaders/tjpp12/debateandswitch.zip",
+            "version": "1.0.0"
+          },
+          "launch_with_loaders":{
+            "steam":false,
+            "epic_games":true,
+            "native":true
+          },
           "patchs": []
         },
         {
@@ -3947,12 +3967,14 @@
             },
             "playtime": {
               "min": 15,
-              "max": 15
+              "max": 20
             },
             "family_friendly": "OPTIONAL",
             "audience": true,
+            "audience_description": "Глядачі можуть голосувати за вподобані відповіді.",
             "stream_friendly": "PLAYABLE",
             "moderation": "FULL_MODERATION",
+            "moderation_description": "З увімкненою опцією «Модерація» модератори, зайшовши на mod.jackbox.in.ua, зможуть вирішувати, що відображатиметься на екрані. Вони також можуть вигнати гравців з гри.",
             "subtitles": true,
             "type": "VERSUS",
             "translation": "ENGLISH",
@@ -3969,6 +3991,15 @@
               "drawing"
             ]
           },
+          "loader": {
+            "path": "loaders/tjpp12/hyperface.zip",
+            "version": "1.0.0"
+          },
+          "launch_with_loaders":{
+            "steam":false,
+            "epic_games":true,
+            "native":true
+          },
           "patchs": []
         },
         {
@@ -3983,13 +4014,16 @@
               "max": 8
             },
             "playtime": {
-              "min": 15,
+              "min": 10,
               "max": 15
             },
             "family_friendly": "OPTIONAL",
             "audience": true,
-            "stream_friendly": "PLAYABLE",
+            "audience_description": "Глядачі можуть брати участь у грі, обираючи можливі варіанти відповідей, запропоновані однією з двох команд, і змагатися за власний особистий результат.",
+            "stream_friendly": "MIDLY_PLAYABLE",
+            "stream_friendly_description": "Оскільки це командна вікторина, рекомендується, щоб гравці могли принаймні чути один одного, щоб обговорити можливі варіанти відповідей. З огляду на те, що гра відбувається в режимі реального часу, для кращого досвіду рекомендується, щоб кожна команда перебувала в окремих голосових каналах або відеодзвінках.",
             "moderation": "FULL_MODERATION",
+            "moderation_description": "Ця гра не потребує модерації. Проте, з увімкненою опцією «Модерація» модератори, зайшовши на mod.jackbox.in.ua можуть вигнати гравців.",
             "subtitles": true,
             "type": "TEAM",
             "translation": "ENGLISH",
@@ -4006,6 +4040,15 @@
               "knowledge",
               "talking"
             ]
+          },
+          "loader": {
+            "path": "loaders/tjpp12/idolfactions.zip",
+            "version": "1.0.0"
+          },
+          "launch_with_loaders":{
+            "steam":false,
+            "epic_games":true,
+            "native":true
           },
           "patchs": []
         }
@@ -4036,12 +4079,7 @@
       "configuration": {
         "version_origin": "game_file",
         "version_file": "jbg.config.jet",
-        "version_property": "buildVersion",
-        "launcher_version_file": {
-          "steam": "jbg.config.jet",
-          "epic_games": "config.jet",
-          "native": "jbg.config.jet"
-        }
+        "version_property": "buildVersion"
       },
       "patchs": [
         {
@@ -4957,6 +4995,10 @@
         "mac": "Trivia Murder Party 3.app/Contents/MacOS/TMP3",
         "linux": "Launcher.sh"
       },
+      "loader": {
+        "path": "loaders/tmp3/default.zip",
+        "version": "1.0.0"
+      },
       "configuration": {
         "version_origin": "game_file",
         "version_file": "config.dat",
@@ -5003,11 +5045,105 @@
               "knowledge"
             ]
           },
+          "loader":{
+            "path":"loaders/tmp3/triviamurderparty3.zip",
+            "version":"1.0.0"
+          },
+          "launch_with_loaders":{
+            "steam":true,
+            "epic_games":true,
+            "native":true
+          },
           "patchs": []
         }
       ],
       "icon": "tmp3.ico",
       "background": "backgrounds/tmp3.jpg"
+    },
+        {
+      "id": "fixl",
+      "name": "Fakin' It! XL",
+      "description": "Розширена версія Fakin' It! з новими функціями, що випущена як окрема гра.",
+      "launchers_id": {
+        "steam": "5054700"
+      },
+      "executables": {
+        "windows": "Fakin It XL.exe",
+        "linux": "Launcher.sh"
+      },
+      "loader": {
+        "path": "loaders/fixl/default.zip",
+        "version": "1.0.0"
+      },
+      "configuration": {
+        "version_origin": "game_file",
+        "version_file": "jbg.config.jet",
+        "version_property": "buildVersion"
+      },
+      "patchs": [],
+      "store_links": {
+        "steam": "https://store.steampowered.com/app/5054700/Fakin_It_XL/",
+        "epic": "https://store.epicgames.com/p/fakin-it-xl-568932"
+      },
+      "games": [
+        {
+          "id": "fakinitxl",
+          "internal_name": "FakinItXL",
+          "name": "Fakin' It! XL",
+          "background": "game_backgrounds/FakinItXL.webp",
+          "path": "games/FakinItXL",
+          "game_info": {
+            "players": {
+              "min": 3,
+              "max": 8
+            },
+            "playtime": {
+              "min": 15,
+              "max": 20
+            },
+            "family_friendly": "OPTIONAL",
+            "audience": true,
+            "audience_description": "Глядачі намагаються вгадати, хто ж Дурисвіт, разом з гравцями.",
+            "stream_friendly": "PLAYABLE",
+            "stream_friendly_description": "Гра чудово працює під час трансляцій, якщо обрано дистанційний режим. Категорії адаптовані для гри під час трансляції або відеодзвінка.",
+            "moderation": "FULL_MODERATION",
+            "moderation_description": "З увімкненою опцією «Модерація» модератори, зайшовши на mod.jackbox.in.ua, зможуть вирішувати, що відображатиметься на екрані. За необхідності рекомендовано увімкнути опцію «Фільтр лихослів'я».",
+            "subtitles": true,
+            "type": "VERSUS",
+            "translation": "ENGLISH",
+            "tagline": "Зловіть підступного Дурисвіта!",
+            "small_description": "У Fakin' It XL Дурисвіт не отримує завдання й мусить викручуватися, як може. Заздалегідь вибирате грати в одній кімнаті чи дистанційно й отримуйте типи раундів, створені під свій варіант. Новий уміст і типи запитань, але ті самі відбріхування й допити, які ви обожнюєте.",
+            "description": "Одна з найулюбленіших ігор для вечірок Jackbox отримала свіже оновлення. У Fakin’ It XL гравці отримують прості вказівки на телефон чи інший пристрій. Наприклад: «підніми руку, якщо тобі хоч раз доводилося вдавати, що подобається небажаний подарунок». Наче нічого складного, правда? От тільки один гравець грає за Дурисвіта, тобто він вказівки не отримує й мусить удавти, ніби чудово розуміє, що відбувається. Ухвалюй швидкі рішення, щоб переконати всіх, що ти «в темі». А коли справжню вказівку буде розкрито, Удаваці треба підготувати переконливу відмазку, щоб виправдатися!\n\nГрупа має виявити Дурисвіта, ставлячи одне одному запитання стосовно відповідей, а завдання Дурисвіта — брехати в очі й переводити стрілки на когось іншого. Якщо зможеш пережити три кола допитів і не попастися, тоді отримаєш гору очок.\n\nМи взяли з Fakin' It, яку всі знають та люблять, типи раундів і вміст, а також запозичили структуру у Fakin' It All Night Long та додали свіжий вміст і нові типи запитань.\n\nІ тепер у цю гру можна грати не лише зібравшись в одному місці — ми додали новий режим, щоби було простіше й веселіше грати з друзями онлайн. На старті можна вибрати, граєш ти з кимось в одній кімнаті чи віддалено (на стримі або по відеодзвінку). Після цього стануть доступні типи раундів, підігнані під вибраний формат, тож грати разом буде зручно і поруч, і на відстані.",
+            "images": [
+              "game_images/FakinItXL/fakinitxl.mp4",
+              "game_images/FakinItXL/fakinitxl_1.webp",
+              "game_images/FakinItXL/fakinitxl_2.webp",
+              "game_images/FakinItXL/fakinitxl_3.webp",
+              "game_images/FakinItXL/fakinitxl_4.webp",
+              "game_images/FakinItXL/fakinitxl_5.webp",
+              "game_images/FakinItXL/fakinitxl_6.webp",
+              "game_images/FakinItXL/fakinitxl_7.webp",
+              "game_images/FakinItXL/fakinitxl_8.webp"
+            ],
+            "tags": [
+              "deduction",
+              "talking"
+            ]
+          },
+          "loader": {
+            "path":"loaders/fixl/fakinitxl.zip",
+            "version":"1.0.2"
+          },
+          "launch_with_loaders": {
+            "steam":true,
+            "epic_games":true,
+            "native":true
+          },
+          "patchs": []
+        }
+      ],
+      "icon": "fixl.ico",
+      "background": "backgrounds/fixl.jpg"
     }
   ]
 }
