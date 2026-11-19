@@ -775,8 +775,8 @@
             "family_friendly": "OPTIONAL",
             "audience": true,
             "audience_description": "Глядачі намагаються вгадати, хто ж Дурисвіт, разом з гравцями.",
-            "stream_friendly": "MIDLY_PLAYABLE",
-            "stream_friendly_description": "Гравцям рекомендовано бачити один одного. Тому, якщо гра проводиться через трансляцію, гравці повинні мати камери. Для категорії «ПАЛЬЦЕМ У НЕБО» рекомендується, щоб гравці написали імена один одного на різних аркушах паперу і показували їх у камеру, або ж, писали імена в чаті, коли їх про це попросять.",
+            "stream_friendly": "NOT_PLAYABLE",
+            "stream_friendly_description": "Гравцям рекомендовано бачити один одного. Рекомендується грати в дистанційному режимі, який передбачений в окремій грі Fakin' It XL. Щоб грати в гру саме з цього набору на трансляції, гравці повинні мати камери. Для категорії «ПАЛЬЦЕМ У НЕБО» рекомендується, щоб гравці написали імена один одного на різних аркушах паперу і показували їх у камеру, або ж, писали імена в чаті, коли їх про це попросять.",
             "moderation": "CENSORING",
             "moderation_description": "Увімкнувши опцію «Ручна цензура», VIP може цензурувати відповіді гравців і глядачів, щойно вони з'являться на екрані у фінальному раунді.",
             "subtitles": false,
@@ -3593,7 +3593,7 @@
             },
             "family_friendly": "OPTIONAL",
             "audience": true,
-            "audience_description": "Глядачі можуть голосувати і брати участь в мінііграх під час пауз.",
+            "audience_description": "Глядачі можуть голосувати і брати участь в мінііграх під час пауз. Вони також можуть впливати на фонові візуальні ефекти своїми голосами, поки гравці записують власні звуки.",
             "stream_friendly": "PLAYABLE",
             "stream_friendly_description": "Оскільки це гра, в якій гравці записують звуки, якщо ви граєте з незнайомими людьми, рекомендується грати з увімкненою опцією «Модерація».",
             "moderation": "FULL_MODERATION",
@@ -3690,8 +3690,9 @@
             },
             "family_friendly": "FAMILY_FRIENDLY",
             "audience": true,
-            "audience_description": "Глядачі також можуть голосувати.",
-            "stream_friendly": "PLAYABLE",
+            "audience_description": "Глядачі також можуть голосувати. Крім того, вони можуть пропонувати, кого допитати та яку інформацію розкрити під час тесту на детекторі брехні.",
+            "stream_friendly": "MIDLY_PLAYABLE",
+            "stream_friendly_description": "Оскільки це гра на соціальну дедукцію, гравцям рекомендується мати можливість хоча б чути один одного. Крім того, під час гри з незнайомцями рекомендується змінити налаштування «Знайомість гравців» на «Незнайомці», щоб питання опитування були відповідно скориговані.",
             "moderation_description": "Ця гра не потребує модерації. Проте, з увімкненою опцією «Модерація» модератори, зайшовши на mod.jackbox.in.ua можуть вигнати гравців.",
             "moderation": "FULL_MODERATION",
             "subtitles": true,
@@ -3738,8 +3739,9 @@
             },
             "family_friendly": "OPTIONAL",
             "audience": true,
-            "audience_description": "Глядачі можуть лікувати гравців або супротивників, підкидаючи кубик.",
+            "audience_description": "Глядачі можуть лікувати гравців або супротивників, підкидаючи кубик. Вони також можуть завдавати шкоди гравцям або монстрам.",
             "stream_friendly": "PLAYABLE",
+            "stream_friendly_description": "Оскільки це кооперативна гра, бажано, щоб гравці хоча б чули один одного, щоб обговорити питання. Проте гра чудово працює навіть тоді, коли гравці не чують один одного.",
             "moderation": "FULL_MODERATION",
             "moderation_description": "З увімкненою опцією «Модерація» модератори, зайшовши на mod.jackbox.in.ua, зможуть вирішувати, що відображатиметься на екрані. За необхідності рекомендовано увімкнути опцію «Фільтр лихослів'я».",
             "subtitles": true,
@@ -3778,7 +3780,7 @@
       "name": "Jackbox Party Pack 12",
       "description": "Дванадцята збірка серії Jackbox Party Pack.",
       "executables": {
-        "windows": "The Jackbox Party Pack 12.exe",
+        "windows": "TJPP12.exe",
         "mac": "The Jackbox Party Pack 12.app/Contents/MacOS/The Jackbox Party Pack 12",
         "linux": "Launcher.sh"
       },
@@ -3801,7 +3803,8 @@
       },
       "patchs": [],
       "store_links": {
-        "steam": "https://store.steampowered.com/app/4199960/The_Jackbox_Party_Pack_12/"
+        "steam": "https://store.steampowered.com/app/4199960/The_Jackbox_Party_Pack_12/",
+        "epic": "https://store.epicgames.com/p/the-jackbox-party-pack-12-ecd7c0"
       },
       "games": [
         {
@@ -3816,13 +3819,15 @@
               "max": 8
             },
             "playtime": {
-              "min": 20,
+              "min": 15,
               "max": 25
             },
             "family_friendly": "OPTIONAL",
             "audience": true,
+            "audience_description": "Глядачі можуть голосувати за вподобані варіанти.",
             "stream_friendly": "PLAYABLE",
             "moderation": "FULL_MODERATION",
+            "moderation_description": "З увімкненою опцією «Модерація» модератори, зайшовши на mod.jackbox.in.ua, зможуть вирішувати, що відображатиметься на екрані. Вони також можуть вигнати гравців з гри. За необхідності рекомендовано увімкнути опцію «Фільтр лихослів'я».",
             "subtitles": true,
             "type": "VERSUS",
             "translation": "ENGLISH",
@@ -3863,13 +3868,15 @@
               "max": 8
             },
             "playtime": {
-              "min": 15,
+              "min": 20,
               "max": 15
             },
-            "family_friendly": "OPTIONAL",
+            "family_friendly": "FAMILY_FRIENDLY",
             "audience": true,
+            "audience_description": "Глядачі можуть голосувати за те, хто найкраще підходить один одному, і нараховувати бали цій парі. Вони також можуть вгадувати, хто написав ті чи інші слова, і якщо їхня відповідь правильна, ця людина отримує бали.",
             "stream_friendly": "PLAYABLE",
             "moderation": "FULL_MODERATION",
+            "moderation_description": "З увімкненою опцією «Модерація» модератори, зайшовши на mod.jackbox.in.ua, зможуть вирішувати, що відображатиметься на екрані. Вони також можуть вигнати гравців з гри. За необхідності рекомендовано увімкнути опцію «Фільтр лихослів'я».",
             "subtitles": true,
             "type": "VERSUS",
             "translation": "ENGLISH",
@@ -3883,8 +3890,7 @@
               "game_images/MegaPals/MegaPals_4.png"
             ],
             "tags": [
-              "writing",
-              "deduction"
+              "writing"
             ]
           },
           "loader": {
@@ -3910,13 +3916,16 @@
               "max": 8
             },
             "playtime": {
-              "min": 15,
-              "max": 15
+              "min": 10,
+              "max": 20
             },
             "family_friendly": "OPTIONAL",
             "audience": true,
-            "stream_friendly": "PLAYABLE",
+            "audience_description": "Під час дебатів глядачі можуть голосувати разом з іншими учасниками. Вони також можуть голосувати за наступний несподіваний поворот у дебатах, який має обрати учасник (хоча остаточне рішення все одно залишається за цим учасником). Крім того, вони беруть участь у «Глядацьких дебатах» — по суті, це просто опитування, на які глядачі відповідають для розваги ще до початку власне дебатів.",
+            "stream_friendly": "MIDLY_PLAYABLE",
+            "stream_friendly_description": "Оскільки це дискусійна гра, рекомендується, щоб гравці могли принаймні чути один одного.",
             "moderation": "FULL_MODERATION",
+            "moderation_description": "З увімкненою опцією «Модерація» модератори, зайшовши на mod.jackbox.in.ua, зможуть вирішувати, що відображатиметься на екрані. Вони також можуть вигнати гравців з гри. За необхідності рекомендовано увімкнути опцію «Фільтр лихослів'я».",
             "subtitles": true,
             "type": "VERSUS",
             "translation": "ENGLISH",
@@ -3958,12 +3967,14 @@
             },
             "playtime": {
               "min": 15,
-              "max": 15
+              "max": 20
             },
             "family_friendly": "OPTIONAL",
             "audience": true,
+            "audience_description": "Глядачі можуть голосувати за вподобані відповіді.",
             "stream_friendly": "PLAYABLE",
             "moderation": "FULL_MODERATION",
+            "moderation_description": "З увімкненою опцією «Модерація» модератори, зайшовши на mod.jackbox.in.ua, зможуть вирішувати, що відображатиметься на екрані. Вони також можуть вигнати гравців з гри.",
             "subtitles": true,
             "type": "VERSUS",
             "translation": "ENGLISH",
@@ -4003,13 +4014,16 @@
               "max": 8
             },
             "playtime": {
-              "min": 15,
+              "min": 10,
               "max": 15
             },
             "family_friendly": "OPTIONAL",
             "audience": true,
-            "stream_friendly": "PLAYABLE",
+            "audience_description": "Глядачі можуть брати участь у грі, обираючи можливі варіанти відповідей, запропоновані однією з двох команд, і змагатися за власний особистий результат.",
+            "stream_friendly": "MIDLY_PLAYABLE",
+            "stream_friendly_description": "Оскільки це командна вікторина, рекомендується, щоб гравці могли принаймні чути один одного, щоб обговорити можливі варіанти відповідей. З огляду на те, що гра відбувається в режимі реального часу, для кращого досвіду рекомендується, щоб кожна команда перебувала в окремих голосових каналах або відеодзвінках.",
             "moderation": "FULL_MODERATION",
+            "moderation_description": "Ця гра не потребує модерації. Проте, з увімкненою опцією «Модерація» модератори, зайшовши на mod.jackbox.in.ua можуть вигнати гравців.",
             "subtitles": true,
             "type": "TEAM",
             "translation": "ENGLISH",
@@ -5112,7 +5126,8 @@
               "game_images/FakinItXL/fakinitxl_8.webp"
             ],
             "tags": [
-              "deduction"
+              "deduction",
+              "talking"
             ]
           },
           "loader": {
