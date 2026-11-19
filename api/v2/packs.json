@@ -2955,12 +2955,7 @@
         "file": "jbg.config.jet",
         "version_origin": "game_file",
         "version_file": "jbg.config.jet",
-        "version_property": "buildVersion",
-        "launcher_version_file": {
-          "steam": "jbg.config.jet",
-          "epic_games": "config.jet",
-          "native": "jbg.config.jet"
-        }
+        "version_property": "buildVersion"
       },
       "patchs": [],
       "store_links": {
@@ -3246,12 +3241,7 @@
         "file": "jbg.config.jet",
         "version_origin": "game_file",
         "version_file": "jbg.config.jet",
-        "version_property": "buildVersion",
-        "launcher_version_file": {
-          "steam": "jbg.config.jet",
-          "epic_games": "config.jet",
-          "native": "jbg.config.jet"
-        }
+        "version_property": "buildVersion"
       },
       "patchs": [],
       "store_links": {
@@ -3528,12 +3518,7 @@
       "configuration": {
         "version_origin": "game_file",
         "version_file": "jbg.config.jet",
-        "version_property": "buildVersion",
-        "launcher_version_file": {
-          "steam": "jbg.config.jet",
-          "epic_games": "jbg.config.jet",
-          "native": "jbg.config.jet"
-        }
+        "version_property": "buildVersion"
       },
       "resource_location": {
         "mac": "The Jackbox Party Pack 11.app/Contents/Resources/macos"
@@ -3804,16 +3789,15 @@
         "steam": "4199960",
         "epic": "9294aad1dcf845d5a800f309facae1f1"
       },
+      "loader": {
+        "path": "loaders/tjpp12/default.zip",
+        "version": "1.0.0"
+      },
       "configuration": {
         "file": "jbg.config.jet",
         "version_origin": "game_file",
         "version_file": "jbg.config.jet",
-        "version_property": "buildVersion",
-        "launcher_version_file": {
-          "steam": "jbg.config.jet",
-          "epic_games": "config.jet",
-          "native": "jbg.config.jet"
-        }
+        "version_property": "buildVersion"
       },
       "patchs": [],
       "store_links": {
@@ -3856,6 +3840,15 @@
               "writing"
             ]
           },
+          "loader": {
+            "path": "loaders/tjpp12/weforgotacard.zip",
+            "version": "1.0.0"
+          },
+          "launch_with_loaders":{
+            "steam":false,
+            "epic_games":true,
+            "native":true
+          },
           "patchs": []
         },
         {
@@ -3893,6 +3886,15 @@
               "writing",
               "deduction"
             ]
+          },
+          "loader": {
+            "path": "loaders/tjpp12/megapals.zip",
+            "version": "1.0.0"
+          },
+          "launch_with_loaders":{
+            "steam":false,
+            "epic_games":true,
+            "native":true
           },
           "patchs": []
         },
@@ -3932,6 +3934,15 @@
               "writing"
             ]
           },
+          "loader": {
+            "path": "loaders/tjpp12/debateandswitch.zip",
+            "version": "1.0.0"
+          },
+          "launch_with_loaders":{
+            "steam":false,
+            "epic_games":true,
+            "native":true
+          },
           "patchs": []
         },
         {
@@ -3968,6 +3979,15 @@
             "tags": [
               "drawing"
             ]
+          },
+          "loader": {
+            "path": "loaders/tjpp12/hyperface.zip",
+            "version": "1.0.0"
+          },
+          "launch_with_loaders":{
+            "steam":false,
+            "epic_games":true,
+            "native":true
           },
           "patchs": []
         },
@@ -4007,6 +4027,15 @@
               "talking"
             ]
           },
+          "loader": {
+            "path": "loaders/tjpp12/idolfactions.zip",
+            "version": "1.0.0"
+          },
+          "launch_with_loaders":{
+            "steam":false,
+            "epic_games":true,
+            "native":true
+          },
           "patchs": []
         }
       ],
@@ -4036,12 +4065,7 @@
       "configuration": {
         "version_origin": "game_file",
         "version_file": "jbg.config.jet",
-        "version_property": "buildVersion",
-        "launcher_version_file": {
-          "steam": "jbg.config.jet",
-          "epic_games": "config.jet",
-          "native": "jbg.config.jet"
-        }
+        "version_property": "buildVersion"
       },
       "patchs": [
         {
@@ -4957,6 +4981,10 @@
         "mac": "Trivia Murder Party 3.app/Contents/MacOS/TMP3",
         "linux": "Launcher.sh"
       },
+      "loader": {
+        "path": "loaders/tmp3/default.zip",
+        "version": "1.0.0"
+      },
       "configuration": {
         "version_origin": "game_file",
         "version_file": "config.dat",
@@ -5002,6 +5030,15 @@
             "tags": [
               "knowledge"
             ]
+          },
+          "loader":{
+            "path":"loaders/tmp3/triviamurderparty3.zip",
+            "version":"1.0.0"
+          },
+          "launch_with_loaders":{
+            "steam":true,
+            "epic_games":true,
+            "native":true
           },
           "patchs": []
         }
@@ -5080,7 +5117,7 @@
           },
           "loader": {
             "path":"loaders/fixl/fakinitxl.zip",
-            "version":"1.0.0"
+            "version":"1.0.2"
           },
           "launch_with_loaders": {
             "steam":true,
