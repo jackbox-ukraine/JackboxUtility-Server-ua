@@ -5008,6 +5008,90 @@
       ],
       "icon": "tmp3.ico",
       "background": "backgrounds/tmp3.jpg"
+    },
+        {
+      "id": "fixl",
+      "name": "Fakin' It! XL",
+      "description": "Розширена версія Fakin' It! з новими функціями, що випущена як окрема гра.",
+      "launchers_id": {
+        "steam": "5054700"
+      },
+      "executables": {
+        "windows": "Fakin It XL.exe",
+        "linux": "Launcher.sh"
+      },
+      "loader": {
+        "path": "loaders/fixl/default.zip",
+        "version": "1.0.0"
+      },
+      "configuration": {
+        "version_origin": "game_file",
+        "version_file": "jbg.config.jet",
+        "version_property": "buildVersion"
+      },
+      "patchs": [],
+      "store_links": {
+        "steam": "https://store.steampowered.com/app/5054700/Fakin_It_XL/",
+        "epic": "https://store.epicgames.com/p/fakin-it-xl-568932"
+      },
+      "games": [
+        {
+          "id": "fakinitxl",
+          "internal_name": "FakinItXL",
+          "name": "Fakin' It! XL",
+          "background": "game_backgrounds/FakinItXL.webp",
+          "path": "games/FakinItXL",
+          "game_info": {
+            "players": {
+              "min": 3,
+              "max": 8
+            },
+            "playtime": {
+              "min": 15,
+              "max": 20
+            },
+            "family_friendly": "OPTIONAL",
+            "audience": true,
+            "audience_description": "Глядачі намагаються вгадати, хто ж Дурисвіт, разом з гравцями.",
+            "stream_friendly": "PLAYABLE",
+            "stream_friendly_description": "Гра чудово працює під час трансляцій, якщо обрано дистанційний режим. Категорії адаптовані для гри під час трансляції або відеодзвінка.",
+            "moderation": "FULL_MODERATION",
+            "moderation_description": "З увімкненою опцією «Модерація» модератори, зайшовши на mod.jackbox.in.ua, зможуть вирішувати, що відображатиметься на екрані. За необхідності рекомендовано увімкнути опцію «Фільтр лихослів'я».",
+            "subtitles": true,
+            "type": "VERSUS",
+            "translation": "ENGLISH",
+            "tagline": "Зловіть підступного Дурисвіта!",
+            "small_description": "У Fakin' It XL Дурисвіт не отримує завдання й мусить викручуватися, як може. Заздалегідь вибирате грати в одній кімнаті чи дистанційно й отримуйте типи раундів, створені під свій варіант. Новий уміст і типи запитань, але ті самі відбріхування й допити, які ви обожнюєте.",
+            "description": "Одна з найулюбленіших ігор для вечірок Jackbox отримала свіже оновлення. У Fakin’ It XL гравці отримують прості вказівки на телефон чи інший пристрій. Наприклад: «підніми руку, якщо тобі хоч раз доводилося вдавати, що подобається небажаний подарунок». Наче нічого складного, правда? От тільки один гравець грає за Дурисвіта, тобто він вказівки не отримує й мусить удавти, ніби чудово розуміє, що відбувається. Ухвалюй швидкі рішення, щоб переконати всіх, що ти «в темі». А коли справжню вказівку буде розкрито, Удаваці треба підготувати переконливу відмазку, щоб виправдатися!\n\nГрупа має виявити Дурисвіта, ставлячи одне одному запитання стосовно відповідей, а завдання Дурисвіта — брехати в очі й переводити стрілки на когось іншого. Якщо зможеш пережити три кола допитів і не попастися, тоді отримаєш гору очок.\n\nМи взяли з Fakin' It, яку всі знають та люблять, типи раундів і вміст, а також запозичили структуру у Fakin' It All Night Long та додали свіжий вміст і нові типи запитань.\n\nІ тепер у цю гру можна грати не лише зібравшись в одному місці — ми додали новий режим, щоби було простіше й веселіше грати з друзями онлайн. На старті можна вибрати, граєш ти з кимось в одній кімнаті чи віддалено (на стримі або по відеодзвінку). Після цього стануть доступні типи раундів, підігнані під вибраний формат, тож грати разом буде зручно і поруч, і на відстані.",
+            "images": [
+              "game_images/FakinItXL/fakinitxl.mp4",
+              "game_images/FakinItXL/fakinitxl_1.webp",
+              "game_images/FakinItXL/fakinitxl_2.webp",
+              "game_images/FakinItXL/fakinitxl_3.webp",
+              "game_images/FakinItXL/fakinitxl_4.webp",
+              "game_images/FakinItXL/fakinitxl_5.webp",
+              "game_images/FakinItXL/fakinitxl_6.webp",
+              "game_images/FakinItXL/fakinitxl_7.webp",
+              "game_images/FakinItXL/fakinitxl_8.webp"
+            ],
+            "tags": [
+              "deduction"
+            ]
+          },
+          "loader": {
+            "path":"loaders/fixl/fakinitxl.zip",
+            "version":"1.0.0"
+          },
+          "launch_with_loaders": {
+            "steam":true,
+            "epic_games":true,
+            "native":true
+          },
+          "patchs": []
+        }
+      ],
+      "icon": "fixl.ico",
+      "background": "backgrounds/fixl.jpg"
     }
   ]
 }
